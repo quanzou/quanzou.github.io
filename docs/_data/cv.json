@@ -1,0 +1,63 @@
+{
+  "basics": {
+    "name": "Quan ZOU",
+    "label": "label",
+    "picture": "",
+    "email": "zouq'at'aol.com",
+    "phone":,
+    "website": "https://github.com/quanzou/",
+    "summary": "summary",
+
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "quanzou",
+        "url": "https://twitter.com/quanzou"
+      },
+      {
+        "network": "Linkin",
+        "username": "quanzou",
+        "url": "https://linkedin.com/in/quanzou"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "George Washington University",
+      "area": "Statistics",
+      "studyType": "Ph.D.",
+      "startDate": "2011-08-01",
+      "endDate": "2015-04-01",
+      "gpa": ,
+      "courses":
+    }
+  ],
+  "publications": [
+    {
+      "name": "Quan Zou",
+      "title": "The Generalized Relative Pairs IBD Distribution: Its Use in the Detection of Linkage",
+	  "journal": "Front. Public Health" , 
+	  "volume": "4", 
+	  "issue": , 
+	  "year": "2016", 
+	  "page": "259", 
+      "doi": "https://doi.org/10.3389/fpubh.2016.00259",
+      "url": "../assets/publications/fpubh-04-00259.pdf", 
+	  "icon": "pdf"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Chinese",
+      "fluency": "Native speaker"
+    }, 
+	{
+      "language": "Egnlish",
+      "fluency": "Fluent"
+    }, 
+	{
+      "language": "French",
+      "fluency": "Basic"
+    }
+  ]
+}

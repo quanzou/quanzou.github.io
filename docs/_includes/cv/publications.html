@@ -1,0 +1,25 @@
+{% if cv.publications %}
+  <div id="publications" class="entry">
+    <header class="entry-header">
+      <h3 class="entry-title">{{ site.data.theme.t.cv_publications | default: 'Publications' }}</h3>
+    </header>
+    
+	{% assign icon = 'icon-pdf.svg' %}
+    <div class="entry-content">
+      {% for p in cv.publications %}
+        {% if p.name or p.year or p.title or p.journal %}
+          <div class="article">
+            {{ p.name | append: ", " | append: p.year | append: ", " }} 
+			{{ p.title | append: ", " }}
+			<i>{{p.journal }}</i>{{", "}}
+			<b>{{p.volume}}</b>{% if p.issue %}{{"(" | append: p.issue | append: "):"}}{% else %}{{": "}}{% endif %}
+			{{ p.page}}{% if p.doi %}{{", " | append: p.doi | append: "."}}{% else %}{{"."}}{% endif %}
+			{% if p.url %}
+			  <a href="{{ p.url }}"><span class="icon">{% include {{icon}} %}</span></a>
+			{% endif %}
+          </div>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+{% endif %}

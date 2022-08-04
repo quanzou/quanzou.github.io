@@ -1,0 +1,107 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you: 
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: 清气上升 浊气下降 食归大肠 水入膀胱
+email: zouq@aol.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Cognition, Mathematical Statistics, Biostatistics 
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "quanzou.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+author:
+  name: Quan ZOU
+  picture: 
+twitter_username: quanzou
+github_username:  quanzou
+
+search: true
+search_full_content: true
+search_provider: algolia
+algolia:
+  application_id: 18CU70D2P0
+  index_name: blog
+  search_only_api_key: f92047907b02e91bf28a11116466b55d
+  powered_by: # true (default), false
+
+# Liquid
+liquid:
+  error_mode: strict 
+
+# Build settings
+markdown: kramdown
+kramdown:
+  math_engine: katex
+  math_engine_opts: {}
+# theme: entries are needed for ruby gem install
+#theme: minima
+#theme: jekyll-theme-basically-basic
+
+# remote_theme: entries are for GitHub-Pages build
+remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
+
+
+# Outputting
+permalink: /:categories/:title/
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-algolia
+  - jekyll-remote-theme
+
+# Jekyll Feed
+feed:
+  path: atom.xml
+
+# Pagination - https://jekyllrb.com/docs/pagination/
+paginate: 5
+paginate_path: /page:num/
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+# Front Matter Defaults
+defaults:
+  # _posts
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+      read_time: true
