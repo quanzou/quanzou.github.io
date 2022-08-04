@@ -21,7 +21,7 @@ title: 清气上升 浊气下降 食归大肠 水入膀胱
 email: zouq@aol.com
 description: >- # this means to ignore newlines until "baseurl:"
   Cognition, Mathematical Statistics, Biostatistics 
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: # the subpath of your site, e.g. /blog
 url: "quanzou.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 author:
   name: Quan ZOU
