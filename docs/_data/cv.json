@@ -23,17 +23,46 @@
   },
   "education": [
     {
-      "institution": "George Washington University",
+      "institution": "the George Washington University",
       "area": "Statistics",
       "studyType": "Ph.D.",
-      "startDate": "2011-08-01",
-      "endDate": "2015-04-01",
+      "startDate": "Sep, 2011",
+      "endDate": "Apr, 2015",
+      "gpa": ,
+      "courses":
+    }, 
+	{
+      "institution": "University of Nevada, Reno",
+      "area": "Mathematics",
+      "studyType": "MS",
+      "startDate": "Aug, 2009",
+      "endDate": "Jul, 2011",
+      "gpa": ,
+      "courses":
+    }, 
+	{
+      "institution": "Université Pierre et Marie Curie (Sorbonne Université)",
+      "area": "Cognition",
+      "studyType": "Ph.D",
+      "startDate": "Jan, 2003",
+      "endDate": "Apr, 2006",
       "gpa": ,
       "courses":
     }
   ],
   "publications": [
     {
+      "name": "Ron Waksman et. al.",
+      "title": "Identification of patients and plaques vulnerable to future coronary events with near-infrared spectroscopy intravascular ultrasound imaging: a prospective, cohort study",
+	  "journal": "The Lancet" , 
+	  "volume": "394", 
+	  "issue": "10209", 
+	  "year": "2019", 
+	  "page": "1629-1637", 
+      "doi": "https://doi.org/10.1016/S0140-6736(19)31794-5",
+      "url": "../assets/publications/waksman2019b.pdf"
+    }, 
+	{
       "name": "Quan Zou",
       "title": "The Generalized Relative Pairs IBD Distribution: Its Use in the Detection of Linkage",
 	  "journal": "Front. Public Health" , 
@@ -42,8 +71,18 @@
 	  "year": "2016", 
 	  "page": "259", 
       "doi": "https://doi.org/10.3389/fpubh.2016.00259",
-      "url": "../assets/publications/fpubh-04-00259.pdf", 
-	  "icon": "pdf"
+      "url": "../assets/publications/fpubh-04-00259.pdf"
+    }, 
+	{
+      "name": "Quan Zou, Alain Destexhe",
+      "title": "Kinetic models of spike-timing dependent plasticity and their functional consequences in detecting correlations",
+	  "journal": "Biological cybernetics" , 
+	  "volume": "97", 
+	  "issue": "1", 
+	  "year": "2007", 
+	  "page": "81-97", 
+      "doi": "https://doi.org/10.1007/s00422-007-0155-3",
+      "url": "../assets/publications/Correl2006.pdf"
     }
   ],
   "languages": [
