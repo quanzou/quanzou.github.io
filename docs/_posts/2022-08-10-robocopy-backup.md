@@ -3,7 +3,7 @@ layout: post
 title: "Robocopy Backup"
 toc: true
 categories:
-  - OS
+  - Tech
 tags:
   - robocopy
   - backup
