@@ -5,7 +5,8 @@ toc: true
 categories:
   - Tech
 tags:
-  - Game
+  - hardware
+  - linux
 date:   2007-12-20
 ---
 
