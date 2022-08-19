@@ -5,7 +5,7 @@ toc: true
 categories:
   - Tech
 tags:
-  - hardware
+  - software
   - linux
 date:   2007-08-08
 ---

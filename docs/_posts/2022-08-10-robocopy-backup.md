@@ -5,8 +5,7 @@ toc: true
 categories:
   - Tech
 tags:
-  - robocopy
-  - backup
+  - software
   - windows
 date:   2022-08-12 4:02:02 PM
 ---
