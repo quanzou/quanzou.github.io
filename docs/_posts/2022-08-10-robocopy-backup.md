@@ -91,7 +91,7 @@ Selected useful options:
 | /xj | Excludes junction points, which are normally included by default. |
 | /xjd | Excludes junction points for directories. |
 | /fft | assume FAT File Times (2-second granularity). |
-| a | b |
+
 
 An NTFS **junction point** is a symbolic link to a directory that acts as an 
 alias of that directory.  In Windows Explorer, a junction point looks like a 
@@ -123,10 +123,6 @@ each retry:
 ~~~console
 C:\Users\JohnDoe>Robocopy 'C:\Users\John' 'F:\TheBackup' /mir /xa:SH /xd AppData /xjd /r:5 /w:15
 ~~~
-
-| a | b |
-| a | b |
-| a | b |
 
 ### Logging options
 
