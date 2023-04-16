@@ -21,7 +21,7 @@ date:   2023-02-24 10:22:51 PM
 无不先选择一个时空坐标系，再建构一个象数模型，当输入了载有制约社会人生的已知特定信息符号后，
 由这个象数模型的变化来模拟和预测事物的真实变化，便可获得超前信息。
 
-## 基础术语
+## 象数基础
 
 学习《易经》，是一件持之以恒，穷究其理的事。学习64卦之前，要了解一些关于阴阳、八卦的基础知识和解卦的基础术语。
 
@@ -53,9 +53,56 @@ date:   2023-02-24 10:22:51 PM
 六十四卦的卦名：乾、坤、屯、蒙、需、讼、师，比、小畜、履、泰、否、…… **卦辞**是描述整体卦义的文辞，是一卦的整体断语。
 如乾卦的卦辞：元、亨、利、贞。
 
-#### 先天八卦方位
+### 图书与卦
 
-![yiching_01](https://bnz06pap002files.storage.live.com/y4mch-nT4coNDGDHHdDj1k81nckQ5Ok-Eh1FExHLeJhycwQX1n81oW_IR3Zh0brYQtOLoX-XBab7VTEz1nhda4U8teYmIIsRQZPtz1vsn7Ayp2XJK14uag61nJRa8I2U_TvXGco7wcuCQEBzWNVJiAiac8rImKpVmFqzPoTCTLy2zMi6QgLEKeRCpjJ3xPyXMQE?width=498&height=660&cropmode=none){: width="498" height="660"}
+河图与洛书是中国古代流传下来的两幅神秘图案，历来被认为是河洛文化的滥觞，中华文明的源头，太极阴阳四象五行八卦九宫皆可追溯于此，
+被誉为“宇宙魔方”。
+
+相传，上古伏羲氏时，洛阳东北孟津县境内的黄河中浮出龙马，背负“河图”，献给伏羲。伏羲依此而演成八卦，后为《周易》来源。
+又相传，大禹时，洛阳境内洛河中浮出神龟，背驮“洛书”，献给大禹。大禹依此治水成功，遂划天下为九州。
+又依此定九章大法，治理社会，流传下来收入《尚书》中，名《洪范》。《易·系辞上》说：“河出图，洛出书，圣人则之”，就是指这两件事。
+
+![yiching_01a](https://bnz06pap002files.storage.live.com/y4mpV0N5YFlAbuMJyAmdSrW5utPXyewr2ufHAp3qTydOHmIM9NzJ_3VRspMis9OlWRJgfa2s7iLNuiiDMJ9vxVLCLNVoxABfjeKO2mSkGgHe8-PL8QL5veeFTK5DJ9Bvsqp4R--H28A0bxY-BTjaaAV26fCY-kHw8DtPcOsTVl013nQhPCgc9W8Vy5haJO4iRBY?width=669&height=335&cropmode=none){: width="669" height="335"}
+
+**河图之象**用十个黑白圆点表示阴阳、五行、四象，其图为四方形。如下：
++ 北方：一个白点在内，六个黑点在外，表示玄武星象，五行为水。
++ 东方：三个白点在内，八个黑点在外，表示青龙星象，五行为木。
++ 南方：二个黑点在内，七个白点在外，表示朱雀星象，五行为火。
++ 西方：四个黑点在内，九个白点在外，表示白虎星象，五行为金。
++ 中央：五个白点在内，十个黑点在外，表示时空奇点，五行为土。
+
+（其中，单数为白点为阳，双数为黑点为阴。四象之中，每象各统领七个星宿，共二十八宿。）以上为《河图》。
+其中四象，按古人座北朝南的方位为正位就是：前朱雀，后玄武，左青龙，右白虎。此乃风水象形之源也。
+
+**河图之数**如下：
+　　
+1. 天地之数：河图共有10个数，1、2、3、4、5、6、7、8、9、10。其中1、3、5、7、9为阳，2、4、6、8、10为阴。
+阳数相加为25，阴数相加得30，阴阳相加共为55数。所以古人说：“天地之数五十有五”，即天地之数为55，“以成变化而行鬼神也”。
+即万物之数皆由天地之数化生而已。
+2. 万物生存之数：天一生水，地六成之；地二生火，天七成之；天三生木，地八成之；地四生金，天九成之；天五生土，地十成之。
+所以一为水之生数，二为火之生数，三为木之生数，四为金之生数，五为土之生数。六为水之成数，七为火之成数，八为木之成数，
+九为金之成数，十为土之成数。万物有生数，当生之时方能生；万物有成数，能成之时方能成。所以，万物生存皆有其数也。
+3. 五行之数：五行之数即五行之生数，就是水一、火二、木三、金四、土五，也叫小衍之数。一、三、五、为阳数，其和为九，故九为阳极之数。
+二、四为阴数，其和为六，故六为阴之极数。阴阳之数合而为15数，故化为洛书则纵横皆15数，乃阴阳五行之数也。
+4. 大衍之数：大衍之数50即五行乘土之成数10；同时也是天地之数的用数。天地之数55，减去小衍之数5得大衍之数50，
+其中小衍为天地之体数，大衍为天地之用数。所谓“大衍之数50其用49”，就是用大衍之数预测的占筮之法：以一为体，四十九为用，故其用四十又九。
+5. 天干交合之数：河图之数十，乃十天干之数也。交合之数为：一、六共宗，二、七同道，三、八为朋，四、九为友，五、十同德。
+正是万物生存之数。所以甲己合为一、六共宗，乙庚合为二、七同道，丙辛合为三、八为朋，丁壬合为四、九为友，戊癸合为五、十同德。
+十天干经交合之后，化为天干交合之五行，将河图五行之体化为天干五行之用。
+6. 六甲纳音之数：天地之数55加上五行之数5，合化为60甲子五行纳音之数。十天干之阴阳五行与万物相交，同气相求，
+同声相应各发出12种声音，无声无音不计，按河图北、东、南、西、中成象五位五行共60纳音。乃天地五行声音之数也。
+
+![yiching_01b](https://bnz06pap002files.storage.live.com/y4maGvwnWq3O_h9fX3HwqEzU9nY6QKAXH5lc2GGT9LwymYn3NFhEGLbLOtu4iq-EyJmy0T4GJuW7JNBE3civisFYRPM08PycILFynOkwtdxLjVv1Ro29UxxYV44pBfgdObYdKrl6CeHaT6RGpkjsm87Esb0BSLvdZrLIa5HYKpVSmDpu4VCRojzllwGax5YV48C?width=669&height=335&cropmode=none){: width="669" height="335"}
+
+**洛书之象**是将**河图**四方的两组阴数和阳数组成的五方图，旋转重叠而组成的，每方一个数纳地支十二气象，就是洛书之图了。
+只不过将火的2、7数与金的4、9数交换了位置，同时土五为中显用而寄八方，故为九星，土十则不显而藏于用。
+这样成：戴9履1，左3右7，4、2为肩，8、6为足，5居中央，九个数纵横交叉皆为十五数。 
+
+![yiching_01c](https://bnz06pap002files.storage.live.com/y4mx8UDzvC_RkerNvYM2FgEJ1nuUDqEYB4FoLz-aNLWTX3U09spG32dPmcPt8VT6Mi8_TtosD6vCQgLaXze9le5sDNyIU4KRExwohOiOPz9YOeuydUvQRydCEmOxKFgzd5ZAFPBMaxp_Kbfd8sNPgeQp-FPq27TlOPb_gH0P77f04gd5sEzvEimlY1h_Z5vcmn_?width=429&height=374&cropmode=none){: width="429" height="374"}
+
+#### 洛书与先天八卦方位
+
+![yiching_01c](https://bnz06pap002files.storage.live.com/y4mch-nT4coNDGDHHdDj1k81nckQ5Ok-Eh1FExHLeJhycwQX1n81oW_IR3Zh0brYQtOLoX-XBab7VTEz1nhda4U8teYmIIsRQZPtz1vsn7Ayp2XJK14uag61nJRa8I2U_TvXGco7wcuCQEBzWNVJiAiac8rImKpVmFqzPoTCTLy2zMi6QgLEKeRCpjJ3xPyXMQE?width=498&height=660&cropmode=none){: width="498" height="660"}
 
 > “天地定位，山泽通气，雷风相薄，水火不相射，八卦相错，数往者顺，知来者逆，是故易逆数也。”
 
@@ -65,17 +112,36 @@ date:   2023-02-24 10:22:51 PM
 从八卦卦爻明显看出，除乾坤两卦为纯阳纯阴卦外，震、坎、艮卦都是由一阳爻两阴爻组成，而且爻画均为五，为奇数，为阳，故此三卦为**阳卦**。
 巽、离、兑三卦都是由一阴爻两阳爻组成，而且爻画均为四，为偶数，为阴，故此一卦为**阴卦**。
 
-从上图我们可以看到先天八卦方位与先天卦数的排列形式：由乾一至震四，系由上而下，再由下而上旋至巽五；由巽五至坤八，
-又由上而下，其路线形成S形的曲线，这种运动方式称为“逆行”。在其S形的运动轨迹中，由乾至坤，
-是按先天卦数乾一、兑二、离三、震四、巽五、坎六、艮七、坤八排列的。这种从上而下，先左后右，由少至多的数字排列方式，
-称作“**逆数**”。反之，由坤至乾，由下而上，先右后左，由多至少的数字，形成“顺行”的方式，称作“**顺数**”。
+由阳仪所生（下爻为阳爻）四卦为乾、兑、离、震；由阴仪所生（下爻为阴爻）四卦为巽、坎、艮、坤。从上图我们可以看到先天八卦方位的排列顺序：
+阳仪四卦逆排（逆时针方向），阴仪四卦顺排（顺时针方向）。这种方向，称为**阳逆阴顺**。（注：途中数字只代表排列顺序，不代表挂数）
 
-按先天八卦，乾坤、艮兑、震巽、坎离为两两对待之本，每一对中都含有顺逆、奇偶、阴阳，即阴中含阳，阳中含阴，阴阳错综交变，
-矛盾对立统一，这就是先天八卦方位图中的辩证思想。在先天八卦图中，八卦是本着阴阳消长，顺逆交错，相反相成的宇宙生成自然之理。
+八卦**卦数**的求法如下：
+
+1. 八卦中下爻只能有四种情形：太阳「<b><font size = "6">⚌</font></b>」、少阴「<b><font size = "6">⚍</font></b>」 、
+少阳「<b><font size = "6">⚎</font></b>」 、太阴「<b><font size = "6">⚏</font></b>」，是为四象。
+依四象的序列得数，即太阳$$1$$，少阴$$2$$，少阳$$3$$，太阴$$4$$。如是四者即为“卦体”，依卦体始成八卦。
+2. 阳为生数，所以将四象数相加而为**本数**，即1＋2＋3＋4＝10，故阳卦以$$10$$为本数。
+阴为成数，因为四对生成数配偶，每对的差都是5（例如6—1＝5，7—2＝5等），所以阴卦以$$5$$为本数。
+3. 八卦**卦数**算法如下：
+
++ 乾「<b><font size = "6">☰</font></b>」以太阳为卦体（卦体上加一阳爻即成乾），太阳序数1．阳卦成数为10，于是10—1＝9，所以9就是乾的卦数。
++ 震「<b><font size = "6">☳</font></b>」以少阴为卦体（卦体上加一阴爻即成震），少阴序数2，阳卦成数为10，于是10—2＝8，所以8就是震的卦数。
++ 坎「<b><font size = "6">☵</font></b>」以少阳为卦体（卦体上加一阴爻即成坎），少阳序数3，阳卦成数为10，于是10—3＝7，所以7就是坎的卦数。
++ 艮「<b><font size = "6">☶</font></b>」以太阴为卦体（卦体上加一阳爻即成良），太阴序数4，阳卦成数为10，于是10—4＝6，所以6就是艮的卦数。
+
+如上为四阳卦。
+
++ 坤「<b><font size = "6">☷</font></b>」以太阴为卦体（卦体上加一阴爻即成坤），太阴序数4，阴卦生数为5，于是5—4＝1，所以1就是坤的卦数。
++ 巽「<b><font size = "6">☴</font></b>」以少阳为卦体（卦体上加一阳爻即成巽），少阳序数3，阴卦生数为5，于是5—3＝2，所以2就是巽的卦数。
++ 离「<b><font size = "6">☲</font></b>」以少阴为卦体（卦体上加一阳爻即成离），少阴序数2，阴卦生数为5，于是5—2＝3，所以3就是离的卦数。
++ 兑「<b><font size = "6">☱</font></b>」以太阳为卦体（卦体上加一阴爻即成兑），太阳序数1，阴卦生数为5，于是5—1＝4，所以4就是兑的卦数。
+
+如上为四阴卦。伏羲的先天卦位，即合洛书的图形，将卦数拍成九宫，中央填上5，那便是洛书九宫数，倘如再加上卦名，就是先天卦。
+由此可见，先天卦序即是象与数的先天配合，所谓先天，即是自然而然，不假造作。
 
 #### 八宫所属五行
 
-![yiching_02](https://bnz06pap002files.storage.live.com/y4mjIJxQTr_nD3BZUA7tzEAx0sF2PuxCwKXkbDTb_T1G80gMnyAxOn-n9VFSutnO0RZLMDP5ZBjg784wFN4ZNYJck8N0ashbZChdnnHATBnxHG52Pr9QpM0JrQcwTiTneQKvPtF0gls7vnrKSZrzGs8P1FqRZX0cnFn-RLhUUOKYNrOt4Aq1mv6BY5OMTa1rAAg?width=660&height=410&cropmode=none){: width="660" height="410"}
+![yiching_01d](https://bnz06pap002files.storage.live.com/y4mjIJxQTr_nD3BZUA7tzEAx0sF2PuxCwKXkbDTb_T1G80gMnyAxOn-n9VFSutnO0RZLMDP5ZBjg784wFN4ZNYJck8N0ashbZChdnnHATBnxHG52Pr9QpM0JrQcwTiTneQKvPtF0gls7vnrKSZrzGs8P1FqRZX0cnFn-RLhUUOKYNrOt4Aq1mv6BY5OMTa1rAAg?width=660&height=410&cropmode=none){: width="660" height="410"}
 
 中国古代思想家把水、火、木、金、土视为构成大自然万物的五种基本元素，合称“五行”。五行之间存在着相生相克的规律。
 相生，含有互相滋生，促进助长的意思。相克，含有互相制约、克制和抑制的意思。
@@ -90,9 +156,15 @@ date:   2023-02-24 10:22:51 PM
 
 如：土旺木衰，木受土克；木旺金衰，金受木克；水衰火旺，水受火克；土衰水旺，土受水克；金旺火衰，火受金克。这种逆克，叫反克，也称反侮。反侮，反过来欺侮原来克自己的一方。
 
+河图所显示的本来只是五行，因此八卦必须配合五行属性，才可以画成卦图，画出来的便是所谓后天卦序。
+
+![yiching_01e](https://bnz06pap002files.storage.live.com/y4m7RovJJj174gzr-_UdIDNnWT7uwUabAadxuioTPTVdeSdKTkngwW6q9f1v-hztaprBEviDjmJJFyn0tvszGUr3xGeXFSXsMxbimyrrE7kogPU94aE1jfQeMWxfva5nv8sTB--qACGR912NkPe9M8BFIS3d-xiVe9WOXbFhb8N8JpT_OdfWzO5mvNmsNcW-vGj?width=530&height=660&cropmode=none){: width="530" height="660"}
+
 > 乾、兑金。坤、艮土。震、巽木。坎水。离火。
 
-八卦各有自己的五行属性。乾、兑属金，坤、艮属土，震、巽属木，坎属水，离属火。
+八卦各有自己的五行属性。乾、兑属金，坤、艮属土，震、巽属木，坎属水，离属火。配合河图五行方位，坎水居北，离火居南，
+震、巽木居东，乾、兑金居西，坤、艮土居中。因为八卦要排列成圆图，所以艮居东北，坤居西南。依据说法不一，有说坤利西南，
+不利东北，也有“二八易位”的说法。后天卦图各卦的卦数，并不用八卦数，仍根据洛书九宫配数，这就是后天卦图的象与数。
 
 八卦的**卦气**，指的是八卦各有其五行属性之气，故而在不同的季节表现出衰旺不同的特征。
 
@@ -111,13 +183,13 @@ date:   2023-02-24 10:22:51 PM
 秋天金旺，属木的震巽木为旺多所克，故而卦气衰。冬天水旺，故属火的离卦为旺水所克，因此卦气衰。
 逢四季最后一月，即辰月、戌月、丑月、未月，土卦卦气旺，故属水的坎卦为旺土所克，故而卦气衰。
 
+### 六十四卦的排序图
+
 下面总结一些六十四卦的排序图：
 
 #### 伏羲先天六十四卦方图
 
 ![yiching_03](https://bnz06pap002files.storage.live.com/y4m6sa9emuxlABuVCCYVAFUS5xUQ1B3jHPukMGAmOvaorAE2Etk9qcxBclIQxrIOdKDGxVIHZH8BORH1np18g3QznctkohWaVFKlTBN8xb6_1WbLT1js28ag5J9G2b98mkh00IMw33FtCKLwia8WE8RQnmdqW8OvWF8gnO7SJwXOFr32Xpxx5N1atGgfcJfNMvn?width=1024&height=974&cropmode=none){: width="1024" height="974"}
-
-
 
 《宋元学案》称为“方图四分四层图”：把六十四卦圆图，依演化顺序分成八等分，由坤卦起依次排列，形成一个八乘八的方阵。
 表中括号内数字是周易后天六十四卦《易经》卦象序号， 符号下方的是伏羲先天六十四卦卦象演化序号。
@@ -223,7 +295,7 @@ date:   2023-02-24 10:22:51 PM
 把一个卦颠倒过来看，则变成了另外一个卦，变出来的这个新卦叫**综卦**。显而易见纯卦颠倒后，仍是本卦，所以纯卦没有综卦。
 剩下的56卦可以组成28对综卦，如下表：
 
-![yiching_05](https://bnz06pap002files.storage.live.com/y4mAcOLHXrTeDEZlgZWWjaB4F5o9uYuxUtVGhUvrvAhBwMWj1Z9WgEf4ddNxU5tFjmkgPFMDqi3xpzR4PWF7mEycaf_wZ_4R3Zz9x9eaRbPeaQSIXH9JX_xNvit4Y9MdqJhLywrnSzxRdkbwia2cAyw01m-6KZvInibFjBM6ieaV2dnJ6wIe-B0tPvGudAoTHiH?width=660&height=588&cropmode=none
+![yiching_05](https://bnz06pap002files.storage.live.com/y4mlhBNALFXE1HFJUmGXtc5O5jCKcTRhcQgUE5NmVDkCzib6cn26SV5q30is8HywwQSUPoe6rV7_E3TjvcRL-pUJAU6Ev5deeDK33ok7MRwTfXI0Zq-FmtVtKITDrhpkVZD0fmKvJhwF251zwfrwLF6MrZlQHHCBV0SVQ6KFZ8yXnW19tEmncckgF_Wt5dGcTsy?width=660&height=588&cropmode=none
 ){: width="660" height="588"}
 
 卦当中一个爻变，阴爻变阳爻，阳爻变阴爻，形成的一个新的卦称作**变卦**。我们以乾卦「<b><font size = "6">䷀</font></b>」为例，
@@ -741,10 +813,14 @@ $$5$$因为是$$4$$的$$1$$倍而为奇，$$9$$因为是$$4$$的$$2$$倍而为�
 
 ## 参考文献
 
++ 河圖洛書。[https://zh.wikipedia.org/wiki/河圖洛書](https://zh.wikipedia.org/wiki/河圖洛書){: target="_blank"}.
+{: id="refe"} 
 + 六十四卦。[https://zh.wikipedia.org/wiki/六十四卦](https://zh.wikipedia.org/wiki/六十四卦){: target="_blank"}.
 {: id="refa"} 
 + 易经。[https://zh.wikipedia.org/zh-hans/易经](https://zh.wikipedia.org/zh-hans/易经){: target="_blank"}.
 {: id="refb"}
 + 中国哲学书电子化计划：《周易》。[https://ctext.org/book-of-changes/zhs](https://ctext.org/book-of-changes/zhs){: target="_blank"}.
 {: id="refc"} 
-+ 梅花易数讲义, 邵雍（原著），郑同，华龄出版社出版，2009年4月1日。
++ 梅花易数讲义，邵雍（原著），郑同，华龄出版社，2009年4月1日。
+{: id="refd"} 
++ 周易象数例解，王亭之，复旦大学出版社，2013年3月。
