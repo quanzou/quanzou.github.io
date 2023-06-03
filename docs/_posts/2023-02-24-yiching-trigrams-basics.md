@@ -292,7 +292,17 @@ date:   2023-02-24 10:22:51 PM
 
 ![yiching_04](https://bnz06pap002files.storage.live.com/y4m0fgxi_LlY3grIFpEQRP24W11PvPSgAR4NAZO8upj6YE-ZWuJ0eiFAzNtiZ8PKIZl5mHN2MMP8cYzTRNKTHJ1BKQ8AGgP7s5sZfD0ANpmxvhZXmbW10X3GotObGEwPLfJj-2D99KZ1BJw-4gnCBW_WTo5CDTV3N5zRQOh6H3axY8entBA6nknUA834sJwcyKJ?width=660&height=588&cropmode=none){: width="660" height="588"} 
 
-把一个卦颠倒过来看，则变成了另外一个卦，变出来的这个新卦叫**综卦**。显而易见纯卦颠倒后，仍是本卦，所以纯卦没有综卦。
+把一个卦颠倒过来看，则变成了另外一个卦，变出来的这个新卦叫**综卦**。六十四卦能够互为综卦的，只有二十八对。
+因为六十四卦中有八个卦，上下互为镜像，颠倒过来仍没变化，它们分别是：乾「<b><font size = "6">䷀</font></b>」、
+坤「<b><font size = "6">䷁</font></b>」、
+离「<b><font size = "6">䷝</font></b>」、
+坎「<b><font size = "6">䷜</font></b>」、
+泽风大过<b><font size = "6">䷛</font></b>、
+雷山小过<b><font size = "6">䷽</font></b>、
+山雷颐<b><font size = "6">䷚</font></b>、
+风泽中孚<b><font size = "6">䷼</font></b>。
+也就是说，这八个卦不能变成综卦。
+综卦，表示自然界万物万事“此消彼长，彼消此长”，密不可分的关联性。
 剩下的56卦可以组成28对综卦，如下表：
 
 ![yiching_05](https://bnz06pap002files.storage.live.com/y4mlhBNALFXE1HFJUmGXtc5O5jCKcTRhcQgUE5NmVDkCzib6cn26SV5q30is8HywwQSUPoe6rV7_E3TjvcRL-pUJAU6Ev5deeDK33ok7MRwTfXI0Zq-FmtVtKITDrhpkVZD0fmKvJhwF251zwfrwLF6MrZlQHHCBV0SVQ6KFZ8yXnW19tEmncckgF_Wt5dGcTsy?width=660&height=588&cropmode=none
