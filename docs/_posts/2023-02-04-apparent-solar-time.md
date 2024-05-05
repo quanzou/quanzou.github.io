@@ -4,9 +4,9 @@ title: "真太阳时"
 katex: True
 toc: true
 categories:
-  - Math
+  - Culture
 tags:
-  - culture
+  - ziwei
 date:   2023-02-04 12:52:28 PM
 ---
 

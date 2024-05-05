@@ -4,9 +4,9 @@ title: "八卦基础和筮法"
 katex: True
 toc: true
 categories:
-  - Math
+  - Culture
 tags:
-  - culture
+  - yiching
 date:   2023-02-24 10:22:51 PM
 ---
 

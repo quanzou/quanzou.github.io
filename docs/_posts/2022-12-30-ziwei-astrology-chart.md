@@ -4,9 +4,9 @@ title: "紫薇斗数排盘"
 katex: True
 toc: true
 categories:
-  - Math
+  - Culture
 tags:
-  - culture
+  - ziwei
 date:   2022-12-30 1:37:39 PM
 ---
 

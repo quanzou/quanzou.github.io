@@ -4,9 +4,9 @@ title: "易经全文及白话翻译"
 katex: True
 toc: true
 categories:
-  - Math
+  - Culture
 tags:
-  - culture
+  - yiching
 date:   2023-06-02 10:47:38 PM
 ---
 该白话翻译摘自由黄寿祺、张善文译注的《周易译注》（全两册），由上海古籍出版社在2007年出版发行(ISBN:978-7-5325-4646-6)。
