@@ -10,7 +10,7 @@ tags:
 date:   2024-05-07 09:30:24 PM
 ---
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/avalokitesvara_250x363.png){: .align-left} The Nīlakaṇṭha Dhāraṇī, also known as the Mahākaruṇā(-citta) Dhāraṇī, 
+![avalokitesvara]({{ site.url }}{{ site.baseurl }}/assets/images/avalokitesvara_250x363.png){: .align-left} The Nīlakaṇṭha Dhāraṇī, also known as the Mahākaruṇā(-citta) Dhāraṇī, 
 Mahākaruṇika Dhāraṇī or Great Compassion Dhāraṇī/Mantra. 
 The vulgate version is one of the three basic sutras of the Zen school of 
 Buddhism in China, Korea and Japan. It is the shortest version and is the only 
@@ -29,8 +29,6 @@ Ji. Jiun Sonja'text in Siddham 慈云尊者
 Ko. Korean Tripiṭaka text 
 A bilingual text from China (Tibten and Chinese). 
 
-
-
 Mantras in ancient times were generally transcribed for their sound rather 
 than translated for their meaning. Individual syllables or words often have 
 significant historical anecdotes or multiple meanings, which cannot be fully 
@@ -43,7 +41,6 @@ or articles explaining the content of the Great  Compassion Mantra, so merely
 looking at the literal meaning of the provided mantra translations is insufficient. 
 This article does not represent the opinions of the translator, editor, or website, 
 and is for reference only.
-
 
 ## Reconstructed Sanskrit Text
 
