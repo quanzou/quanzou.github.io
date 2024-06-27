@@ -520,8 +520,45 @@ masculine nouns in **अ**, neuter nouns in **अ**, feminine nouns in **आः*
 Some adjectives forming their masculine in **अ**, form their feminine in **ई**.
 
 |:---:|:---:|
-|<b><font size = "6">	सुन्दरः वृक्षः	</font></b>		|A beautiful tree (M)|
-|<b><font size = "6">	सुन्दरी लता	</font></b>		|A beautiful wine (F)|
+|<b>सुन्दरः वृक्षः</b>		|A beautiful tree (M)|
+|<b>सुन्दरी लता</b>		|A beautiful vine (F)|
+
+### Numbers
+
+| :-: | :-: | :-: | :-: | :-: |
+|Cardinal|Ordinal|Fem.|+10s$$^*$$|10. **१०**|20. **२०**|30. **३०**|40. **४०**|50. **५०**|
+|0. **० - शून्य**|--|--|--|**दशन्**|**विंशति**|**त्रिंशत्**|**चत्वारिंशत्**|**पञ्चाशत्**|
+|1. **१ - एक**|**प्रथम**|**प्रथमा**|**एक**|**एका-दशन्**|**एक-विंशति**|**एक-त्रिंशत्**|**एक-चत्वारिंशत्**|**एक-पञ्चाशत्**|
+|2. **२ -  द्वि**|**द्वितीय**|**द्वितीया**|**द्वा**|**द्वा-दशन्**|**द्वा-विंशति**|**द्वा-त्रिंशत्**|**द्वि-चत्वारिंशत्**|**द्वि-पञ्चाशत्**|
+|3. **३ - त्रि**|**त्रितीय**|**त्रितीया**|**त्रयः**|**त्रयो-दशन्**|**त्रयो-विंशति**|**त्रयस्-त्रिंशत्**|**त्रि-चत्वारिंशत्**|**त्रि-पञ्चाशत्**|
+|4. **४ - चतुर्**|**चतुर्थ**|**चतुर्थी**|**चतुर्/चतुः**|**चतुर्-दशन्**|**चतुर्-विंशति**|**चतस्-त्रिंशत्**|**चतुश्-चत्वारिंशत्**|**चतुः-पञ्चाशत्**|
+|5. **५ - पञ्चन्**|**पञ्चम**|**पञ्चमी**|**पञ्च**|**पञ्च-दशन्**|**चतुर्-विंशति**|**पञ्च-त्रिंशत्**|**पञ्च-चत्वारिंशत्**|**पञ्च-पञ्चाशत्**|
+|6. **६ - षष्**|**षष्ठ**|**षष्ठी**|**षट्**|**षो-डशन्**|**षड्-विंशति**|**षट्-त्रिंशत्**|**षट्-चत्वारिंशत्**|**षट्-पञ्चाशत्**|
+|7. **७ - सप्तन्**|**सप्तम**|**सप्तमी**|**सप्त**|**सप्त-दशन्**|**सप्त-विंशति**|**सप्त-त्रिंशत्**|**सप्त-चत्वारिंशत्**|**सप्त-पञ्चाशत्**|
+|8. **८ - अष्टन्**|**अष्टम**|**अष्टमी**|**अष्टा**|**अष्टा-दशन्**|**अष्टा-विंशति**|**अष्टा-त्रिंशत्**|**अष्ट-चत्वारिंशत्**|**अष्ट-पञ्चाशत्**|
+|9. **९ - नवन्**$$^\dag$$|**नवम**|**नवमी**|**नव**|**नव-दशन्**|**नव-विंशति**|**नव-त्रिंशत्**|**नव-चत्वारिंशत्**|**नव-पञ्चाशत्**|
+
+|60. **६०**|70. **७०**|80. **८०**|90. **९०**|100. **१००**|
+|**षष्टि**|**सप्तति**|**अशीति**|**नवति**|**शतम्**|
+|**एक-षष्टि**|**एक-सप्तति**|**एकाशीति**|**एक-नवति**|**एकाधिकं शतम्**|
+|**द्वि-षष्टि**|**द्वि-सप्तति**|**द्व्यशीति**|**द्वि-नवति**|**द्व्यधिकं शतम्**|
+|**त्रि-षष्टि**|**त्रि-सप्तति**|**त्र्यशीति**|**त्रि-नवति**|**त्र्यधिकं शतम्**|
+|**चतष-षष्टि**|**चतुस्-सप्तति**|**चतरशीति**|**चतुर्-नवति**|**चतुरधिकं शतम्**|
+|**पञ्च-षष्टि**|**पञ्च-सप्तति**|**पञ्चाशीति**|**पञ्च-नवति**|**पञ्चाधिकं शतम्**|
+|**षट्-षष्टि**|**षट्-सप्तति**|**षडशीति**|**षण्-णवति**|**षडधिकं शतम्**|
+|**सप्त-षष्टि**|**सप्त-सप्तति**|**सप्ताशीति**|**सप्त-नवति**|**सप्ताधिकं शतम्**|
+|**अष्ट-षष्टि**|**अष्ट-सप्तति**|**अष्टाशीति**|**अष्ट-नवति**|**अष्टाधिकं शतम्**|
+|**नव-षष्टि**|**नव-सप्तति**|**नवाशीति**|**नव-नवति**|**नवाधिकं शतम्**|
+
+$$^*$$ exceptions: 11-**एका**, 82-**द्वि**, 83-**त्रि**, 16-**षो**; options: 42-92 **द्वा/द्वि**, 43-93 **त्रयः/त्रि**, 
+48-98 **अष्टा/अष्ट**. 
+
+$$^\dag$$ **एकोन** (ekona) means "one less"; **ऊन** (ūna) means "less" or "minus". 
+19. **एकोन-/ऊन-विंशति**, 29. **एकोन-/ऊन-त्रिंशत्**, 39. **एकोन-/ऊन-चत्वारिंशत्**, 49. **एकोन-/ऊन-पञ्चाशत्**, 59. **एकोन-/ऊन-षष्टि**, 
+69. **एकोन-/ऊन-सप्तति**, 79. **एकोनाशीति/ऊनाशीति**, 89. **एकोन-/ऊन-नवति**, 99. **एकोन-/ऊन-शतम्**. 
+
+Numbers between 100~200, 200~300 etc. are expressed by **अधिक** (plus) added to the 
+number 1~99. 
 
 ## Pronouns
 
@@ -591,10 +628,10 @@ gender (masculine/feminine/neuter) and number (s/d/p) and case, then they become
 the **demonstrative** pronouns: "that/this".
 
 |:---:|:---:|
-|<b><font size = "6">	स/एष* नरः बोधति।	</font></b>		|that/this man knows|
-|<b><font size = "6">	तं/एतं नरं बोधामि।	</font></b>		|I know that/this man|
-|<b><font size = "6">	सा/एषा नारी तन्र वसति।	</font></b>		|that/this woman lives there (तन्र)|
-|<b><font size = "6">	तां/एतां नारीं स्मरामि ।	</font></b>		|I remember that/this man|
+|<b>स/एष* नरः बोधति।</b>		|that/this man knows|
+|<b>तं/एतं नरं बोधामि।</b>		|I know that/this man|
+|<b>सा/एषा नारी तन्र वसति।</b>		|that/this woman lives there (तन्र)|
+|<b>तां/एतां नारीं स्मरामि ।</b>		|I remember that/this man|
 
 *Note that **स्** becomes **ष्** after any vowel except **अ** or **आ**; **एषः** and **सः** always drop
 virsarga (**ः**) unless in the final position.
@@ -611,12 +648,12 @@ If the letter **क्** were placed before the 3rd person pronoun endings, the
 |Direct Object/Singular|<b><font size = "6">	कम्	</font></b>kam|<b><font size = "6">	काम्	</font></b>kām|<b><font size = "6">	किम्	</font></b>tat|
 
 |:---:|:---:|
-|<b><font size = "6">	कः  बोधति ।	</font></b>|Who(he) knows?|
-|<b><font size = "6">	कः नरः बोधति ।	</font></b>|which man knows?|
-|<b><font size = "6">	किं योगः भवति ।	</font></b>|What is Yoga?|
-|<b><font size = "6">	योग किं बोधति।	</font></b>|Do you know Yoga? (किं is question indicator)|
-|<b><font size = "6">	का न बोधति ।	</font></b>|Who(she) doesn't know?|
-|<b><font size = "6">	का नारी तन्र वसति।	</font></b>|which woman lives there (तन्र)|
+|<b>कः  बोधति ।</b>|Who(he) knows?|
+|<b>कः नरः बोधति ।</b>|which man knows?|
+|<b>किं योगः भवति ।</b>|What is Yoga?|
+|<b>योग किं बोधति।</b>|Do you know Yoga? (किं is question indicator)|
+|<b>का न बोधति ।</b>|Who(she) doesn't know?|
+|<b>का नारी तन्र वसति।</b>|which woman lives there (तन्र)|
 
 ### Relative Pronouns
 
@@ -635,10 +672,10 @@ subject and direct object singular endings:
 |Direct Object/Singular|<b><font size = "6">	यम्	</font></b>yam|<b><font size = "6">	याम्	</font></b>yām|<b><font size = "6">	यत्	</font></b>yat|
 
 |:---:|:---:|
-|<b><font size = "6">	यः स्वरूपं बोधति - तं नमामि ।	</font></b>|who knows his own form - I respect him.|
-|<b><font size = "6">	यं नमसि - तस्मिन् देवं पश्यसि ।	</font></b>|whom(ever) you respect - in him you see God|
-|<b><font size = "6">	या देवी सर्वेषु भूतेषु भवति - नमः तस्यै  ।	</font></b>|Which goddess in all beings is - salutation to her.|
-|<b><font size = "6">	याम् नारीं  पश्यसि - तस्यां देवी वसति ।	</font></b>|Which(ever) woman you see - in her the goddess dwells.|
+|<b>यः स्वरूपं बोधति - तं नमामि ।</b>|who knows his own form - I respect him.|
+|<b>यं नमसि - तस्मिन् देवं पश्यसि ।</b>|whom(ever) you respect - in him you see God|
+|<b>या देवी सर्वेषु भूतेषु भवति - नमः तस्यै  ।</b>|Which goddess in all beings is - salutation to her.|
+|<b>याम् नारीं  पश्यसि - तस्यां देवी वसति ।</b>|Which(ever) woman you see - in her the goddess dwells.|
 
 ## Verbs
 
@@ -697,7 +734,7 @@ Some examples for verbal roots (bases):
 |**रक्ष्** protect|**रुह् (रोह्)** grow|**वस्** dwell, inhabit|**शंस्** praise|**सद् (सीद्)** sit|**सह्** endure, suffer|**स्मि (स्मय्)** smile||||
 |**स्था (तिष्ठ्)** stand, remain|**स्मृ (स्मर्)** remember|**हृ (हर्)** take away(hṛ)|||
 
-Note:When a verbal base is not given, it is the same as the root.
+Note: When a verbal base is not given, it is the same as the root.
 
 The endings of the $$1^{st}$$ gaṇa verbs:
 
@@ -726,16 +763,14 @@ is conjugated is called a *radical* vowel.
 
 | :-: | :-: | :-: | :-: |:-: | :-: | :-: |
 || |Parasmaipadī| | |Ātmanepadī| |
-|**past**|S|D|P|S|D|P|
+|**past** (imperfect)|S|D|P|S|D|P|
 |3rd person|<b><font size = "6">	अत्	</font></b>at|<b><font size = "6">	अताम्	</font></b>atām|<b><font size = "6">	अन्	</font></b>an|<b><font size = "6">	अत	</font></b>ata|<b><font size = "6">	एताम्	</font></b>etām|<b><font size = "6">	अन्त	</font></b>anta|
 |2nd person|<b><font size = "6">	अः	</font></b>aḥ|<b><font size = "6">	अतम्	</font></b>atam|<b><font size = "6">	अत	</font></b>ata|<b><font size = "6">	अथाः	</font></b>athāḥ|<b><font size = "6">	एथाम्	</font></b>ethām|<b><font size = "6">	अध्वम्	</font></b>adhvam|
 |1st person|<b><font size = "6">	अम्	</font></b>am|<b><font size = "6">	आव	</font></b>āva|<b><font size = "6">	आम	</font></b>āma|<b><font size = "6">	ए	</font></b>e|<b><font size = "6">	आवहि	</font></b>āvahi|<b><font size = "6">	आमहि	</font></b>āmahi|
 
-
-
 There are three past tense in Sanskrit: the Imperfect (**लङ्**), the Perfect (**लिट्**)
 and the Aorist (**लुङ्**).  To all verbs conjugated in the imperfect tense, the **augment** 
-**आ** is to be prefixed to the base. e.g., **आविशत्** (he entered,P); **लभ्** (he obtained, A). 
+**आ** is to be prefixed to the base. e.g., **आविशत्** (he entered,P); **अलभत** (he obtained, A). 
 
 When the verb begins with a vowel, the augment **आ** forms *vṛddhi* with the 
 initial vowel. **आ-इच्छत् = ऐच्छत्** (he desired); **आ-उज्झ = औज्झन्** (they abandoned); 
@@ -769,7 +804,80 @@ Note that * denotes verbs with irregular bases.
 |6th|<b><font size = "6">-</font></b>|<b><font size = "6">-</font></b>|<b><font size = "6">-</font></b>|<b><font size = "6">-</font></b>|<b><font size = "6">-</font></b>|<b><font size = "6">+</font></b>|
 |10th|<b><font size = "6">+</font></b>|<b><font size = "6">-</font></b>|<b><font size = "6">+</font></b>|<b><font size = "6">-</font></b>|<b><font size = "6">+</font></b>|<b><font size = "6">+</font></b>|
 
-	
+### The Passive Voice
+
+1. The passive voice is formed from the **verbal root** and **not** from the 
+**verbal base**, except for the 10th verb conjugation which keep their strengthened 
+radical vowel but losing the conjugational sign **अय्**.   
+e.g., the passive voice of **गम्** (go, 1P), **नी** (lead, 1P) is formed immediately 
+from **गम्**,   **नी** and **not** from their bases **गच्छ** and **नय्**; That of **चुर्** (steal, 10P) 
+is formed from **चोर** and not from base **चोरय्**. 
+2. **य** is added to the root.  
+That **य** becomes **या** before terminations beginning with **म्** and **व्**.  
+That **य** becomes **य्** before terminations beginning with **अ** and **ए**. 
+3. The terminations of the passive voice are always the Ātmanepadī terminations:  
+e.g., **नी-य-ध्वे = नीयध्वे**, you are lead. **दह्-य-ताम्=दत्यताम्**, let it be burnt (the imperative 
+form in the passive voice). 
+4. A final short **इ** or **उ** is lengthened. **जि-जीयावहे** we two are conquered; 
+**श्रु-अश्रूयत** it was heard. 
+5. The roots **दा, धा, मा, गै, हा, पा, स्था** change their final vowel into **ई**. **दा-दीयते** it is given; 
+**गै-गीयेत** it should be sung. 
+6. Final **ऋ** (ṛ) after a single consonant becomes **रि**. **ह्र-ह्रिये**, I am taken away; 
+after a compound consonants, final **ॠ** becomes **आर**. **स्मृ-स्मर्-य-ईताम् =स्मर्येताम्**, let them 
+both be remembered (the imperative mood in the passive voice). 
+7. Final **ॠ** (ṝ) is changed to **ईर्**, **स्तॄ-स्तीर्-य-ईरन्=स्तीर्येरन्** they should be spread (optative 
+mood in the passive voice); but final  **ॠ** (ṝ) is changed to **ऊर्** after a labial, 
+**पॄ-पूर्-य-ताम्=पूर्यताम्** let it be filled. 
+
+The following examples compare the 1st, 4th, 6th and 10th the 3rd person single 
+present/past(imperfect) conjugations between the Active and Passive voice. 
+
+| :-: | :-: | :-: | :-: | :-: | :-: |:-: |
+|||Active (3rd S)|||Passive (3rd S)||
+|root|base|present tense Ā|past tense Ā|base|present tense|past tense|
+|**मुद्** (1Ā) enjoy|**मोद्**|**मोदते**|**अमोदत**|**मुद्य्**|**मोद्यते**|**अमोद्यत**|
+|**युध्** (4Ā) fight|**युध्य्**|**युध्यते**|**अयुध्यत**|**युध्य्**|**युध्यते**|**अयुध्यत**|
+|**क्षिप्** (6Ā) throw|**क्षिप्**|**क्षिपते**|**अक्षिपत**|**क्षिप्य्**|**क्षिप्यते**|**अक्षिप्यत**|
+|**मृग्** (10Ā) seek|**मृगय्**|**मृगयते**|**अमृगयत**|**मृग्य्**|**मृग्यते**|**अमृग्यत**|
+
+Many passive verbs such as **युध्** fight are used only in a 3rd person *impersonal* 
+form (it). *I am fought* makes no sense. Also notice that the **Active** and 
+**Passive** forms of this verb are the same. Most 4th conjugation verbs occur as 
+Parasmaipadī, where they are Active. When they are Ātmanepadī, they are generally 
+Passive. Therefore this ambiguity rarely occurs, but if it should, the difference 
+could be told by context. 
+
+|:---:|:---:|
+|<b>वीरः युद्धे अयुध्यत।</b>|The hero in the battle fought|
+|<b>युद्धं वीरेण अयुध्यत।</b>|The battle by the hero was fought|
+|<b>वीराः युद्धे अयुध्यन्त।</b>|The heroes in the battle fought|
+|<b>युद्धानि वीरेण अयुध्यन्त।</b>|The battles by the hero were fought|
+|<b>नृपः अजयत् अरीन् (नृपोऽरीनजयत्)।</b>|The king conquered the enemies|
+|<b>नृपेण अजीयन्त अरयः (नृपेणारयोऽजीयन्त)।</b>|By the king were conquered the enemies|
+|<b>युवाभ्यां कूपो रक्ष्येत।</b>|By you two the well should be protected|
+|<b>युवां कूपं रक्षेतम्।</b>|You two the well should protect|
+
+Vocabulary of Verbs root and their bases (active/passive):
+
+| :-: | :-: | :-: | :-: | :-: |
+||1st|4th|6th|10th|
+|Parasmaipadī|**अर्च् (अर्च्/अर्च्य्)** worship|**दुह् (दुह्य्/दुह्य्)** bear malice|**कृत् (कृत्/कृत्य्)** cut||
+||**चुम्ब् (चुम्ब्/चुम्ब्य्)** kiss|**शिलष् (शिलष्य्/शिलष्य्)** embrace|**सृज् (सृज्/सृज्य्)** create||
+||**तप् (तप्/तप्य्)** heat||||
+||**शुच् (शोच्/शुच्य्)** grieve for||||
+|Ātmanepadī|**ईक्ष् (ईक्ष्/ईक्ष्य्)** see|**मन् (मन्य्/मन्य्)** think||**मृग् (मृग्य्/मृग्य्)** seek|
+||**आरभ् (आरभ्/आरभ्य्)** begin|**सू (सूय्/सूय्)** bring forth|||
+||**भिक्ष् (भिक्ष्/भिक्ष्य्)** beg||||
+||**शिक्ष् (शिक्ष्/शिक्ष्य्)** learn|||
+|Ubhayapaī (P&Ā)|**नी (नय्/नीय्)** lead|**नह् (नह्य्/नह्य्)** tie|**क्षिप् (क्षिप्/क्षिप्य्)** throw|**कथ् (कथय्/कथ्य्)** tell|
+||**बुध् (बोध्/बुध्य्)** know||**दिश् (दिश्/दिश्य्)** show|**रच् (रचय्/रच्य्)** arrange| 
+|||||**तृप् (तर्पय्/तर्प्य्)** please|
+|||||**पाल् (पालय्/पाल्य्)** protect|
+|||||**दण्ड् (दण्डय्/दण्ड्य्)** punish|
+
+Most verbs of the 10th Gaṇa are Ubhayapaī. The 10th conjugation verbs keep their 
+base strengthening in Passive. For the irregular formation of the passive voice, 
+refer to No. 71 **Change of Voice** in R. Antoine, S.J. (1970). 
 
 ## Reference:
 
@@ -777,15 +885,3 @@ Note that * denotes verbs with irregular bases.
 + A Sanskrit-English Dictionary: Etymologically and philologically arranged with special reference to Cognate Indo-European Languages, 17th Reprint edition. Monier Williams. Delhi, Motilal Banarsidass Publishers (1899). [Cologne Digital Sanskrit Dictionaries](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php){: target="_blank"}; [Fanfoyan Dictionary](https://fdict.cn/){: target="_blank"}
 + The practical Sanskrit-English dictionary, containing appendices on Sanskrit prosody and important literary & geographical names in the ancient history of India, for the use of schools and colleges. Vaman Shivaram Apte. Poona, Shiralkar & Co (1890). [Cologne Digital Sanskrit Dictionaries](https://www.sanskrit-lexicon.uni-koeln.de/scans/AP90Scan/2020/web/webtc/indexcaller.php){: target="_blank"}; [Revised and Enlarged Edition of V.S. Apt's from DSAL](https://dsal.uchicago.edu/dictionaries/apte/){: target="_blank"}; 
 + A Sanskrit Manual Part I/II, Forth revised Ed., R. Antoine, S.J., Calcutta, Xavier publications (1970). 
-
-
-|<b><font size = "6">		</font></b>		|<b><font size = "6">		</font></b>		|<b><font size = "6">		</font></b>		|<b><font size = "6">		</font></b>		|<b><font size = "6">		</font></b>		|<b><font size = "6">		</font></b>		|<b><font size = "6">		</font></b>		|<b><font size = "6">		</font></b>		|<b><font size = "6">		</font></b>		|<b><font size = "6">		</font></b>		|
-
-
-|<b><font size = "6">		</font></b>		|<b><font size = "6">		</font></b>		|<b><font size = "6">		</font></b>		|<b><font size = "6">		</font></b>		|<b><font size = "6">		</font></b>		|<b><font size = "6">		</font></b>		|<b><font size = "6">		</font></b>		|<b><font size = "6">		</font></b>		|<b><font size = "6">		</font></b>		|<b><font size = "6">		</font></b>		|
-
-
-|<b><font size = "6">		</font></b>		|<b><font size = "6">		</font></b>		|<b><font size = "6">		</font></b>		|<b><font size = "6">		</font></b>		|<b><font size = "6">		</font></b>		|<b><font size = "6">		</font></b>		|<b><font size = "6">		</font></b>		|<b><font size = "6">		</font></b>		|<b><font size = "6">		</font></b>		|<b><font size = "6">		</font></b>		|
-
-
-|<b><font size = "6">		</font></b>		|<b><font size = "6">		</font></b>		|<b><font size = "6">		</font></b>		|<b><font size = "6">		</font></b>		|<b><font size = "6">		</font></b>		|<b><font size = "6">		</font></b>		|<b><font size = "6">		</font></b>		|<b><font size = "6">		</font></b>		|<b><font size = "6">		</font></b>		|<b><font size = "6">		</font></b>		|
