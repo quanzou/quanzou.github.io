@@ -204,7 +204,7 @@ Now, you can have more control of TomCat over Http:
 
 **`http://192.168.2.117:8080/host-manager/html`**
 
-![tomcat_admin](https://bn1303files.storage.live.com/y4mDTblQ7zgUYzGMuJRpPTfZYHN-8UVAoNCW1_y5YeMLjKe9G7oEPPq_MDpDpRjtgt-dn61JxvMepzvTLLyvk-eJaTTclSQTheOGTaVsIornmDPUlNwX--FxQOcu7Vl8rJ-svdduS4it_3e7TXN0kXpK3jd9V7GW9TS65dpSOgYH9SIjwcM3Ke70ScqheT9oHyj?width=973&height=841&cropmode=none){: width="973" height="841"}
+![tomcat_admin]({{ site.url }}{{ site.baseurl }}/assets/images/blojsom-how-to/tomcat_admin.png){: width="973" height="841"}
 
 
 ### Apache2
@@ -346,4 +346,11 @@ You may access the administration console at **`http://localhost:8080/blojsom/bl
 The default user and password is default/default. Be sure to change the password 
 immediately after logging in. You can change this under **Weblog Settings | Users`**.
 
-![blojsom_mgnt](https://bn1303files.storage.live.com/y4mmb_HKx9vtbV1qWtdaMrmakWDieg5KgFpJnkhNW1sGUaPL2sjgzLAUBh7ubMcwpJEBTeb-ruiDf8mau4eYiR2EM7Rfwxj2-SW0XP7rECDJ5RNI0nXzcMIzsPVlaX_2BO0Y5uAT66YM5_QLO3uh-Cv_FZ_3UMaD2Q2cPS8W07j9ARscsi6V1colhNKcrKyzWFD?width=1140&height=672&cropmode=none){: width="1140" height="672"}
+![blojsom_mgnt]({{ site.url }}{{ site.baseurl }}/assets/images/blojsom-how-to/blojsom_mgnt.png){: width="1140" height="672"}
+
+## Reference
+
++ A Java-based, full-featured, multi-blog, multi-user software package: blojsom 3.2, 2007.  [https://github.com/timothystone/blojsom](https://github.com/timothystone/blojsom){: target="_blank"}. Accessed August 8 2007.
++ The Apache Software Foundation, Apache Tomcat 5.0, 2007 [https://tomcat.apache.org/](https://tomcat.apache.org/){: target="_blank"}. Accessed August 8 2007.
++ Oracle, MySQL 5.0 Reference Manual, 2007 [https://docs.oracle.com/cd/E19078-01/mysql/mysql-refman-5.0/](https://docs.oracle.com/cd/E19078-01/mysql/mysql-refman-5.0/){: target="_blank"}. Accessed August 8 2007.
++ MySQL, Wikipedia, The Free Encyclopedia, 2025. [https://en.wikipedia.org/wiki/MySQL](https://en.wikipedia.org/wiki/MySQL){: target="_blank"}. Accessed January 2, 2025.
