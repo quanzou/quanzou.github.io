@@ -348,7 +348,7 @@ if errorlevel 0 echo --no change--      & goto end
 :end
 ~~~
 
-## Topics
+## Applications
 
 ### Using Robocopy Within a UNIX Shell
 
@@ -373,6 +373,59 @@ can schedule Robocopy jobs to copy files between them.
 
 To configure the Schedule service to log on as a user account: 
 
- + 1. In Control Panel, find **Task Scheduler**, Click menu **action**, then **Create Basic Task**. 
- + 2. In the Dialog box, give the task a name and desscription, then choose the frequency of the task, e.g., Weekly. 
- + 3. In Action of the task, choose the robocopy.bat script. 
+ 1. In Control Panel, find **Task Scheduler**, Click menu **action**, then **Create Basic Task**. 
+ 2. In the Dialog box, give the task a name and desscription, then choose the frequency of the task, e.g., Weekly. 
+ 3. In Action of the task, choose the robocopy.bat script. 
+ 
+### Duplicate Directory Structure Only
+ 
+ This is a very useful tip to copy a folder tree (including empty folders) without 
+ copying files: 
+
+~~~console
+PS C:\> Robocopy.exe 'C:\files\info2024_abbott\' 'C:\files\info2025_abbott\' /e /xf *
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows
+-------------------------------------------------------------------------------
+
+  Started : Thursday, January 2, 2025 7:51:15 AM
+   Source : C:\files\info2024_abbott\
+     Dest : C:\files\info2025_abbott\
+
+    Files : *.*
+
+Exc Files : *
+
+  Options : *.* /S /E /DCOPY:DA /COPY:DAT /R:1000000 /W:30
+
+------------------------------------------------------------------------------
+
+          New Dir         43    C:\files\info2024_abbott\
+          New Dir         11    C:\files\info2024_abbott\2024_donation\
+          New Dir          1    C:\files\info2024_abbott\2025_health_benefit\
+          New Dir          3    C:\files\info2024_abbott\audit\
+          New Dir          3    C:\files\info2024_abbott\benefits\
+          New Dir          1    C:\files\info2024_abbott\credit_cards\
+          New Dir          1    C:\files\info2024_abbott\data_analytics_symposium_2024\
+          New Dir          5    C:\files\info2024_abbott\training\
+...
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :        40        40         0         0         0         0
+   Files :       459         0       459         0         0         0
+   Bytes :  336.01 m         0  336.01 m         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : Thursday, January 2, 2025 7:51:15 AM
+
+PS C:\>
+~~~
+
+**/e** option copies subdirectories and **/xf \*** option excludes all files, 
+where "**\***" is the wildcard to match any file names. 
+
+## Reference
+
++ Robocopy, Microsoft Learn, (05/28/2024). [https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/robocopy/](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/robocopy/){: target="_blank"}. Retrieved January 2, 2025.
++ Robocopy, Wikipedia, The Free Encyclopedia, 2025.  [https://en.wikipedia.org/wiki/Robocopy](https://en.wikipedia.org/wiki/Robocopy){: target="_blank"}. Accessed January 2, 2025.
