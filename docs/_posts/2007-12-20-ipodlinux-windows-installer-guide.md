@@ -29,7 +29,7 @@ Installing **iBoy**, Installing **iDoom**, Installing **RockBox**, Installing
 
 ## Download the Package
 
-Download [ipodlinux-installer-2.3w-netless-20070107.zip](https://onedrive.live.com/embed?cid=E53D6D82FAE9F70E&resid=E53D6D82FAE9F70E%21148&authkey=ACE5xyA9TdharAY){:target="_blank"}, and extract the file. 
+Download Windows x86 installer of [ipodlinux-installer-2.3w-netless-20070107.zip](http://www.ipodlinux.org/Installer_2/ipodlinux-installer-2.3w-netless-20070107.zip){:target="_blank"}, and extract the file. 
 
 ## Install Linux onto iPod
 
@@ -72,7 +72,7 @@ Download [ipodlinux-installer-2.3w-netless-20070107.zip](https://onedrive.live.c
    ~~~
 
    then, replace **XXXXXXXXXXXX** with the serial number found on the back of 
-   your iPod. If you have other model number, go to [http://ipodlinux.org/Sysinfo](http://ipodlinux.org/Sysinfo){:target="_blank"} 
+   your iPod. If you have other model number, go to [http://www.ipodlinux.org/SysInfo.html](http://www.ipodlinux.org/SysInfo.html){:target="_blank"} 
    and follow the instructions there to create the **Sysinfo** file for your 
    specific model.
    
@@ -97,7 +97,6 @@ Download [ipodlinux-installer-2.3w-netless-20070107.zip](https://onedrive.live.c
    rename your iPod, eject it, reselect your language and hold down play until 
    it goes into sleep mode and then wake it up, reconnect it, and then restart 
    this guide. 
-
 
  + When you click **Next**, there will be a series of errors which are normal. 
    They will not affect this method of install. Just click ok to each of them 
@@ -180,12 +179,11 @@ Download [ipodlinux-installer-2.3w-netless-20070107.zip](https://onedrive.live.c
  
  + Save as **loader.cfg** on your iPod’s root folder.
  
-   ![Boot_Loader](https://bn1303files.storage.live.com/y4mGPOoGeI6bGac2utRVp7eodfY_YJTZmiHdjVEUr92QyEOqG_ENjDPqWemarOl6rIl9zMP0KXVigOmnhLFOeKMNlvEX69-OickWRZf0ciyL_3fzTDkbsLuJbgsd_SVOjDqQZPi_HtyJiVjqGjWVU7NhQycRUvQ6cyv9R6HjUsj6DMgsjQih7tcN3uS6zWbQKKs?width=399&height=300&cropmode=none){: width="399" height="300"}
-
+   ![Boot_Loader]({{ site.url }}{{ site.baseurl }}/assets/images/ipodlinux/iPod_4Gb_nano_loader_sm.jpg){: width="399" height="300"}
    
 ## Installing Rockbox
 
- + Browse to [https://www.rockbox.org/download/byhand.cgi](https://www.rockbox.org/download/byhand.cgi) 
+ + Browse to [https://www.rockbox.org/download/byhand.cgi](https://www.rockbox.org/download/byhand.cgi){:target="_blank"}  
    and find your iPod, and download the latest build of RockBox for your iPod. 
    Extract the file called **rockbox.ipod** and a folder named **.rockbox**, 
    and copy them to your iPod drive which already contains the folders Calendar, 
@@ -203,9 +201,11 @@ Download [ipodlinux-installer-2.3w-netless-20070107.zip](https://onedrive.live.c
    installed as demo: **Bubble** and **Battery Benchmark**. For a full list of 
    plugins, please refert to **The Rockbox Manual**. 
  
-   ![Bubbles](https://bn1303files.storage.live.com/y4m0G8pahzm7tLxuFJggQ1OWsEjRRNipNjC1QHKrGlI4wC8cXVMoBYBxWvWJ8erWz1LLbv6dYQeucTj9MExuExDoxZxtJn1-0SDONsGOWeftORryc55OXTrh6SqxS3YKjbtEjdHRFeo2zp217kp-gRgTSXmBdwq5DJJWt0ksiBY6H072TCdHwN5BpeAJaxKT1x_?width=397&height=300&cropmode=none){: width="397" height="300"}
+   ![Bubbles]({{ site.url }}{{ site.baseurl }}/assets/images/ipodlinux/iPod_4Gb_nano_rockbox_sm.jpg){: width="397" height="300"}
    
-   ![battery_benchmark](https://bn1303files.storage.live.com/y4m9YxymEwsmogPL1eWPwwQehYM9Cn6_FlzhNOHunrk0Spjn9xF0vS06w9dHomG0G-zjgGJz6gdJuyz6GbW94yTws0mSnNZLt53DEfmjtz7mQXaIhDLej5gA1M9VyiHb-nehEZ6piFBZ4S-TBc8sXH6LOd9LJfAkQsD5_IQ0uX_jYJuLBlP71E2OCc04-z1Z4x1?width=469&height=636&cropmode=none){: width="469" height="636"}
-   
+   ![battery_benchmark]({{ site.url }}{{ site.baseurl }}/assets/images/ipodlinux/ipod_battery_bench.jpg){: width="469" height="636"}
 
+## Reference
 
++ Ipod Linux Project, Ipodlinux Installer 2.3w, 2007. [http://www.ipodlinux.org/](http://www.ipodlinux.org/){: target="_blank"}. Accessed January 2 2025.
++ The Rockbox Team and its contributors, The Rockbox Manual for Ipod Nano 1st generation, 2007. [https://download.rockbox.org/daily/manual/rockbox-ipodnano1g/rockbox-build.html](https://download.rockbox.org/daily/manual/rockbox-ipodnano1g/rockbox-build.html){: target="_blank"}. Accessed January 2 2025.
