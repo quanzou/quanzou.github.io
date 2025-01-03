@@ -20,7 +20,7 @@ I was amazed by the state-of-the-art Sharp technology and Sharp invovation of
 this unique and compelling PDA solution when I first received it. I will go 
 through both hardware and software of this personal mobile tool below.
 
-![SL_5600_A](https://bn1303files.storage.live.com/y4mbmaotxcSHH3oy6MYv91gCblkXh_lFg_DFaaZQiXp-av0pXwF7DPmkfv6wS_PmsS-4euBvJyh8kilan2t3bsle5MHoa49wGQc0RDuS_ABM8aw48q1G_hbrUKMHwsDvzQZiYILNDZfZuxc7OMvMnfXL6YfjtocgqVA-B4pWSP3v2Msv6sqKQF6dgyA2v_0Y_ku?width=200&height=364&cropmode=none){: width="200" height="364"}  ![SL_5600_B](https://bn1303files.storage.live.com/y4mkSAqlrCcbRr9dbkxYx5PLvRJbfB6SkYzUpM2rMPpmNA_sQdjviyQuTwrzgv5xQfDbbI4sHxb6hmFwZ66EQLRUpw5Dj_0XPF_IBegbYwUsawrGPB9ieN9VOHsOGiQXP-LxTz6WltWC7cqU5vrO6ZN18Jn01CWpamStnUWSue-2c5Um2JNUcV2L9M7hpt8Hjs2?width=200&height=445&cropmode=none){: width="200" height="445"}
+![SL_5600_A]({{ site.url }}{{ site.baseurl }}/assets/images/sharp-zaurus-sl5600/SL_5600_A_sm.jpg){: width="200" height="364"}  ![SL_5600_B]({{ site.url }}{{ site.baseurl }}/assets/images/sharp-zaurus-sl5600/SL_5600_B_sm.jpg){: width="200" height="445"}
 
 ## Hardware
 
@@ -61,8 +61,7 @@ BusyBox: The Swiss Army Knife of Embedded Linux. BusyBox combines tiny versions
 of many common UNIX utilities into a single small executable. 
 It provides a fairly complete environment for any small or embedded system.
 
-![software]
-
+![software]({{ site.url }}{{ site.baseurl }}/assets/images/sharp-zaurus-sl5600/soft.png){: width="240" height="320"} 
 
 ## Add-on Hardware:
 
@@ -70,21 +69,20 @@ It provides a fairly complete environment for any small or embedded system.
 in half. It consumes a size AAA battery. An excellent driver for both 5500 and 
 5600 was written by Craig Graham.
 
-  ![pocketop_A](https://bn1303files.storage.live.com/y4mx1137Nbnkx_OmOt0FIhJ2XXnf0ddlT-_gK0Q0B2ocTcq-u5d366pnObivpmk1Hx552fJvLK_2EOyIsFX7MztyUEUW7miVfBO6oobeOo3w_hAJhv0515jhyFiO_5C6G4r9xwcMdSsjjIzhBaGtFpESrdtyOEa7iJO488L7O4bEG_OemvMJHfJZs7wnaRZQO_Y?width=354&height=229&cropmode=none){: width="354" height="229"} 
+  ![pocketop_A]({{ site.url }}{{ site.baseurl }}/assets/images/sharp-zaurus-sl5600/Pocketop_A_sm.jpg){: width="354" height="229"} 
 
-  ![pocketop_B](https://bn1303files.storage.live.com/y4mgMIP0YL7rncjVj66ct3xOHfNVDoBzcEsAFyy3_717-Tzx5giPeP0kgBZwuFqrhXxETYAEbu4P4SsxlMS0PWUj3tFCQ1cCvZ9YFwf77sR0hvjwAgL44ehPHCpzuFh6rnoxKzMpOWaw761XcC5syidfqVlf8h7ytng8Sq19tWpElBgAJW08Y7hNfFu9HxLO1EC?width=800&height=293&cropmode=none){: width="800" height="293"} 
-
+  ![pocketop_B]({{ site.url }}{{ site.baseurl }}/assets/images/sharp-zaurus-sl5600/Pocketop_B_sm.jpg){: width="800" height="293"} 
 
 + Sharp Zaurus **CE-AG06** Digital Camera Card: size 64mm x 55.4mm x 17mm, 
 Weight, Approx 25g, 350,000 pixels/CMOS imager. It inserts into Compact Flash 
 slot of Sharp Zaurus SL5600, and Rotates focus dial with shutter release button 
 for snapping pictures.
 
-  ![CE_AG06](https://bn1303files.storage.live.com/y4mzBm7FG3y5yKqvEQsGrR3g4mYiJLPiCjaTNug5x0Kspy5cXzeSBqaVndHL8HNxSO29cVz_iF9OUw2927GumKjropH-kZk_M763HGTAzM0-v25FIuxjgRzbbMNOC0Xjs6VL9rwo9if-CpLlleMLMDw8aPp8J5ypUr9l_dMgtW84hO5TkY2gEcnO-b-ZpUSpn6W?width=300&height=334&cropmode=none){: width="300" height="334"} 
+  ![CE_AG06]({{ site.url }}{{ site.baseurl }}/assets/images/sharp-zaurus-sl5600/CE_AG06_front_sm.jpg){: width="300" height="334"} 
 
-  ![library](https://bn1303files.storage.live.com/y4majTzyl3ZsrhQjTGTESDlnXt03qatFFG9GUUugHxLpdmrS3Co_osNXom7BzEC7I1rbZ1PumdZ90I4p07evnWKX19QLMIhxct-LIfglX1f3EKU0xTWvKI7x5T1HNPQ4WeuDOf2hHw7Lrc40MnTN5JXuifMg2lAVeijNgoZy5MsK6KEBqhjp_ieNBq7qQdnQ8yv?width=480&height=320&cropmode=none){: width="480" height="320"} 
+  ![library]({{ site.url }}{{ site.baseurl }}/assets/images/sharp-zaurus-sl5600/07may11_library.jpg){: width="480" height="320"} 
 
-  ![jtsu](https://bn1303files.storage.live.com/y4mmypSzDDDD0saXvCJnhLx3vKXdlH2-3fgixQ8EcHJSyvbQ1_mKK3pnM6bN8M6HTM7q_SjqmB7x-lipIjYG1iXs8oPMNR8JKIpwPqo6_zCvTueproGv_MZRmpLzlj-H01xLhvEDKjJIfjCA0rmZiMvuv9emVDQ-jYw0CxyNNdWyFbE4cAU09-yuPSJ3g3WWAZL?width=480&height=320&cropmode=none){: width="480" height="320"} 
+  ![jtsu]({{ site.url }}{{ site.baseurl }}/assets/images/sharp-zaurus-sl5600/07may11_JTSU.jpg){: width="480" height="320"} 
 
 + Linksys WCF12 Wireless-B Network CompactFlash Card (Type I): 
 size 1.7 x 2.4 x 0.1 inches, weight, 0.6 ounces. It's Compliant with 802.11b, 
@@ -99,10 +97,14 @@ numerous GNU softwares offered by third-party. The one I want to mention here
 is zbedic: an electronic dictionary reader for Sharp Zaurus and Linux desktop. 
 Over 90 free mono- and bi-lingual dictionaries and Wikipedia (most of them free).
 
-![zbedic](https://bn1303files.storage.live.com/y4mgRZnXqp--gQhnB5nxgVqMpIqLA61pkIK-1jTr66MOe8fJwE7A1u0i0hbMdxQmeszjxnFFiVXH4LcBxdUqzuu2TcpvjU429dm0fet05QZbgZQyp2wkNBQwNC6J6p6ikHiKdfUKemwuTB5JUDCSXhbHkKykZ2bNEvo-KaNePP7-7SeZk7ZTIACBSRIupMrM4aF?width=240&height=320&cropmode=none){: width="240" height="320"} 
+![zbedic]({{ site.url }}{{ site.baseurl }}/assets/images/sharp-zaurus-sl5600/zbedic00.png){: width="240" height="320"} 
 
 That's pretty much I want to say about this fabulous electronics, Zauurs sl5600. 
 It's more than a PDA, it's a tiny Linux computer. Those ambious one can even 
 push Z to its limits by creating a cuzsomized ROM image, developping new 
 applications, porting existing linux softwares, using network tools to administer 
 jobs remotely and wirelessly... I am sure you can find a lot more resources.
+
+## Reference
+
++ Sharp Zaurus, Wikipedia, The Free Encyclopedia, 2025. [https://en.wikipedia.org/wiki/Sharp_Zaurus](https://en.wikipedia.org/wiki/Sharp_Zaurus){: target="_blank"}. Accessed January 2 2025.
