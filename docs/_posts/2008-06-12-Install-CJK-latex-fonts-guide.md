@@ -259,4 +259,8 @@ create a test file by the this keyword:
 remember to compile the tex with **`bg5latex`**. The final results is shown as 
 following:
 
-![CJK_Big5](https://bn1303files.storage.live.com/y4mkzH5bRAYyKsztuY8FR48LtL3zpSKCe0n_NYeqX-V3T_dDk-emDb4vXNCLB2VqKw3vrYseHpb-jf2hCnYWEYySoiQQrzXRE_yAqc4qfM_llJ9veshbjBdoyhxecNh9Xb1VSUqEuaW0tLm3HhXWWKhV1KqAO72AIWVzqPv3YKDWTNjHx-jGk_d3Y4Tll_JkjWX?width=550&height=80&cropmode=none){: width="550" height="80"}
+![CJK_Big5]({{ site.url }}{{ site.baseurl }}/assets/images/cjk-latex-fonts/cjk_latex_Big5.png){: width="550" height="80"}
+
+## Reference
+
++ ttf2tfm - build TeX metric files from a TrueType font, Debian manpages, 2024.  [https://manpages.debian.org/testing/texlive-binaries/ttf2tfm.1.en.html](https://manpages.debian.org/testing/texlive-binaries/ttf2tfm.1.en.html){: target="_blank"}. Accessed January 3 2024.
