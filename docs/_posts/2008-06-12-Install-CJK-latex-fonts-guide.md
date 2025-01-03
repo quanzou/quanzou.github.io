@@ -263,4 +263,4 @@ following:
 
 ## Reference
 
-+ ttf2tfm - build TeX metric files from a TrueType font, Debian manpages, 2024.  [https://manpages.debian.org/testing/texlive-binaries/ttf2tfm.1.en.html](https://manpages.debian.org/testing/texlive-binaries/ttf2tfm.1.en.html){: target="_blank"}. Accessed January 3 2024.
++ ttf2tfm - build TeX metric files from a TrueType font, Debian manpages, 2024.  [https://manpages.debian.org/testing/texlive-binaries/ttf2tfm.1.en.html](https://manpages.debian.org/testing/texlive-binaries/ttf2tfm.1.en.html){: target="_blank"}. Accessed January 3 2025.
