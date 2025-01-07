@@ -18,9 +18,9 @@ other words they are regular PCs using Intel's Centrino platform, modulo
 some fancy firmware, and with a little persuasion can run common or garden 
 i386 Linux.
 
-![mac_mini](https://bn1303files.storage.live.com/y4m1bOV6igdP9vMOcXf8FTD3Noan8RKrvxeKG2jKRPiZv5_Y8kURpnyysJwaY0bfxdcGZceNt2e8-k_PcFtB2HTHwQXtQ9aQPk3FvcxolCW06WA0dOtV9Gp4XfURpWe8P993DVLGSJBKWK7vzjzfKtK0zQfESmCEjY5bLwEjFWcwYQcm3uCIqsUy-sfXV9eaV9d?width=236&height=108&cropmode=none){: width="236" height="108"}
+![mac_mini]({{ site.url }}{{ site.baseurl }}/assets/images/debian-mac-mini/mac-mini-2006-240.png){: width="236" height="108"}
 
-*Mac mini (Late 2006)*
+**Mac mini (Late 2006)**
 
 ## Definitions
 The Extensible Firmware Interface (EFI)
@@ -65,7 +65,6 @@ up the SN# of the Mac mini: **G87193SXW0D**.
 | Mac mini (Late 2006)  | Macmini1,1 | MM11.0055.B08 (EFI 1.1) | 1.3f4 (SMC 1.0)
 | Mac mini (Early 2006) | Macmini1,1 | MM11.0055.B08 (EFI 1.1) | 1.3f4 (SMC 1.0)
 
-
 ## Preparation
 
 disk images needed: 
@@ -79,10 +78,10 @@ if you install linux only.
 through Transmac, choose Format disk --> Format with Disk Image. 
 Finally choose the OSX dmg file you have on your harddisk. 
 + Burn the rEFIt bootable disk. Download the rEFIt disk image at:
-[http://refit.sourceforge.net](http://refit.sourceforge.net){:target="_blank"} 
-(By 2013-03-29, rEFIt is no longer actively maintained. A fork rEFInd is 
+[http://refit.sourceforge.net/#download](http://refit.sourceforge.net/#download){:target="_blank"} 
+(By 2013-03-29, **rEFIt Project** is no longer actively maintained. A fork rEFInd is 
 maintaned and under active development at 
-[http://www.rodsbooks.com/refind](http://www.rodsbooks.com/refind){:target="_blank"}). 
+[https://www.rodsbooks.com/refind/getting.html](https://www.rodsbooks.com/refind/getting.html){:target="_blank"}). 
 Again, if you have multiple boot, then you will proabably want to intall refit 
 either on a hiden partition. Since we only install linux, we don't have to do 
 this. Open the disk image from **transmac**, right click the image from the 
@@ -142,3 +141,9 @@ firmware boot your Linux installation in legacy mode without long delay
 ## Completion 
 
 Restart your Macmini (don't forget to remove OSX disc). And boot directly to Linux!
+
+## Reference
+
++ The rEFInd Boot Manager, by Roderick W. Smith, 2012. [https://www.rodsbooks.com/refind/](https://www.rodsbooks.com/refind/){: target="_blank"}.
++ The rEFIt project, 2013. [http://refit.sourceforge.net](http://refit.sourceforge.net){:target="_blank"}{: target="_blank"}.
++ Installing Debian On Apple, Debian Wiki documentation, 2025. [https://wiki.debian.org/InstallingDebianOn/Apple](https://wiki.debian.org/InstallingDebianOn/Apple){:target="_blank"}{: target="_blank"}. Accessed January 7, 2007.
