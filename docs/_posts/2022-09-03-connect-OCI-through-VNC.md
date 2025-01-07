@@ -203,16 +203,16 @@ window, expand the **SSH** and click on **Tunnels**.
 On the **Options controlling SSH port forwarding** screen, enter 59000 at the 
 Source Port and localhost:5901 as the Destination, then save the configuration. 
 
-![putty_tunnel](https://bn1303files.storage.live.com/y4maXO18RwAQiftRyYDBmTiyEwOLLeCnQXvFL3BRY8IQ8IORVI0De4ZtLUCvIVB74DtrI3Uimdb-xa7ShNNokLMI3S-if4E_pkv6cBArfgXYhrrd6PiTaXkIoJAO03q16LCAzDdRxlobnVOXWYhMeOCfzty1JnZPsAEaPxUanzQqBIsDVxgCVEC8MidT2H1Le4s?width=466&height=447&cropmode=none){: width="466" height="447"} 
+![putty_tunnel]({{ site.url }}{{ site.baseurl }}/assets/images/connect-OCI-thru-VNC/putty_vnc_tunnel.jpg){: width="466" height="447"} 
 
 Once the tunnel is running, use a VNC client to connect to localhost:59000. Then, 
 fill in the vnc password created earlier to authenticate. 
 
-![vnc_viewer](https://bn1303files.storage.live.com/y4mDwbOiwa1BkudEN3-nvnAVZq8VlN-NA7rmj2AzjnfkqUR4dXFejiVbpd8L_lA5w50tkYn377lotLjXBZKPoBN1Y8wcIdnGTMHwsxxTla75ObY53WeCJoZlXk6bAVNtDROIlEWrIOdpdeAhaCTn8Rx56a6PYWWZ1hWZBUSXVE7LDYp1krQDdX121vkl4nu996T?width=469&height=200&cropmode=none){: width="469" height="200"} 
+![vnc_viewer]({{ site.url }}{{ site.baseurl }}/assets/images/connect-OCI-thru-VNC/vnc_viewer.jpg){: width="469" height="200"} 
 
 Once you are connected, you’ll see the default Xfce desktop:
 
-![vnc_xfce](https://bn1303files.storage.live.com/y4mi_ZDdvK4EPTCQVCoZ7OcxMTDBcJJMRKfR3VQU-9b77AfOOXNyHsJZmWZT8Z-s6WBCtTcSEgGkNWJHBBLnNl77FRFBufFg1CX_D1-khyAJjiGMFlma2oBenLmRsvfMOld9Y5ZfYebD5yX7CRjqQY8RSbU1CF6sAivRm9tRdtjg0snoQ-eC_J4jQrz-iQV5Oqz?width=660&height=428&cropmode=none){: width="660" height="428"} 
+![vnc_xfce]({{ site.url }}{{ site.baseurl }}/assets/images/connect-OCI-thru-VNC/vnc_xfce.jpg){: width="660" height="428"} 
 
 ## Run VNC as a System Service
 
@@ -291,3 +291,10 @@ following the **`@`** sign signifies display port number for the VNC service.
 
 Now, the VNC server is now ready to use whenever host server boots up, and 
 it can be managed and controlled by systemd and service manager --- **systemctl**.
+
+## Reference
+
++ Oracle Cloud, Wikipedia, The Free Encyclopedia, 2025. [https://en.wikipedia.org/wiki/Oracle_Cloud](https://en.wikipedia.org/wiki/Oracle_Cloud){: target="_blank"}. Accessed January 7 2025.
++ TightVNC, Wikipedia, The Free Encyclopedia, 2025. [https://en.wikipedia.org/wiki/TightVNC](https://en.wikipedia.org/wiki/TightVNC){: target="_blank"}. Accessed January 7 2025.
++ TigerVNC, Wikipedia, The Free Encyclopedia, 2025. [https://en.wikipedia.org/wiki/TigerVNC](https://en.wikipedia.org/wiki/TigerVNC){: target="_blank"}. Accessed January 7 2025.
++ PuTTY, Wikipedia, The Free Encyclopedia, 2025. [https://en.wikipedia.org/wiki/PuTTY](https://en.wikipedia.org/wiki/PuTTY){: target="_blank"}. Accessed January 7 2025.
