@@ -78,7 +78,7 @@ $$(2023-3) \bmod 12 = 4$$，地支数为**卯**。所以公元2023年的年柱�
 为示范起见，以阳历2008年1月15日（农历丁亥年腊月初八）寅时出生的女性为例。 起寅宫，先顺数生月**12**到丑，
 再逆数生时**3**到亥。命宫的位置在亥。注意这一步计数是包括起点宫位的。口诀：**顺数生月，逆数生时**。
 
-![ziwei_01](https://bnz06pap002files.storage.live.com/y4mWFisA6xV8flDW_c-HFJCK4buQZNW5bZ_jTMY1MaMOi3IzSor7TJyGSKImNce83uWwL91hyKg1dLrBfJ7cECBTXIhplFHhPHyibTfc1HNusoOXLiGet2XXaYHYNC7dqnSV98eZrbuF6OQGcSPSPyJpMp-eV9uWP1Nl9iUpMwD7I49udQ9wG3niFgyFU6rcme7?width=660&height=494&cropmode=none){: width="660" height="494"} 
+![ziwei_01]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_01.png){: width="660" height="494"} 
  
 如果安身宫，则**起寅宫**，先顺数生月**12**到丑，再顺数生时**3**到寅。 易证：身宫只可能为命、夫、财、迁、官、福之一，
 因为它和命宫之间隔着双倍的生时。
@@ -95,7 +95,7 @@ $$(2023-3) \bmod 12 = 4$$，地支数为**卯**。所以公元2023年的年柱�
 
 在找到**生年**的天干数之后，可以根据《**[五虎遁决](#refb)**》来定宫干：
 
-![ziwei_2a](https://bnz06pap002files.storage.live.com/y4mWCnbAIyJJwZhN5x2iPcIv5LRkNF58-cjPXEsm9szn3PRH8Bxj2FbB45ryGR65AJ1p1HtIRaFEe9363bi4gQNtSFsBnJ8tHqHJneVBs0MKu7ZTODNyJYQMUpCSVj8jkVmkzUJfO78SiTuvQVGPGlOvAPn5SD5MtDMKuZZ9j2eVxhxGbZG4IIQ0Altod4zg5Rh?width=660&height=632&cropmode=none){: width="660" height="632"} 
+![ziwei_02a]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_02a.png){: width="660" height="632"} 
 
 >甲己之年丙作初，乙庚之岁戊为头，丙辛岁首从庚起，丁壬壬位顺流行，更有戊癸何方觅，甲寅之上好推求。
 
@@ -118,7 +118,7 @@ $$(1 + 生年天干数字 \times 2) \bmod 10$$
 $$(1+4\times2)\bmod 10 = 9$$，亦为壬寅宫。 然后从寅宫开始，把壬、癸、甲、乙、…… 顺时针依序排下去，
 得到下图：
 
-![ziwei_02a](https://bnz06pap002files.storage.live.com/y4mPqdPpI_4IvU2IfNWnyB3lqSbophN28EJIaK8BDGOo1RMV-Qc1hgXOCr9SO-o6VlFYvWoCJJUDJaNBxV3yNVgO1OGj9tL565l-oDBRa9DeFaiu3qa6dnBK_eiZUMLyiZ0RSNI44uFClbiPd1-40cqp_qF07EJALSsQ2yc6hKFXy5kebzxe4ys1-Oip9VwEkC0?width=660&height=495&cropmode=none){: width="660" height="495"} 
+![ziwei_02b]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_02b.png){: width="660" height="495"} 
 
 **干支纪月**以二十四节气来划分出一年中的12个月份，每个月含有两个节气（二十四节气中单数序列的节气又简称为“节”，
 双数序列的节气又简称为“气”或“中”，就是说二十四节气由12“节”加12“气”组成）。**干支纪月**中十二支固定，
@@ -159,7 +159,7 @@ $$(1+4\times2)\bmod 10 = 9$$，亦为壬寅宫。 然后从寅宫开始，把壬
 
 附纳音五行速查表，如下：
 
-![ziwei_02b](https://bnz06pap002files.storage.live.com/y4maY36ptu5c6qjccnoAjaO3mFcha5J-89WBu_QXK3tXE89e1qRo34sfiUYf1-PMj6TWny1Vg8aFgBfCP_R9CrWpsDNGjcmtF4zjpTIjY96INH8YV49N8WmCEiTSd6axeZ2strC0graPlv2TppQvHjxbS8JCPzci2ctb3zn9WNDl2jzPV5M7-OXjx-zRvmy_yrH?width=660&height=301&cropmode=none){: width="660" height="301"} 
+![ziwei_02c]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_02c.png){: width="660" height="301"} 
 
 ### 纳音推算公式
 
@@ -203,7 +203,7 @@ $$7+4+8+5=24$$，用$$5$$除以$$24$$，得余数为$$4$$，就得出辛亥的�
 
 ## 起大限
 
-![ziwei_02c](https://bnz06pap002files.storage.live.com/y4mHoRC4ErehyOXWboQeX7ZB_nZJx3G8Uak72XS_SYQZ2HWXfnTu4rEPQ8QS9R7JC4KoQYE2mbdwjM_Vpwb_mDxvXX_LSoRNRh2W6b9_Ew0ZYxvy6F0UHzR26h9uc0QGTDOFNhAjEBCtNvRUd2AVsdIcrtPXjVHXi6Dx8d7__FZrOtPernWxgUSVLMuWwCx6vx4?width=492&height=660&cropmode=none){: width="492" height="660"} 
+![ziwei_02d]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_02d.png){: width="660" height="492"} 
 
 起大限需要知道出生年的天干数，如甲、丙、戊、庚、壬年出生人属阳，男命为阳男，女命为阳女。
 乙、丁、巳、辛、癸年出生属阴命，男命为阴男，女命为阴女。 大限由命宫起，**阳男阴女顺行**；**阴男阳女逆行**，
@@ -211,7 +211,7 @@ $$7+4+8+5=24$$，用$$5$$除以$$24$$，得余数为$$4$$，就得出辛亥的�
 
 例：命宫在辛、金四局、阴女，大限排列如图：
 
-![ziwei_02d](https://bnz06pap002files.storage.live.com/y4mvlewwMBSDiV8YhdKUK3pCfQBoCzyBdmH5f65pGtiN38AadeAKLgKZBLxsmQln-pqUldbhF54MqfckVCGMis3umve8qHyTkTk-TKAO8AJ9DkZG2GI_b9yg0pCK7zgKoWbePfOpVBfaxKiVShVSRdnga-5b4PsOzYzkDNKCV7Ov1fdMXjlY8SdT1jf-naLyu9b?width=1031&height=773&cropmode=none){: width="1031" height="773"} 
+![ziwei_02e]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_02e.png){: width="660" height="492"} 
 
 大限由命宫开始计算，起大限之年岁，由命造之五行局数来决定。每一个大限掌管该十年的吉凶灾咎。大限之宫位，
 就是该十年的命宫，称为“大限命宫”，每当命造每进入一个新的大限时，其馀人事物十一宫亦随著大限命宫依次移动，
@@ -232,7 +232,7 @@ $$7+4+8+5=24$$，用$$5$$除以$$24$$，得余数为$$4$$，就得出辛亥的�
 
 解释： 在水二局中，出生日在初一，紫薇星在丑宫，不管单双数日都顺著排，接下来按照顺时针，每一宫放两个日，最后一天30日会位在辰宫。
 
-![ziwei_03a](https://bnz06pap002files.storage.live.com/y4mtm3aUBBG3B0dCPhX_oyH47HlC5cDd1DPVQVrs9_oFGcHpZQ2qA1RLV3LQopBMGg0HSerdvp6yLy2TcsZEQ-SQk52ILY6rMdbGlQScJh4GUKtO0q3nMfAkV6K0f3nKn484CCcsWIUhfBBu6qr6oYEWd3OVKoEgfJNI9rr4KlPEZelMNiPrg2hLUyt2wVgZxIj?width=660&height=495&cropmode=none){: width="660" height="495"} 
+![ziwei_03a]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_03a.png){: width="660" height="495"} 
 
 #### 木三局
 
@@ -243,7 +243,7 @@ $$7+4+8+5=24$$，用$$5$$除以$$24$$，得余数为$$4$$，就得出辛亥的�
 例如初七在午宫……，最后29日落在戌宫；双数日初二在丑宫，采取进四退二的方法排其余双数日，先前顺时针（进）四宫放一天，
 初四在巳宫，再逆时针（退）两步放两天，卯宫是初六、初八……，最后30日会在亥宫。
 
-![ziwei_03b](https://bnz06pap002files.storage.live.com/y4mIi8pLIOrh9D6H7u11rS3ioFnuouZd1yyPxQKOtQH0htvT_UUYlKaIUneY1HfvGir9MUxV-BkYhxWNEeOwcDJavl6IiHb5a8RLevzcxSsrN0Rl-53vZVC2xiWFJ58M7k8sw7HfFq-z-sNB7QrYh6p5TqWVrEi-f7_yau6YC0Fcn2gj8Q7ZRnjvH-IgsRZV8MS?width=660&height=495&cropmode=none){: width="660" height="495"} 
+![ziwei_03b]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_03b.png){: width="660" height="495"} 
 
 #### 金四局
 
@@ -252,7 +252,7 @@ $$7+4+8+5=24$$，用$$5$$除以$$24$$，得余数为$$4$$，就得出辛亥的�
 
 解释：金四局初一在亥宫，初二在辰宫，单数日用顺时针（进）二逆时针（退）一的方式来排，双数日用逆时针（退）两步顺时针（进）三步的的方式来排。
 
-![ziwei_03c](https://bnz06pap002files.storage.live.com/y4mELDHk4QKKSnlILln6kSxHd2984qJUJWN0HmH5SD1EsL04oJYxvliAvg7bpnS-OtGlP0ZidmODYY3vWkgo4jfeg8VZo3jrzvIdLYHtDFlhCJwAa6ECEu8m0H-DtuPrey1r7nCQce6-nMoxfUYs3lfkoAtin7oX9vUhbe7aXRI13chDS1rKzlMjEY5GCRD8Sdx?width=660&height=494&cropmode=none){: width="660" height="494"} 
+![ziwei_03c]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_03c.png){: width="660" height="494"} 
 
 #### 土五局
 
@@ -263,7 +263,7 @@ $$7+4+8+5=24$$，用$$5$$除以$$24$$，得余数为$$4$$，就得出辛亥的�
 将其移动到寅、辰、午三个宫。双数日初二在亥宫，首先顺时针进两宫排一天，总共三次，再逆时针退两宫排一天，
 总共两次，排好后，将初六，十六和二十六分别就移到未酉亥三宫。
 
-![ziwei_04d](https://bnz06pap002files.storage.live.com/y4mnRaNIKSG3Ps0Rs1XLRXlmYeJp9fjce81H0b4xrKfty1OHKweVQfHXD_iru37i_yAvikRT-XLDdyZb9S9VfdvkP-kb6i2HuIrANZCgHFtRN3O7IsZEzFkBu2awBLbBQsV4Vp3Ap2VqqgliavtIu7t2fK8mkhAyqY05Veie12kRcoBWo1nM4BL34lDF_V0UkcD?width=660&height=495&cropmode=none){: width="660" height="495"} 
+![ziwei_04d]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_03d.png){: width="660" height="495"} 
 
 #### 火六局
 
@@ -273,7 +273,7 @@ $$7+4+8+5=24$$，用$$5$$除以$$24$$，得余数为$$4$$，就得出辛亥的�
 解释：火六局初一在酉宫，顺时针进两宫两次，然后逆时针退三宫一次，每次排一日；双日初二在午宫，逆时针退两宫位两次，
 然后顺时针进五个宫位一次，每次皆排一天。
 
-![ziwei_03e](https://bnz06pap002files.storage.live.com/y4mcic_Qq3Y_uhLiPvLwL1316FqK--Pp6fRpLdf86lFAC9JVGK6rdT0tPH90lZ7QeT8im0BFc8F_Va8Xphl4suSEzWZPqeL0fN2MqyLk1HxqBqKbbmayiii_d9odPGNpnxLV8eiR-ONjmfLeAdil8Enkv1Ryjv_GKHXNPqDqpnZ8hzdWB0M1TDWC9TUn5_6m-B0?width=660&height=495&cropmode=none){: width="660" height="495"} 
+![ziwei_03e]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_03e.png){: width="660" height="495"} 
 
 ### 紫薇星宫位算法
 
@@ -305,7 +305,7 @@ $$\begin{aligned}
 
 完成以上步骤后，阳历2008年1月15日（农历丁亥年腊月初八）寅时出生女性的命盘，如下图：
 
-![ziwei_04f](https://bnz06pap002files.storage.live.com/y4m9uXl2K9PLYrXh6L4aUOOFg5NrAjYeBjTcqbe9X05KF0YCE9FFMCzSXMhjlEWwpxnxnZ7JpAZihGlBzg3kswQh5chLnHfDz-HriuSFBx0acUcCanKqD4hei5WS64Nb3RRLdMDsPQC3CxygaqP8_QcGG-lzU_Y8gzUSnZt6IF42ot9MdUACCYXmyT37GOrlS3x?width=660&height=495&cropmode=none){: width="660" height="495"} 
+![ziwei_03f]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_03f.png){: width="660" height="495"} 
 
 ## 安十四正曜
 
@@ -323,7 +323,7 @@ $$\begin{aligned}
 
 根据紫薇星，或天府星的位置，从寅到申一共有六种组合：
 
-![ziwei_05](https://bnz06pap002files.storage.live.com/y4mVmJdk-rE8M-FDkJWysGAypZZ4qJuSmbf1BSuhqT7DFaQqTgBS5Ic5jFUUOIlHoAbVhL_9ZRbzEB_mnJ_k55tWn0in4aFt5DQF8A6KMd2ZpogpHDIi3gkNpNmWqGSJ0E4cwB_96y0FFboApd0CvClVpW49iKWNdY19UARMls6ymZdV3H3OetPKjtAr7Iv53lR?width=1024&height=484&cropmode=none){: width="1024" height="484"} 
+![ziwei_04a]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_04a.png){: width="1024" height="484"} 
 
 根据寅-申宫取镜像（180°旋转）后可得到另外六种组合（虽然正曜组合相同，但是组合所在的宫位地支数不同），在此不列出。
 
@@ -337,7 +337,7 @@ $$\begin{aligned}
 
 阳历2008年1月15日（农历丁亥年腊月初八）寅时出生女性，目前的命盘如图：
 
-![ziwei_5b](https://bnz06pap002files.storage.live.com/y4m8VFYZ8Umg75MtlPZ6oN1BBDYqe6NrlI6YNrM73BnN922QmE9F9RcG_9CPcKECZ_cBQMEVP7Dcdj-QGMMJIiRMZxG71KeyaSjq10fcVznJD53UPYZ-g2gNV1PL5i9MsC0HRYlgaSgy8jnfVELbh77wIEB7kClLXR1PC9MHJ3ymwO4eR60puTXl6wfvJci5XQl?width=660&height=495&cropmode=none){: width="660" height="495"} 
+![ziwei_4b]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_04b.png){: width="660" height="495"} 
 
 {: #ref05}
 ## 安辅弼昌曲空劫
@@ -358,7 +358,7 @@ $$\begin{aligned}
 解释： 辰宫开始顺时针数生月为左辅，戌宫开始逆时针数生月为右弼。辰宫开始顺时针数生时为文曲，戌宫开始逆时针数生时为文昌。
 亥宫开始顺时针数生时为地劫，亥宫开始逆时针数生时为地空。
 
-![ziwei_5a](https://bnz06pap002files.storage.live.com/y4mBwEh28KIy1Hi2bvSis5qomGK9wdWPxgoJjaBqmE5L0dmgJI9f10BxzED83g_cgJyh8I06vGCSA5Kjzc2JAUgJV0_rF3Tm6zcAfNSeOGQWRCn4m1koMOaaeWDBNK53V5wNq_E0CHlOQEyBP9y8Uhyv3GSSoqBPsHjQCcAntFwh1ZkjyYQTSua2R1eHxFxIzav?width=248&height=256&cropmode=none){: width="248" height="256"}![ziwei_5b](https://bnz06pap002files.storage.live.com/y4mLHabQ4fh-DU43gtFLgTrI5FB3frsQpOiWEH7CxXXeCmxw5kn8J9GDAgZRyC1QVjAsSxO_YFEyzDMMwkhJKOYvdhs8XDhOuSM5o3dDsJQ4q0SCYJEKNx74rTyLVxk3KMTOdD3jd8BP-x-GnK55WKnqXPdI3Dg47twFdxTNIbzLz8PZIHDRGBH3zs87SyEstTH?width=254&height=256&cropmode=none){: width="254" height="256"}![ziwei_5c](https://bnz06pap002files.storage.live.com/y4m_wQhKsan4r6bFRdvoo5dNWs2zk_CEMReqYNuYedZKvRqo8cEESbVRztjIs-5cbxqBN0JN_yHpC4xgX0gjD7GAqKdYJoLmxTtl0z2t5_-4zu2IYRfnfsPUzfcLXAUWD_dP22KeKRy1ed7V6dL3W5x_RClB_s-DIn61xekhhmevXDKr3Qenjx5GndoBVxfkTZn?width=256&height=256&cropmode=none){: width="256" height="256"} 
+![ziwei_5a]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_05a.png){: width="248" height="256"}![ziwei_5b]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_05b.png){: width="254" height="256"}![ziwei_5c]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_05c.png){: width="256" height="256"} 
 
 由上可得：
 + 辅弼、昌曲都关于丑未线对称（辰戌丑未是四墓地）
@@ -389,7 +389,7 @@ $$\begin{aligned}
 
 阳历2008年1月15日（农历丁亥年腊月初八）寅时出生女性的命盘如下图：
 
-![ziwei_5d](https://bnz06pap002files.storage.live.com/y4mx3nae_3pdfLZVJuxkYMigTxnk-sziAiLDWwhqzNroSOkYzs5t0lJ6WUrXlxktl60zSgTku56QxNnVlMy577LH2eRC1-RopYWOQoGx0HdvVh4uC_gIq2T6_3WLddW8fF3dysywF5Tfab2ZJeTRP4RpzGOOpoAhYnhmxfGjGxTBkddZ9nI4wyYpse9q8wumHfP?width=660&height=495&cropmode=none){: width="660" height="495"}
+![ziwei_5d]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_05d.png){: width="660" height="495"}
 
 {: #ref06}
 ## 安四化星
@@ -401,19 +401,18 @@ $$\begin{aligned}
 
 也可以查表：
 
-![ziwei_06](https://bnz06pap002files.storage.live.com/y4mbNBfWDH5Q3yn1T9Fst5amqPsH9lsqrmE6dbulxkALDc2pdZ6vIjAt77Jhad60m7UeyPAVDKeI3HTKr2GZ3Cj7DsZ_JMYCgFmIx1WBnNnZs3Qc3sOb6CNjJeB30M5uQtZIFhIKkLgO5_pi5p6GcCPjwW5bvT9fKVxcQEdmGDXoQKttNvD04Wv9tG65JFa3CEg?width=660&height=256&cropmode=none){: width="660" height="256"} 
+![ziwei_06a]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_06a.png){: width="660" height="256"} 
 
 如果农历丁亥年出生，则太阴化禄，天同化权，天机化科，巨门化忌，如下图：
 
-![ziwei_6b](https://bnz06pap002files.storage.live.com/y4mYHmy5DapEe3-DULCmZ28fAGphFWojHgDFaiM4gN_Ls2MR3_4zmt1CIdSFVjH8-hobmIHKvUfS32qbka0Grv3SAJtNqGtLHCkbW1Qsxq6xdWaSTR9KXjVf6z3lMkEqch6FW30hPPn5cIlZXsmLTGwISEMmb5KTZr2y7_bZGaORfvDHig7IvkaDfgTAypTTj0R?width=1024&height=767&cropmode=none
-){: width="1024" height="767"}
+![ziwei_6b]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_06b.png){: width="660" height="495"}
 
 {: #ref07}
 ##  安年干系属诸星
 
 根据出生年干定干系诸星总表如下：
 
-![ziwei_07](https://bnz06pap002files.storage.live.com/y4mtJZz0D8fi-0ZxEmP-DTJiefn3JCaP1VOIUud62Du6nRcjIx9ptFiO506mE59W5nzyzPtc1BxywLnwA_GQeOFViFY-S0ICy958SBJmFGasHyu0EL3INzB9MCLN2JU5NNVwXVHYELJBQGK1SiWq5E3pJs6vA_6tmb2M1gHfwdHtArH3GZj7iA12kwzXzNcaXXg?width=660&height=534&cropmode=none){: width="660" height="534"} 
+![ziwei_07a]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_07a.png){: width="490" height="396"}
 
 ### 安禄存、擎羊、陀罗
 
@@ -431,7 +430,7 @@ $$\begin{aligned}
 + 四陷地没有陀罗
 + 四马地没有擎羊（亦即，擎羊不在角上）
 
-![ziwei_7a](https://bnz06pap002files.storage.live.com/y4mPw9hdBTe8_KBKymLPIZ-sCS307Cl1FdHNs60a7SGp1nZIv5XqAKI5DjtCNhjW8T_QSKOHGeGzfh1G6B6uLJX0yklW3ncLOTwNKMYvtFK3M1VepVZhKRgE5_2a35CcXm2mnLaAuKdAN1YK3aqOm3grezACMzMJ6oaL9O8UvZ6gVp6EsTfuk6t3PNaQmiBrr1G?width=256&height=249&cropmode=none){: width="256" height="256"} 
+![ziwei_7b]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_07b.png){: width="256" height="256"} 
 
 ### 安魁钺
 
@@ -440,7 +439,7 @@ $$\begin{aligned}
 
 解释：甲戊庚年生人，天魁在牛位，即丑宮，天钺在羊位即未宫，如此类推。
 
-![ziwei_7b](https://bnz06pap002files.storage.live.com/y4muTfwCq2UM6FTqrinAYNtyNHCSWStPG1TkoPSC0WRC0g1XhLTM_b_jLQilecvXcDPAK2e-D0bvW4Dg_KSpXdlx_rUpJ7Ie_bxlH8V7m4KBfxLoIv_opYkuGiPR9aMM9mftWB1yeyP6e8Ft9a96ehpQAd9g1Dg7-a__1ukdkWQ5Vs8mg5vZ6hX6DA6Mikm5hmb?width=660&height=313&cropmode=none){: width="660" height="313"} 
+![ziwei_7c]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_07c.png){: width="660" height="313"} 
 
 由此可看出魁钺关于辰-戌线对称。若要命宫三方四正同时逢魁钺，则：
 
@@ -459,7 +458,7 @@ $$\begin{aligned}
 
 解释：己年出生人，根据口诀**己鸡居然与虎俦**，鸡位为天官，即酉宫；天福为虎位，即为寅宫，以此类推。
 
-![ziwei_7c](https://bnz06pap002files.storage.live.com/y4mcNpluiHvCU2FdRYOOHZwV9DEiPzZ6F5cO2ogrOqRNKUkAMI74RvqnoPMvf5F0CauE3cwvYNqsRB6an6mhFS993TySc2CLS8lnI5knF5YTJh6QOXWlAOc3KR-4E1SnUJREIxa7vlJBe1WsIDO_7HqCfvY8aAIrFyxwVZAVFreFTtK_TdAj8vXWiyEWDUNpm4p?width=660&height=322&cropmode=none){: width="660" height="322"} 
+![ziwei_7d]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_07d.png){: width="660" height="322"} 
 
 ### 安天厨星
 
@@ -468,7 +467,7 @@ $$\begin{aligned}
 
 解释：己年出生人，天厨在猴房，即申宫，以此类推。
 
-![ziwei_7d](https://bnz06pap002files.storage.live.com/y4mZeBArJg87PEyCpGtLXcfNPuVuRpXCyW6Y4W7uqxbBNjV-5P5lkezshqPDG-uMh5LIox4UT7_kCdctcrAZfFM7LwWg0VRNqwX653PgyqhcfjfoOlLwMNIQRMKMmjEt5kSn_8jTGf9y1OlqpyIGuZ5GJOCtR2T8nTGnte67Z3iMWrH5_mC_59aFsccSzPxozsP?width=256&height=250&cropmode=none){: width="256" height="250"} 
+![ziwei_7e]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_07e.png){: width="256" height="250"} 
 
 ### 安截空
 
@@ -481,7 +480,7 @@ $$\begin{aligned}
 
 解释：丁年出生，寅卯宫为截空星，而丁为阴年，则阴宫卯宫为正截空，阳宫寅宫为旁截空。
 
-![ziwei_7e](https://bnz06pap002files.storage.live.com/y4mDX4MYVmPPdBz2mOdd02ANvGK2ePprpsYhr4e7rgcY83tAesahGe_emuUJGDHuSeeL7pX4BqXBpCxuG45p45KEzedzfjWO42dAkkUMG2f-7rvicDonjhHTfNzrnf1ctIz__DapYtAYNITZj1SipBuP-oVtNEKauddPGfdxfnq3ITCq9jXYFU4gjo-Qqpl8sY6?width=256&height=249&cropmode=none){: width="256" height="249"}
+![ziwei_7f]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_07f.png){: width="256" height="249"}
 
 ### 安旬空
 
@@ -489,8 +488,7 @@ $$\begin{aligned}
 所以有两个地支没有天干，这两个地支便是旬空星的位置。而旬空星是依**生年年干**对应**生年地支**的位置找出来的。
 但谨记阳天干配阳地支或阴天干配阴地支是为正旬空（旬中），阳天干配阴地支或阴天干配阳地支是为傍旬空（空亡）。
 
-![ziwei_7f](https://bnz06pap002files.storage.live.com/y4mBBEoUdb4In2EtI6gWXO9cxwfVccqRJegMy6XmjOi79nwJODKumpiViMYXi5lnujFtgWKkn39Z0Xi3cbcaaSwPQcn3WOXtEXJsx3bmtJrJYs2jSn7LIJxPY5a7d-8ViIoxPbRY-kxwSLedOsUYFXczVh2Nbrmc32_padaJFKab9ac9Z3WYja4sm-riEHNM4Qd?width=660&height=323&cropmode=none
-){: width="660" height="323"} 
+![ziwei_7g]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_07g.png){: width="660" height="323"} 
 
 根据生年年干安旬中空亡决：
 > 甲子旬中空戌亥、甲戌旬中空申酉、甲申旬中空午未、甲午旬中空辰巳、甲辰旬中寅卯、甲寅旬中空子丑。
@@ -500,17 +498,14 @@ $$\begin{aligned}
 
 阳历2008年1月15日（农历丁亥年腊月初八）寅时出生女性，年干系诸星用红色标识，目前的命盘如图：
 
-![ziwei_7g](https://bnz06pap002files.storage.live.com/y4mnuxU0pF-oNsj7AVcILUtF74Hj7Ns4hWsYP1KU736kR4dqfhh9-UFOpEBKRgeVocrzQIRH1g4fEOdNWSpgWsRES4Kc9SNz96RdojEf2L3vwLVx5ZhrlSQl-62jmgD_VmXSGukgwKjHoUVi7OIzVbKyJ64R1u-BIdVy9WdwWpe3Wlz2Mf0krZOkYVz18kYQac7?width=1024&height=767&cropmode=none
-){: width="1024" height="767"} 
-
+![ziwei_7h]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_07h.png){: width="660" height="495"}
 
 {: #ref08}
 ## 安年支系诸星
 
 根据出生年支定支系诸星总表如下：
 
-![ziwei_8a](https://bnz06pap002files.storage.live.com/y4mFeKfYTHbgQCy5iSk6p78Xow6yckGnM9xAZtqpjKckYZt9X73OhjPOKpbXEpNi7jagZLQpEw70oL6wVH0ocj4RkPjkCsHzl9Ua_jqFCk8687dYR5AxXuYLERqgur-S1jgnnSct24-LVXI4fiNfrkqYrsYLqDa_G61WiAzlq_Vdq0Bp-wqGhxk23u78jYnqTwi?width=660&height=489&cropmode=none
-){: width="660" height="489"} 
+![ziwei_8a]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_08a.png){: width="660" height="489"} 
 
 ### 安天马、天空
 
@@ -523,7 +518,7 @@ $$\begin{aligned}
 又一安天马诀曰：
 > 寅午戍年马在申、申子辰年马在寅、巳酉丑年马在亥、亥卯未年马在巳
 
-![ziwei_8b](https://bnz06pap002files.storage.live.com/y4mWXrX8SlEiStGq6nMMqzzI-zopPrhKmlac4DEM3tLpB1Zb-iqdBKUQq8W0IOBO_kajzh8hHLxTzV8rJNZr0U-qmmrtKSaXf5RdxyvVfGkPjtHmqAUN7VpXLrBFKMePT2fxpesEBb1un40I0P2knh6zr23_K0_MIL-Tlqd_ZayQLk8Ugklyx21ghYcsVGFmHx1?width=660&height=319&cropmode=none){: width="660" height="319"} 
+![ziwei_8b]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_08b.png){: width="660" height="319"} 
 
 例如亥年出生，则天马在巳，天空在子。由口诀可知，天马必在四马地，且必不逢擎羊。
 
@@ -535,8 +530,7 @@ $$\begin{aligned}
 解释：由午宮起子年逆行，数至出生年支即是天哭；由午宫起子年顺行，数至出生年支即是天虚。
 如寅年生人，天哭在辰；天虚在申。亥年生人，天哭在未；天虚在巳。
 
-![ziwei_8c](https://bnz06pap002files.storage.live.com/y4mzZslb4cCTe2nYPVE7ctt03MSstVZLsiSkXa2UOpbkGLArtjm0pHUY51CdtyJ5tOeT6vXNDAwfp9FGVYxb0DFQjFM8BfPKIzSb_ccKgeC2-NjZ96MUKzcsZrak39l7gMJ86OTw8hoAdPmBkht5-RqLRv2IfdaYgEctBKUfTci66rgDxnWn1mjIZTWiyM9m6tU?width=251&height=256&cropmode=none
-){: width="251" height="256"} 
+![ziwei_8c]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_08c.png){: width="251" height="256"} 
 
 ### 安龙池、凤阁
 
@@ -546,8 +540,7 @@ $$\begin{aligned}
 解释：龙池从辰宫起子顺行，凤阁从戌宫起子逆行，分别落在出生年支相应的基本宫。
 例如，戌年生人，辰宫起子顺行，龙池便在寅宫，戌宫逆行起子，凤阁即在子宫。亥年出生，龙池在卯宫，凤阁在亥宫。
 
-![ziwei_8d](https://bnz06pap002files.storage.live.com/y4mA23SQXxNWMCu85wAHbg-Gk0JhFBFe8_kBrV-B2YWmUpomgRTfE5i00nowEG7kbEiDe0YkWjxIQhLYBjGZY_B0q661TvIWg5ehqiuXQ7mFeW3ttKx6yQGy4sTtV1Zzml4p_tPEMndNnxlTRRS2A6s3_N8HRLC_APC7nlUfekIN-lJl0AEJVCooAfQKt4xkkaq?width=256&height=247&cropmode=none
-){: width="256" height="247"}
+![ziwei_8d]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_08d.png){: width="256" height="247"}
 
 ### 安红鸾、天喜
 
@@ -557,7 +550,7 @@ $$\begin{aligned}
 解释：从卯宮上逆行起子年，至寅宮丑年，丑宮寅年……，如是安红鸾后，天喜一定在红鸾对宮。
 例如巳年出生，红鸾在戌宮，天喜在辰宮。亥年出生，由卯宫逆时针一周，红鸾辰宫，天喜在在对宫戌宫。
 
-![ziwei_8e](https://bnz06pap002files.storage.live.com/y4m0YJwMYgXLqQlBROkPyLkcngoX3BXV8NUBkhfH6jX25XZwy9MEj-du8ojP4IbAiZ9jTXT4tPWrer0D9WrBaAe0c66IBNcU6NImgmK-N9w17Kel5tLVjmDBm-7Gx_Q_KFf_VB-clcQnzWhi4tEPRrndnUk4ojOum9M3klPUQKddTmCCtCPP4fgG2l0ITFWKc-q?width=252&height=256&cropmode=none){: width="252" height="256"} 
+![ziwei_8e]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_08e.png){: width="252" height="256"} 
 
 因为红鸾和天喜都是逆时针旋转，且起宫分别为卯、酉宫，互为对宫，所以最后也分别落在对宫。
 
@@ -574,24 +567,23 @@ $$\begin{aligned}
 
 例如亥年出生，依口诀**亥子丑方寅戌嗔**，对宫为午，寅午戌为三合，则馀宫寅、戌分别为孤辰、寡宿位。
 
-![ziwei_8f](https://bnz06pap002files.storage.live.com/y4m_mCJwqpsDDwGFNTSx19-XGXJp9Y2dc40exz92po8FhrOvm_25iLGm0es1C163F7wOnbj75QLy6AcJxg43YfIRRGWxaYvuLG9eDZxQS9bJQ6pW5_lp_T_V5FwRmmf-n77FPbHh30mAZVcpj40Ya0Lw9tGiR_ZrZu7Qan1fUWUh69M8w6SOcJVPE-wwHJ0AO3o?width=251&height=256&cropmode=none
-){: width="251" height="256"} 
+![ziwei_8f]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_08f.png){: width="251" height="256"} 
 
 阳历2008年1月15日（农历丁亥年腊月初八）寅时出生女性，年支系诸星用红色标识，目前的命盘如图：
 
-![ziwei_8g](https://bnz06pap002files.storage.live.com/y4maxCWahiZdHGtIGcU43mQjBxJkjRM44TqJR3-asyJ10cuO_Pao30mqq5Lx7obmFD7WhMiCyRBGGU1CU8ZfRiVY5DY9AVO4Z2BR5J4nI41xRhn8isahtq8OnqhZcDjKo77JAMU-gBFFCgSCZflfRIAVqAnENTVECcVLznVZ6MIfMQHvliWlKw9tXWh6Np53FWK?width=1024&height=767&cropmode=none){: width="1024" height="767"} 
+![ziwei_8g]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_08g.png){: width="660" height="495"}
 
 ## 安年支系诸星（继续）
 
 根据出生年支定支系诸星续表如下：
 
-![ziwei_9](https://bnz06pap002files.storage.live.com/y4m1XmHakjJ-oxHJYlJNkuRjphtMaeYQLsuMRKvhq0KKsyIfOSCrpNodYlu6j6m8MsZ7AArtccg30Rp92Fro4kgqjGpLl7wblMke3PQX4UIY3EyMtx48x1BLaQML_rH9muHB3O4wazI0Ph1VRGrDpTy_OFc0ZRwCIfOdvASYaF6wvSZQvtNgNkX4IML9kOECIc5?width=660&height=484&cropmode=none
-){: width="660" height="484"} 
+![ziwei_9a]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_09a.png){: width="660" height="484"} 
 
 ### 安天才、天寿
 
 安天才、天寿口诀：
 > 命宮起子天才顺、身宫起子天寿堂
+
 解释： 从命宫、身宫分别顺时针起子年，数到出生年支，分别安天才，天寿。
 
 例如亥年出生，则命宫、身宫分别在亥，卯，顺时针分别数到亥年，则天才在戌宫，天寿在寅宫。
@@ -605,8 +597,7 @@ $$\begin{aligned}
 
 例如亥年出生，则天德在申宫；年解在亥宫。
 
-![ziwei_9a](https://bnz06pap002files.storage.live.com/y4mBQLCZLsrQ37ZLW1DeiL-3Rx9uQURT2Aqls9QEPk4UEGgEr_HA6d6DIko0EqaHSkCVKCo7g7eJNtVmGrMBEIKLF9d1gszLFI3J2Dza9EBG5VUJLMYHjkV-bdZU17KKNTSvN5eaYAW0iZAmHtC9pFfoKTCSkKkEpWcyppUyFeroDypIlvOYkmgd1JbpAAI12r9?width=660&height=313&cropmode=none
-){: width="660" height="313"} 
+![ziwei_9b]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_09b.png){: width="660" height="313"} 
 
 ### 安大耗
 
@@ -619,8 +610,7 @@ $$\begin{aligned}
 
 **注意**：这里的对冲不是传统意义的对宫，而是根据下图所示关系：
 
-![ziwei_9b](https://bnz06pap002files.storage.live.com/y4m0m-m8dx8YfT5PcyPkAOVUR50neryEcVhi77ac4LciWMEtmst3pZ2XQ0lkbiw8SD6CTH0UgXAaduPqdwyzO7UndH6ilziTiomkXtCLG-AvbDbQTYCF9X-AAK1M9D1FFBVNyXnrjAlLwypoPMb84fF0qrmdd0nzu-1a8CcpfcM0Ns5L5HxGck5qTZw06ZxGa7z?width=256&height=246&cropmode=none
-){: width="256" height="246"} 
+![ziwei_9c]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_09c.png){: width="256" height="246"} 
 
 ### 安年支六曜（蜚廉、破碎、华盖、咸池、龙德、月德）
 
@@ -632,26 +622,26 @@ $$\begin{aligned}
 
 例如亥年生，则蜚蠊在北方「亥子丑」中的丑宫，破碎在酉宫。
 
-![ziwei_9c](https://bnz06pap002files.storage.live.com/y4m_Pc8MW0nBDWoDspJMuuUjkMsFgUca3HthiNJ5PX0_TNnXpCIKeESIlOWVtFTiaMTJFpzr0N9o5EaNldsAM1PPOsvgP_y_3xcP0uO7oZMd8zb-RU0Nf6JirukE794O4llgvxqmS-PbmMSqhXbzI2eJadsZ8D-XmlgOLLdXkyEyTW4q7JStvjLZS4GqXazKVSg?width=660&height=311&cropmode=none){: width="660" height="311"} 
+![ziwei_9d]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_09d.png){: width="660" height="311"} 
 
 解释：安华盖星，子年由辰宫起，按「辰丑戌未」逆时针轮排十二年支。安咸池星，子年由酉宫起，安「酉午卯子」逆时针轮排十二年支。
 
 举例亥年生，华盖在未宫，咸池在子宫。
 
-![ziwei_9d](https://bnz06pap002files.storage.live.com/y4mLstzRQngCA7yEpAsaOEaxRjfPPYMdmSoaz1aB3oSPRTZMXT4BvZhn-euWa-Dym49xW8z-dHvgf6hpeU5nzI2yUkx7G-cOo88S3I5usNqnbHNE2HMU6x6QrWcWkEnCQ9rxdgQFOYzFJ7SYZXUEtHuMtPht0SYCGPlf3mhVHfkn-85YoWnyuG5qsn6E2ipOyxV?width=660&height=313&cropmode=none){: width="660" height="313"} 
+![ziwei_9e]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_09e.png){: width="660" height="313"} 
 
 解释：安龙德星，由未宫起子年，顺时针安十二年支。安月德星，由巳宫起子年，顺时针安十二年支。
 
 例如亥年生，龙德在午宫，月德在辰宫。
 
-![ziwei_9e](https://bnz06pap002files.storage.live.com/y4mf11YdyC17tQQs3o1VKXF10-a6CfRRdzxTHhc22rSnmK5jVqwM3Nb-wbeoQriMDEutQ9O7YRhc3iwz2rrmw4YcOn_R9ZgpPEaT7DTiA8sHnfi2OdsEzSI0Fhpjc76bcg6t-rmNO1-R33z1epvPM0enumAzHsAQCE1LLTpTvq6QSoVkyWGCqAV6X1kR5HYr2yy?width=660&height=310&cropmode=none){: width="660" height="495"} 
+![ziwei_9f]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_09f.png){: width="660" height="495"} 
 
 ### 安劫煞
 
 安劫煞口诀：
 > 申子辰人蛇开口、亥卯未人猴速走、寅午戌人猪面黑、巳酉丑人虎咆哮
 
-![ziwei_9f](https://bnz06pap002files.storage.live.com/y4mjUVYlp5twA9I99zgbXULb2vg6Tk5CsIPyRGKSDtFP0I0siUItUfHJ3oi4knyHZwJpxIyRt-GOqB5aoR4cOJBUQmAiaO-BBPm2Yc0UGGvMmuNgByTiJsTXAe1JX7t0_2YowB0PpzcYiOOwBWjXUgQVg69_sx6HbIglFwr3GmV2xB-9bw-nF1ks_7NMlCTS-al?width=256&height=245&cropmode=none){: width="256" height="245"} 
+![ziwei_9g]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_09g.png){: width="256" height="245"} 
 
 解释：劫煞以三合局来定位，例如「申子辰」三合水局，在水局之绝位（第十个宫位），即巳位安劫煞；
 「寅午戌」三合火局，绝位在亥宫，劫煞在亥；「亥卯未」三合木局，绝位在申宫，劫煞在申；「巳酉丑」三合金局，绝位在寅， 劫煞在寅。
@@ -661,20 +651,20 @@ $$\begin{aligned}
 
 阳历2008年1月15日（农历丁亥年腊月初八）寅时出生女性，年支系诸星用红蓝两色标识，目前的命盘如图：
 
-![ziwei_9g](https://bnz06pap002files.storage.live.com/y4ml0T7h91RRBnFOguJNEb9hw4i7mvUb3qIo-wCD572wpVaVqI4PoIj0xgbO1MaHl-I6yJjQU5FkuRG9HJhrBc2UYmEmEnVliRjZXvs8xEv2LqwRiIcsWwf_QK6c7PYEXJ3RfWPHltNIQTlS0aqzGDUmwksoIjzTCrfZl3Ub06okPhBaHU7X0blyfbfCpG5u7md?width=1024&height=767&cropmode=none){: width="1024" height="776"} ]
+![ziwei_9h]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_09h.png){: width="660" height="495"}
 
 ## 安月系诸星
 
 辅弼星已经在**[安辅弼昌曲空劫](#ref05)**的章节中介绍过，这里继续介绍其它月系诸星的安星法。
 
-![ziwei_10](https://bnz06pap002files.storage.live.com/y4mBfhsEkophGuGZSzA0ByFIaVLlVYU3RyJxP0_WGabulcGRELrijY-Yu0cMZlJFKmtK9YDu2VrNWmMfMFEDPmHdoLd6Uc4a05vi_9ygbA3UEUTpVPQn_-88t_HHCjkKvkzJ4Ukl_XGik6WlzIQx-Rz7clfGNlWViEE479kg7FM4y6Bis_Vf0zYuTklST6QVIu5?width=678&height=750&cropmode=none){: width="678" height="750"} 
+![ziwei_10a]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_10a.png){: width="475" height="525"} 
 
 ### 安天刑、天姚
 
 根据生月安刑姚口诀：
 > 天姚丑上顺正月、天刑酉上正月轮、数至生月便住脚、即安刑姚两颗星
 
-![ziwei_10a](https://bnz06pap002files.storage.live.com/y4mbHhxaYyy-lJYyrKhBagOprYhrWupTjxVGL95E0Cja6XOW0dWncd9K550l_K0Dz7NTX0dOPo8TRQ15qBzDFZ21qx8sVLVRnNv2GqOx-5IS-cz4ka7a5u8GmXgmLA-rYeqbRsckoYKKvggK914eAiPPrGfsts5ulRZVpoEXfvVvRmPnRMWHD8nfVRk-rzhFmQC?width=660&height=315&cropmode=none){: width="660" height="315"} 
+![ziwei_10b]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_10b.png){: width="660" height="315"} 
 
 解释：丑宫开始顺时针数生月为天姚，酉宫开始逆时针数生月为天刑。例如腊月出生，则天姚在子宫，天刑在申宫。
 
@@ -683,7 +673,7 @@ $$\begin{aligned}
 安解神、天巫口诀：
 > 单月冲宫见解神、双月还依单月辰、巳申寅亥天巫位、分轮十二月星君
 
-![ziwei_10b](https://bnz06pap002files.storage.live.com/y4mqdUU9YSZ2UyK7vhKUm3DE95NGXLD58-wCs9q9kkSwNY1MUdH8wcgIX10XjzQRGTzS07zN3-ZEk4srVGvGx4r8wUGKQ3-rXtfwd-az3cXZVEvIz-N4H7eC1-7j8XDLdJ6khsQ_6FVSewruxR48fFj-Ki5MhorQ5lhemtu063n4F0gH9uvQDRdvzfs8GKIJgyd?width=660&height=314&cropmode=none){: width="660" height="314"} 
+![ziwei_10c]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_10c.png){: width="660" height="314"} 
 
 解释：解神又名月解，与按生年所安的[年解]有别。月解的起法，按两个月起一宫，例如正月二月同宮，依正月建寅，
 所以正、二月的月解同在寅的对宫，即申宫。相当于按从寅宫起正月、二月，顺时针隔一宮安二月，以此类推。
@@ -696,7 +686,7 @@ $$\begin{aligned}
 安天月口诀：
 > 一犬二蛇三在龙、四虎五羊六兔宫、七猪八羊九在虎、十马冬犬腊寅中
 
-![ziwei_10c](https://bnz06pap002files.storage.live.com/y4mlFT5GIanC8-Iup-hSnlf60i5NsQCM5H9v_SQbMa4I0W987B3H1A3R_e_6UvAzO4XDIcV_whjSdnONMTMm_1AIms2KfZk0rbEHIJJxL_qL4EvLVzx8t0572hek8cthGMsX93x5Wi6TZ_tuZMF5UeKiT4YeZyMLu8rriZdhgIhjoREw42BzPvRTrJC5IHBn4Ms?width=256&height=250&cropmode=none){: width="256" height="250"}
+![ziwei_10d]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_10d.png){: width="256" height="250"}
 
 解释：根据口诀将月份安进相应的基本宫中。例如腊月在寅宫。
 
@@ -705,14 +695,13 @@ $$\begin{aligned}
 安阴煞口诀：
 > 寅子戌、申午辰、分六月、阴煞临
 
-![ziwei_10d](https://bnz06pap002files.storage.live.com/y4mNQoDcnEr6hJY_SyIQnkC2ul5QleQJgaIG6ALLvpOHAhEBj3nHDZj38yZupRnTMNR_K9SNUoKGRlVmVfYWzF3PocLDyPpr0gmWj42c91CuPjWxnhSROCqZQiUFsTmqGfA6fbZKALMaU6yOJOtVWWiJkYsxDLlr0T0gpvYHYhgKr18YwvBDDdWiVkDFbGasVOo?width=256&height=248&cropmode=none){: width="256" height="248"}
+![ziwei_10e]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_10e.png){: width="256" height="248"}
 
 解释： 正月由寅宫起，逆时针每隔一宮安一月，如是轮排十二月。很明显，每宫内的月份相差6个月。例如腊月在辰宫。
 
-
 阳历2008年1月15日（农历丁亥年腊月初八）寅时出生女性，月系诸星用红色标识，目前的命盘如图：
 
-![ziwei_10e](https://bnz06pap002files.storage.live.com/y4m_HgIqGCx23ZRpaapA4M-PnPzurNidVqqkuvvGvc8jdhEVZIgOyJElcXxz5srifMP9YF0ZTaFMoHerAcTMywxs3r3OR3HmektMpw0-S8ZiuVbREsy1l4oqutjEim0yIoOWLO-5pIqsuQjF38bfuo0pGSJGNf5MOCJUZYryBP61d-43Evpb6i5fo-L1Fnd_g0u?width=1024&height=767&cropmode=none){: width="1024" height="767"} 
+![ziwei_10f]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_10f.png){: width="660" height="495"}
 
 ## 安日系诸星
 
@@ -722,26 +711,26 @@ $$\begin{aligned}
 依昌曲安恩光天贵口诀：
 > 文昌顺数至生日、退后一步是恩光、文曲顺数至生日、退后一步天贵方
 
-![ziwei_11](https://bnz06pap002files.storage.live.com/y4mbLaZ_VNLRn4xKAh1nuD7WDAUX8d0tBY58EBICwUgJgnjT8QMnBucoJCi1Wk4rQmvt1y9ahwT954BnJIw4nedk_HnQvd4RJF-oHT8KDvxWkuVKjMnvoNvwE1fr1sGs592yQIuXre21tnaKOl8721FgyH6ETbC8vyXPunDGjPHzfPCyxAyYLZZ1Q8zlEjauAmH?width=660&height=210&cropmode=none){: width="660" height="210"} 
+![ziwei_11a]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_11a.png){: width="660" height="210"} 
 
 解释：阳历2008年1月15日（农历丁亥年腊月初八）寅时出生女性，初八生日，左辅卯宫起初一，顺数初八，三台在戌宫；
 右弼亥宫起初一，逆数初八，八座在辰宫；文昌申宫起初一，顺数初七，恩光在寅宫；文曲午宫起初一，顺数初七，天贵在子宫。
 
-![ziwei_11b](https://bnz06pap002files.storage.live.com/y4mJN6j-CC0MySxO86-kQOhM3wSx8vX1VGOykanm4vtcboqPNtybzm9j9CWmgdJRWZIJcJqiRjzh3b6023iOz6IYPVKovyWgCFAATMfrAfqEJvNFxVnpTkJLUCDZAnvA8jsEUbcP6XEGL_d1rr8GB2BLfMkRw-Ws1zOZzpdaoQUdzeD0-YPIL0yjnVGU_Eznvvq?width=1024&height=670&cropmode=none){: width="1024" height="670"} 
+![ziwei_11b]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_11b.png){: width="1024" height="671"} 
 
 ## 安时系诸星
 
 昌曲空劫星已经在**[安辅弼昌曲空劫](#ref05)**的章节中介绍过，简单概括则为：辰宫开始顺时针数生时为文曲，
 戌宫开始逆时针数生时为文昌。 亥宫开始顺时针数生时为地劫，亥宫开始逆时针数生时为地空。这里继续介绍其它时系诸星的安星法。
 
-![ziwei_12](https://bnz06pap002files.storage.live.com/y4my3IKAgcz37AaQB7j53oF4jumQYbC1cWV0_DwHqxZElN9mfXoPcYNhxrNoZ8hHhchpxVYqNaamRJuPys8Lhqf8UPE4S0DSOuLOnBItCjn2Jf1DZncfmsTWHx_TUePv9GHdM971zHIT8yicKkNZPU-kF7F0aqO4c9P9MentMMyqyZkqLUpoNLZkNKWbZMbN6_Q?width=660&height=496&cropmode=none){: width="660" height="496"} 
+![ziwei_12a]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_12a.png){: width="660" height="496"} 
 
 ### 安火星、铃星
 
 据年支依生时，安火铃口诀：
 > 申子辰人寅戌扬、寅午戌人丑卯方、巳酉丑人卯戌位、亥卯未人酉戌房
 
-![ziwei_12a](https://bnz06pap002files.storage.live.com/y4mdQwhl6h7sgoLMjaRplgVEzzDWqZdcO2fC3ExeJQdouFkB4FC8hyr97jkCcz5oGek0dHYs7utDWlR_AKvAxypNXlwsrPfH7PQgxIj9_cyB3JQel-lZ9ikrE8VEeYqJEqVLMycv32V-Z5I3Y8RNGMny_5kuysJbCqBoeXgPVZs4lELsYCXM63U63Okurrcl6Tg?width=660&height=314&cropmode=none){: width="660" height="314"} 
+![ziwei_12b]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_12b.png){: width="660" height="314"} 
 
 解释：起火铃二曜先据出生年支，依口诀定火铃起子时位。
 例如壬辰年卯时生人，据「**申子辰人寅戌扬**」口诀，故火星在寅宫起子时，铃星在戌宫起子时，顺数至卯时，
@@ -753,26 +742,25 @@ $$\begin{aligned}
 根据出生时辰，安台辅封诰口诀：
 > 曲前二位是台辅、曲后二位封诰乡
 
-![ziwei_12b](https://bnz06pap002files.storage.live.com/y4mekf4vSW_73D8BEOOwVaAsStAp0wwVSjZmHqzs_eclLfkHyX9qtNttqRHt2mPfsS5z-B3c1Ud-Vj8QUSmsLHU6t4cUGevU5e0WvYT_AhOpOWs8iC3Lrny_wPiihkU_wmgAXT9JhNa7HOLiz5ga4hp7VR7WwY1IEj0mzmChRXtlgyWPMhVTqsbVIsNxM7uT1dM?width=256&height=245&cropmode=none
-){: width="256" height="245"} 
+![ziwei_12c]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_12c.png){: width="256" height="245"} 
 
 解释：文曲星顺时针前进二位安台辅，文曲逆时针退后二位安封诰。例如文曲在未……，则台辅在酉、封诰在巳。
 如果寅时出生，辰宫开始顺时针数生时，文曲在午宫，则台辅在申宫，封诰在辰宫。
 
 阳历2008年1月15日（农历丁亥年腊月初八）寅时出生女性，时系诸星用红色标识，目前的命盘如图：
 
-![ziwei_12c](https://bnz06pap002files.storage.live.com/y4mrkcFQov0v87KFn2FiCH0OW_ezfz0oKkHrHfcvwl1nDzRSN9wDvhqdiR1vluUHpMZOApPVaFuEXG6-kTyHxh_zNFoJfjplGdOBBIhAlY5Y0PZOZeS0V4eWae6eCIEtg_PebElUt1Vha-8qdHvO8HdXHIdz4nP948mX-dY25lBiqM_Pxq3nNzHZN7HuvkG8-zw?width=1024&height=670&cropmode=none){: width="1024" height="670"} 
+![ziwei_12d]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_12d.png){: width="1024" height="671"} 
 
 ## 安长生十二神
 
 金、木、水、火、土，五行五种元素在十二宫中都有一定生长，壮旺而至哀死的过程，有如春天的草木萌芽，夏天开花，
 秋天结果，冬天衰死而果实埋藏，到春天后又再发芽，五行的变化，术数中便以下列十二个阶段来形容：
 
-![ziwei_13a](https://bnz06pap002files.storage.live.com/y4m4sudFp2-0dyXQ2ZJCAvYxmb-8sVYVRFnwAptg4qVn25YE86EltBOEKMhXp3ZeYNzxUR8w2OLvKnb8bXQHcylHuQD1VaXORTw7X-XkoYCRH4QwV3nCyRYgrU9bgndO5U4swsR_bnlq2fZA-4lcjKiC9Njgile7xIok2X2p7Spn4IRHamirrdaXc0_htPRpmz3?width=527&height=660&cropmode=none){: width="527" height="660"} 
+![ziwei_13a]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_13a.png){: width="527" height="660"} 
 
 五行十二宫，各有不同的生旺衰绝期，现将之分列如下：
 
-![ziwei_13c](https://bnz06pap002files.storage.live.com/y4mTvHIeib5o84_zdy5Ul39taCjYdokhid_tyuIZGtoiLJD9FZ0AA8PBt_6vXcDGHqbv1zA4VUQVIOaAoRtAOcm1aB0nq62RvyXmcxAlpaPVFHq0JJ7HzzAimob2hgzoENQ2UB_h5PpSqRqTgqG7dZHHSF4NQZIaCP0_ZAxIbIXmmZvU7hp01FLo55NjBc0HPlL?width=622&height=660&cropmode=none){: width="622" height="660"} 
+![ziwei_13b]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_13b.png){: width="622" height="660"}
 
 五行十二宫中，又以长生、帝旺(或沐浴)及墓库三者为变化的主要阶段，因此三者便可组成一局：
 
@@ -786,7 +774,7 @@ $$\begin{aligned}
 另一口诀：
 > 六五三四二、寅申亥巳申、阳男阴女顺排、阴男阳女逆排
 
-![ziwei_13b](https://bnz06pap002files.storage.live.com/y4mQI1OmFjrFSMY8NfVV6aX7X37Ictp2c-5LlguQuWKfcuuQoQl9uBmvRF4e4Fkxo0xUnek40CvvB8dEJEoZ40EzkZeLAeYYy4HelXg1L05XB06SdQk-H4kEmyBk6H5fedGvI_-OkYfIQqmfN2e_dZlipZzn5-lzhZQPC0j_PFjgSTCBuQcK_kZq5rIGqO4aDJy?width=256&height=248&cropmode=none){: width="256" height="248"} 
+![ziwei_13c]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_13c.png){: width="256" height="248"} 
 
 解释：根据五行局数，确定长生宫位，阳男阴女顺行，阴男阳女逆行。依十二神顺序：长生、沐浴、冠带、临官、帝旺、衰、
 病、死、墓、绝、胎、养。
@@ -794,7 +782,7 @@ $$\begin{aligned}
 由安星法可知，长生十二神定位取决于五项因素：命宫的位置、五行局、性别。农历丁亥年腊月初八寅时出生阴女，
 金四局，长生位于巳宫，顺时针排列长生十二神。长生十二神用红色标识，目前的命盘如图：
 
-![ziwei_13d](https://bnz06pap002files.storage.live.com/y4mkZIYgf-Y0GYCaIDPAr10_89vYRP7dS7X_e5NcQw9MSFO8V1fHT8Y07yXTl2Yvvqu0Ec05tFOu25lgWLA3ei7hO20ZpxREJYCItqBJW2sUHJJP98mwePkH3o6ssUjMdCpLwfu46gSyZWn1IGk9l-43kjCOhDewgC_GOZm6H-caPVjtAJ-loXxxZxeVOX8VxkV?width=1024&height=670&cropmode=none){: width="1024" height="670"} 
+![ziwei_13d]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_13d.png){: width="1024" height="671"} 
 
 ## 安博士十二神
 
@@ -807,7 +795,7 @@ $$\begin{aligned}
 以出生年干定禄存起，分顺逆，阳男阴女顺行，阴男阳女逆行，依歌诀顺序，安生年博士十二神。
 例如丁亥年腊月初八寅时出生阴女，禄存在午宫，顺时针安博士十二神。博士十二神用红色标识，目前的命盘如图：
 
-![ziwei_14](https://bnz06pap002files.storage.live.com/y4m4MqcMFaTvWwDuQbSHxFsu-QZzH74LNZcPb-_HNISNImx30zzpmmdOSj8CAIYSZkogT3yAYdthMO9f_R70aEDVyLpu2DGHMOXeOGqXdCw8s96Ke6ADioA4oLEBWUY1pRIaqQXvTCOXFa-ZbxfwuXEuCr8gtSFAe8Q_VIvLxA6_I8t6maoi3Unxl0sZzvtR5xe?width=1024&height=671&cropmode=none){: width="1024" height="671"} 
+![ziwei_14]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_14.png){: width="1024" height="671"} 
 
 ## 安流年诸系星曜
 
@@ -819,7 +807,7 @@ $$\begin{aligned}
 
 十二岁君又称十二神煞：岁建（太岁）、晦气、丧门、贯索、官符、小耗、岁破（大耗）、龙德、白虎、天德、吊客、病符。
 
-![ziwei_15](https://bnz06pap002files.storage.live.com/y4mR7oP8prLik9b8Z8mcL-NmDnSb4dpwiiRJCUHw_JwqqEc0z35XfyQobdARe62UjZxz5-sDI0c3nbnAHOuiFDyJkItNWZQYUMkejw2m2GkG3iqf2ndpf9cd87_ts_0iB6OZJLKuiWa5EEo--eKI3nYVqoxTQ6FNux6iTdwYQ6tLyaR_qkZQIJCqKHbiStW7i5N?width=541&height=660&cropmode=none){: width="541" height="660"} 
+![ziwei_15a]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_15a.png){: width="541" height="660"} 
 
 太岁十二神歌诀：
 > 太岁晦气丧门起、贯索官符小耗比、岁破龙德白虎神、天德吊客病符止
@@ -843,7 +831,7 @@ $$\begin{aligned}
 
 农历丁亥年腊月初八寅时出生阴女，太岁十二神和流年宫位用红色标识，壬寅年的流年命盘如图：
 
-![ziwei_15b](https://bnz06pap002files.storage.live.com/y4m4S05nS-kUFATxL_6e-rQF1CLV85jfKmNy8BkeSwVLnkKUbOhPrsVzCj0nTqVvuCIyi2NV3QFxibaaMhcEGGYz0Nx-9vPP5_tKbqIVRko5ZVAsza6XHu_RN-k3KN_waKXvwgyDnux377z5dEG7nkC7QGAhbG0c7w05czmNkh2dbDwI1FPXXTjgAr8S9H-SchH?width=660&height=507&cropmode=none){: width="660" height="507"}
+![ziwei_15b]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_15b.png){: width="660" height="507"}
 
 注1：博士十二神中的大耗又叫天耗，小耗又叫地耗，而岁前十二神的大耗叫岁破，这些皆为流曜，而依生年支安星的大耗则不是流曜。
 
@@ -855,7 +843,7 @@ $$\begin{aligned}
 将前十二神随**流年年支**发生变化，可以影响命主流年的运势，于该年流月、流日起作用。
 具体牵动何事的变化，需要依据每个人不同的命盘具体解释。
 
-![ziwei_16](https://bnz06pap002files.storage.live.com/y4mmj14o7QeTumGbFKaXHpzVgbvXsg3qe7gGLPAxENCCHgxVY8KTZMtLDxrk5kV4Ql4QfRPlRbHgRUy4TY6EohtmtqJSTDnrxN-C-wqFpCZkbdcZMJniPVZSQDt_ZckYQ9a91EAZZmtHNNZq58Vkc5yKSU0z4lJT6p2FNgCJuvhBfoy5lMi3Udu2OXfsbAaOA9_?width=605&height=660&cropmode=none){: width="605" height="660"} 
+![ziwei_16a]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_16a.png){: width="605" height="660"} 
 
 将前诸星口诀：
 > 将星三合起旺地、攀鞍岁驿息神方、华盖劫灾天三煞、指背咸池月煞亡
@@ -867,25 +855,25 @@ $$\begin{aligned}
 亥、卯、未三合木局见卯即为将星。所以将星都起于子午卯酉宫，将星是斗数中将前十二神之首，所谓将前，即是十二神由将星起，
 其余星曜依次顺时针方向排列。
 
-![ziwei_16b](https://bnz06pap002files.storage.live.com/y4mBVI-hc-zMkWU_RaIsMpsmhmzuIasLxC_ADQg6I4HDowO6u2YgePI2Nrds8kswSB_Hxa6TsiaZ8PFKeRk7FweOJ8Y_QUqv9s2zANA9iTkobg9d3LKPvGoI7BZy-qLU1qIPSte0gBd8h6XZNv6NgBfcECXzZKhpVwxbuSCvSJUlDLQupq-oil65bbe8hUewNzp?width=256&height=249&cropmode=none){: width="256" height="249"} 
+![ziwei_16b]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_16b.png){: width="256" height="249"} 
 
 流年将前十二星是由流年年支决定的，例如农历2023年为**癸卯**年，地支为**卯**，将前在卯宫。
 2022年为**壬寅**年，地支为**寅**，将前在午宫。其余诸星顺时针排列。
 
 农历丁亥年腊月初八寅时出生阴女，流年将前诸星用红色标识，**壬寅**年的流年命盘如图：
 
-![ziwei_16c](https://bnz06pap002files.storage.live.com/y4moOMRV_l-KIcZ5IUeG_cBF7lDK46juIKjGv-C0EEhrtyOm5nOo2PdmSCi0pmlD18EFZj3P441KaUS-BHLn4k3l3zcBKaKy_djzA7eXzOywbRF9I--q9_T0yXn0nJTDOhbgN33dMRz_UIxSd0yq1QfpWPoTDB6wXksOAEaeXKT6G7RnAunPsXoidlC9Kh71dbj?width=660&height=507&cropmode=none){: width="660" height="507"}
+![ziwei_16c]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_16c.png){: width="660" height="507"}
 
 ### 安流昌流曲
 
 流昌、流曲星的排法则与命盘昌曲星的排法不同，昌曲星乃时系星,它是以本命的生时支排列的,而流昌星则是由**流年年干**排定的。
 
-![ziwei_17b](https://bnz06pap002files.storage.live.com/y4mNp-6jywol7EiFkpIlHiNuZzi7JFm3ZuhSljSVs7BqhtfIupiU4Tt9zjUttC7EvRI9pzHjtrurMJvf-17iYRt_8kdOSaxBMtYplgheHTQ6Tlw9fDedix40iNK-scv8_kMMFpcmIfLaIZB3OoVQU4FiWAN-tBVpfmjaoSbHfuaqHSnlRaHr2Ncgea31qvReY1U?width=660&height=141&cropmode=none){: width="660" height="141"} 
+![ziwei_17a]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_17a.png){: width="660" height="141"} 
 
 安流曲、流昌口诀：
 > 流昌起巳位、甲乙顺流去、不用四墓宫、日月同年岁、流曲起酉位、甲乙逆行踪、亦不用四墓、年日月相同
 
-![ziwei_17](https://bnz06pap002files.storage.live.com/y4m_FDJDCcyDg5LcE-gSvT2cMkqP6RabAnb7vrSV9ORsVOGDQe3ny_rWB_QuFHnJJd5hP9To9eg2baeoqMpEpB3JKKdFEEtGpjTIayGCq044OlLLgtn20Ac77rFqxHqA0I7rDzyvAlD0gfAbwFLntBSrTDGgUQgmuj9Dk2uW26p459edJKudVnIBUJTUQRHIS4h?width=660&height=312&cropmode=none){: width="660" height="312"} 
+![ziwei_17b]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_17b.png){: width="660" height="312"} 
 
 解释：两诀末句，谓流年流月流日流时之流昌流曲，均依天干取。例如农历2023年为**癸卯**年，流年年干为**癸**，
 流昌在卯宫，流曲在亥宫。2022年为**壬寅**年，流年年干为**壬**，流昌在寅宫，流曲在子宫。
@@ -918,31 +906,31 @@ $$\begin{aligned}
 
 农历丁亥年腊月初八寅时出生阴女，流曜诸星用红色标识，**壬寅**年的流年命盘如图：	
 
-![ziwei_17c](https://bnz06pap002files.storage.live.com/y4mYYEK4tmROvyKtHLXBATxTX3fy0nno3QPADmbglPJYCT2EfyPolGIj-jj-WAVdmZsZojoz-qNnUlQ01KrInB6Sf_TEmnD3s37IkysSYLYx9EQ3S-o5gDgrDUao13JQbuZWpzyD1dHJ_8Qi-kVS0mYDkLrCDA93N8CU_fAWuR3alWBkvcHqvefPpl-L51H_4G4?width=660&height=507&cropmode=none){: width="660" height="507"} 
+![ziwei_17c]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_17c.png){: width="660" height="507"} 
 
 ## 安小限、命主、身主、斗君
 
 ### 定小限
 
-![ziwei_18](https://bnz06pap002files.storage.live.com/y4mkw1NHqzLt2NsbrW1wdwefayFN_Sl_JWsv1EskdDKFMh6qaXMD6M6Gj1gCx0hlIaIHwhoCsQCJCGXWnSQ6yxKcTLVyWDZFI4RHHvkHDVj122ixGLIm0GMu1-nVmNc03wtu6uw2LUErONgMwdio8lrWToj1SEhlSM-Z8KJ36LatMV8Wx2OS1NUvPxRq7DABoZm?width=506&height=660&cropmode=none){: width="506" height="660"} 
+![ziwei_18a]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_18a.png){: width="506" height="660"} 
 
 根据**生年年支**定小限口诀：
 > 先将生年分四局、墓库冲处小限起、男顺女逆一路行、不轮阴阳各排比
 
-![ziwei_18b](https://bnz06pap002files.storage.live.com/y4mzygOa4TB1TNDBkQCOsG1sWrz75vuOLVvflce3EE6XpyY2TP4vcUt0jAdqVTwinyqx8hsj7EmUhT_MgOCV5e11nRvDHUFA1fgR-0rtNjfwtSwZaE66WN-g-DHDW2-GVNp3CY3wfG1R7KhWACMOgAC3l6p-bIMf88qSB0qUzo8Ds_2gp0QjAgj_D46KfxRvILa?width=251&height=256&cropmode=none){: width="251" height="256"} 
+![ziwei_18b]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_18b.png){: width="251" height="256"} 
 
 解释：寅午戌人，戌墓冲辰，小限一岁由辰宫起；亥卯未人，未墓冲丑，小限一岁由丑宫起；申子辰人，辰墓冲戌，小限一岁由戌宮起；
 巳酉丑人，丑墓冲未，小限一岁由未宫起。男命顺行，女命逆行，不分阴阳。例如丁亥年出生，小限一岁由丑宫起。
 
 农历丁亥年腊月初八寅时出生阴女，小限用红色表示，命盘如图：
 
-![ziwei_18c](https://bnz06pap002files.storage.live.com/y4mhPJOa9wNdLsKOALFl4YraqDaJm8CGPD6kyudsG8nZG44Zu35MR1R9YD7KonQg1eECEXhH9rIH967qSloEMLVvmlDLOEQXNdVYZPOxaRAGv7vTMfbgoWvGvl00ru6qjRI8008Ws2dKA2l7pvDAR1S7XtTpDcPQdFB1-0Y_kkxmQ1XHl3wmkMtQci2YxK4RKqs?width=1024&height=670&cropmode=none){: width="1024" height="670"} 
+![ziwei_18c]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_18c.png){: width="1024" height="670"} 
 
 图中小限只显示一岁至12岁，其它小限可以分别加上12的倍数可得。
 
 ### 安命主、身主
 
-![ziwei_18c](https://bnz06pap002files.storage.live.com/y4mbG1XghIcbsLVsrpGbGDKPmv8XBxfp9ufzKt593ecWFkcHUZU9hL_YFe4O2YO54kuZOktS_srl7gIlHArnbOX7iGBeYMe2vKgnh_ekNH66xUdyPGq2NhsOsYK438cdWY7bpwcfbUD8LibR18fNPGfvE7U97-f7gn3GmlRll0X2SoXg4cygAjpyWuQwbLMDpNe?width=660&height=201&cropmode=none){: width="660" height="495"} 
+![ziwei_18d]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_18d.png){: width="660" height="495"} 
 
 根据生年年支安命主口诀：
 > 子属贪狼丑亥门、寅戌生人属禄存、卯酉属文巳未武、辰申廉宿午破军
@@ -954,7 +942,7 @@ $$\begin{aligned}
 
 ### 安斗君
 
-![ziwei_18d](https://bnz06pap002files.storage.live.com/y4ma8YCWAOXhDjxXIzNJxm0kiAYjs8GDRqgQC0_wrwl1-QcGE877t5dUD0UNnia5bMUC2UdR5lPK7j8dFu3pbp0_rvK-x3VbVihSYXPUcjJ9ArEuomIGaRbUtZhk2M0BwJoyOocfSCtDrZD40sbXM8spXG2WAwAjKtoXa4SewC5TE4ubKqQbCZBrDPnqerwBZg_?width=481&height=660&cropmode=none){: width="481" height="660"} 
+![ziwei_18e]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_18e.png){: width="481" height="660"} 
 
 注：此表只起子年斗君。
 
@@ -1000,7 +988,7 @@ $$\begin{aligned}
 推算**干支纪日**除了可以查阅万年历，还可以根据**日干支推算表**计算。它不用考虑任何闰年平年问题，
 一张表直接推算出几千年的每一天干支。
 
-![ziwei_18g](https://bnz06pap002files.storage.live.com/y4msuw_k1GMcfYeCeeamFOY-9ANOb-KYbozG6otfjk3YkVcAY_Jyhle8sbneDNGXQ1D0bAzqRaBEmkoBqNony6cLxYBLkKuU5GQ_ahFfIAoouZ1lc-tfc6lC10p0pr5scXTMiZxWP8vw9xJOHTEfr8LxHkh-1Wq6twgn39A-Yv9mhwaUa2qifdOVQZpZmApiDDk?width=1024&height=479&cropmode=none){: width="1024" height="479"} 
+![ziwei_18f]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_18f.png){: width="1024" height="479"} 
 
 日柱公式如下： 
 
@@ -1036,7 +1024,7 @@ $$\begin{aligned}
 至于甲日，或者己日的名称，是从万年历上查到的，然后按查到的日子名称，再根据其日干来查时上的名称。
 这样，只要知道了每一天“子”时的名称，以下各时的名称按表顺查就知道了。
 
-![ziwei_18f](https://bnz06pap002files.storage.live.com/y4mWNAnpqYFVzD1fx2IdPz_YZoi1DlqarX02s_aqj2KUVXD8BfGupV_pRCjmxWAWV-vgaCBUHl2gklVmFNOXAIsrZCriSHhTjXktleUwYW-pR7FlDbpRduKAeC1DKPuET71uxHRdI7dexRtRrqsWCCRlfTIH55XW9rviXCmR4yORrBA23kuK6ypOoNeFhM40Lto?width=660&height=632&cropmode=none){: width="660" height="654"} 
+![ziwei_18g]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_18g.png){: width="660" height="654"} 
 
 快速计算日上起时（**时柱**）法：
 
@@ -1062,11 +1050,11 @@ $$(生日天干数字 \times 2 - 1) \bmod 10$$
 
 ## 安诸星庙陷
 
-![ziwei_19](https://bnz06pap002files.storage.live.com/y4mKvHk8cBo6ZT-KRGhsABCH2PgfU18-xFyqJE3w5fnrcRa9Riwxm8CmSMrA1kzrVwScIbHA5Gk4H8YRlgbfPr5XnVIhJkHlEgOFIX5PY6-5WWjuACu8B6vxiRmn2Xp_YedjZEje0Jm_FLR5sKCnkcKHHc_RsGKt89ouDyEEhCHHUZcuySA4j9UWYMUx0pvrnSC?width=1024&height=542&cropmode=none){: width="1024" height="542"} 
+![ziwei_19a]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_19a.png){: width="1024" height="542"} 
 
 农历丁亥年腊月初八寅时出生阴女，诸星庙陷用红色表示，命盘如图：
 
-![ziwei_19b](https://bnz06pap002files.storage.live.com/y4m1IAwvGzmH8N3KXWrE75ALb9Y9KPXFyCgv-PC6QPcTTENSqG2iZp5-GI797CH8iXOIwvodSMLWhwzpT-gNFGZBk7akPkUG6Nwo-pBdxnrtv23GsuJSGlC_a11o54YnKDFWDUgTPU3Wc7c2l034r81CXp3l3vYj78LXvmFGbUYhV4jSUfkn7WfUrf22jJ_J4t7?width=1024&height=670&cropmode=none){: width="1024" height="670"} 
+![ziwei_19b]({{ site.url }}{{ site.baseurl }}/assets/images/ziwei/ziwei_19b.png){: width="1024" height="670"} 
 
 ## 基本术语
 
