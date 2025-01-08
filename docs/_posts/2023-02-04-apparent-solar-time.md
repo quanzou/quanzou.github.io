@@ -50,7 +50,7 @@ date:   2023-02-04 12:52:28 PM
 是指在天文学上以恒星为标准量度地球自转的周期，因为恒星通常被假设是不动的，从这个意义来说，是地球真正的自转周期。
 **太阳日**（Solar day）是依据太阳运动，所定义的时间。
 
-![solar_01](https://bnz06pap002files.storage.live.com/y4mLsiAMd2z_g-i2t4WTY4xA_-Si1OQEMB9GXIoiaxUAM9tfFRhGmAHfw6APbowrxPu6SshpwvDiUCwGwL8ohzfxNm2WI06tEgngDIqVgC2dPGJn30OQdZM_vD9d1ddrEN5xT9i3RciPqYlxdKuRWB53sS0gM580PO4_fchXt7Ei8pqiKrEK-RBAwr7RHAc-DEo?width=554&height=407&cropmode=none){: width="544" height="407"} 
+![solar_01]({{ site.url }}{{ site.baseurl }}/assets/images/solartime/solar_01.jpg){: width="544" height="407"} 
 
 在顺行轨道上的行星，比如地球，恒星日会比太阳日短。如图所示，在时间A，一颗遥远的恒星和太阳都在正上方；
 在时间B，行星转了360°，遥远的恒星在正上方（AB =恒星日），但是要再晚一点，在时间C的位置上太阳才会在正上方（AC =太阳日）。
@@ -65,8 +65,7 @@ date:   2023-02-04 12:52:28 PM
 
 **视太阳日**（apparent solar day）是依据真太阳定义的，也就是真实的太阳连续两次经过某地相同之中天，即是中天的时间间隔。
 
-![solar_02](https://bnz06pap002files.storage.live.com/y4mS5oWNRH-B3lfDinIsUHZLjgkoSFBN6OXoTFvopWx97aczFJvUVUUe1U9IAy8KIWr9DUb_MSF8vEukBUwmF_5FCk-7O6qGLJJyGmWqOHGvpnaOoRIjMCOqQtEJgCRK-Q-86Ld6F39TuoeMlothTdmIN6jcZ2l5o7AiNff0pQxTK9xzegngI8eABPyykdzPxiL?width=480&height=346&cropmode=none
-){: width="480" height="346"} 
+![solar_02]({{ site.url }}{{ site.baseurl }}/assets/images/solartime/solar_02.jpg){: width="480" height="346"} 
 
 由于以下两个原因，视太阳日在一年当中的长度会每天不停地改变：
 
@@ -81,7 +80,7 @@ date:   2023-02-04 12:52:28 PM
 黄道倾角导致一个周期为半年的正弦波变动效应，使均时差在半年的震荡达到$$9.87$$分。零点的位置在分点和至点，
 二月初和八月初是最大的正值，五月初和十一月初是最大的负值。
 
-![solar_03](https://bnz06pap002files.storage.live.com/y4mvt5Pb24PwnApOF-yRk8Y71fAITIevK-E7f05zAToJ5UTnqTQ7TEJk9DMVGosVr5iwFg6bNeRJ5-sdV6mzKCB3rQxZxZBCQ9zwFEUyrGdldfvf1CrRTTwuqNEzQ2NqP9274S9ALXZu_2aAphaIixK8VNMEvK_T_Z9lsKen3VtgJG3KncwBBpoNE1kOHlp-aeh?width=554&height=601&cropmode=none){: width="554" height="601"} 
+![solar_03]({{ site.url }}{{ site.baseurl }}/assets/images/solartime/solar_03.jpg){: width="554" height="601"} 
 
 ## 均时差和真太阳时计算方法
 
@@ -103,7 +102,7 @@ $$N$$是日数，也就是，1月1日，$$N=1$$；1月2日，$$N=2$$；依此类
 
 下面的图是目前的均时差图：
 
-![solar_04](https://bnz06pap002files.storage.live.com/y4mZaFSDaFKfoXvVwfaOKCUtXs9v_17RfED-0lXB56oejS9d3_GkQYj7Sz3G5OXPHT8e4-fkdBY5q_szJGSAF2CVuCRe5xvZmECepiOS5LBsDIevlB40nzGMg9WQPqgRYaGMxbtvGZuk01Upn_qM_Hwm41kZKymC1DltCjStJuhuJ5cAKX_ctLmLzGC2JAYThBD?width=660&height=540&cropmode=none){: width="330" height="270"} 
+![solar_04]({{ site.url }}{{ site.baseurl }}/assets/images/solartime/solar_04.png){: width="330" height="270"} 
 
 ### 真太阳时计算方法
 
@@ -151,8 +150,7 @@ $$\begin{aligned}
 
 ### 真时与平时之差值表（用平时加减差值得真时）
 
-
-![eot_01](https://bnz06pap002files.storage.live.com/y4mLEvr_ht56dV5oba2WyEX6RoP4C1rhrONt9AIRdbYOBfvI7PdOnCy9BasUkqaUzHZd69Q9PRH9qz8gw4EpM61BwJLI_Te_6avIM7bLaugWnEWMeMjRHj0huvInCXZQaJJqdOt4P_7plfDPj1J3rnyFH73TuxUP3Lxc9QfudxPuiiFKOc025r9isPr6j0njjKj?width=708&height=1024&cropmode=none){: width="708" height="1024"} 
+![eot_01]({{ site.url }}{{ site.baseurl }}/assets/images/solartime/eot_01b.png){: width="708" height="1024"} 
 
 注：
 1. 如某年2月25日，某地平太阳时为7时5分，查表得2月25日时差为-12分54秒，即用7时5分减去12分54秒，那么此刻的真太阳时即为6时52分6秒。
@@ -161,7 +159,7 @@ $$\begin{aligned}
 ### 中国各主要城市平太阳时与北京时间时差对照表
 
 
-![geot_01](https://bnz06pap002files.storage.live.com/y4mJhkfGkSuw0Wn0dpsG4yeitLDt7dSaX3vEVnlDwSGxWmyVJwv80_RCSgGYrv4vh1lifhMK2I9GuNhb5DizuCyqBMt4_dssdE0iqyAqkKNNVLTvIJSD2BqAoZwywFmGYh0bRpdpRIOEx1oxnn2yVeBTryLNY1S3d6QSSoPjEEya76e8tLw3RYYqGQdfMFIwYgQ?width=1024&height=566&cropmode=none){: width="1024" height="566"} 
+![geot_01]({{ site.url }}{{ site.baseurl }}/assets/images/solartime/geot_01.png){: width="1024" height="566"} 
 
 注：
 1. 当地的平太阳时=北京时间+4分钟×（当地经度－120） 
