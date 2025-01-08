@@ -33,7 +33,6 @@ for statistical computing and graphics. It is available in two formats:
 **`RStudio` Desktop**  is a regular desktop application while **`RStudio Server`**  runs 
 on a remote server and allows accessing **`RStudio`** using a web browser.
 
-
 ## Install **`R`**
 
 The current **`R 4.2`** are fully supported only for the latest Ubuntu Long Term 
@@ -43,7 +42,9 @@ end of life date.
 The LSB (Linux Standard Base) command shows that Ubuntu distribution comes with 
 OCI Boot Volumn Image is 22.04.1 LTS `Jammy Jellyfish`, which was released on 
 April 21, 2022. This release of Ubuntu Linux distribution will have long-term 
-support until 2027. 
+support until 2027. Later, people from StackExchange pointed out that Ubuntu 
+22.04 of arm64 (aarch64) build is not supported by **`R 4.2.1`** by the time of this 
+article. This results the failure of upgrading from **`R 4.1.2`** to **`R 4.2.1`**. 
 
 ```bash
 $ lsb_release -a
@@ -240,6 +241,8 @@ under Ubuntu will be available server wide for every user at
 only be available for local user at **~/R/aarch64-unknown-linux-gnu-library/4.1/**. 
 
 >Note: The upgrade method works for AMD64 Ubuntu only, but not on **`arm64`** build. 
+Ubuntu 22.04 of **arm64** (**aarch64**) is not supported by R 4.2.1 by the time 
+of this article. 
 
 ### Install from Source
 
@@ -494,8 +497,7 @@ $ sudo apt install epiphany-browser
 
 Then access RStudio Server from epiphany-browser at **http://localhost:8787**. 
 
-![rstudio_signin](https://bn1303files.storage.live.com/y4mD-EQJNbputmqgke-gmRTG46vaw8xSBl9Euvpz2yQCqLGtLRXYQ18z5j8boO39Y7oVhK35ypdR8XMUQY4OVUirHmASMzNab7LZeQw-XOPBNg5DV5xMTfrcz8nH628VfOHYfYYlevJMO6pxNfsoCO7Wg3kxwMTb7YRVeJp-O5ZTxguBU1iwwLVxI4DGgwn5Vvb?width=660&height=399&cropmode=none
-){: width="660" height="299"} 
+![rstudio_signin]({{ site.url }}{{ site.baseurl }}/assets/images/install-R-RStudio-OCI/rstudio_signin.png){: width="660" height="299"} 
 
 To access Rstudio Server from external client **http://public-server-ip:8787**, 
 we need to open port 8787 of the host server firewall: 
@@ -511,7 +513,7 @@ via the ssl-enabled setting along with related settings that specify the
 location of your SSL certificate and key. Unfortunately, this feature is only 
 available for **`RStudio Server Pro`** version. 
 
-![rstudio_server](https://bn1303files.storage.live.com/y4mz7o5XNsBgOKeJ_4PEfsZdj7V9yG5Q9EAObOIMSRbTW_V7q1Zbj-N9kH7VeqNCTE9JspEe0ZQwCTPay-u45eeVbAvYdk_K-xOaiKv2s6ZUZS5sDU4E9etvISvbzhBXw_oWU1EUzczc2Zw0o2LqojrkupPbJ_8OS5NJVS6mM36KAzhEiW_NS-PnQ3EgNeQG661?width=660&height=400&cropmode=none){: width="660" height="400"} 
+![rstudio_server]({{ site.url }}{{ site.baseurl }}/assets/images/install-R-RStudio-OCI/rstudio_server.png){: width="660" height="400"} 
 
 ## Reference 
 
@@ -519,3 +521,4 @@ available for **`RStudio Server Pro`** version.
 2. [R Installation and Administration](https://cran.r-project.org/doc/manuals/R-admin.html){:target="_blank"} (accessed September 07, 2022). 
 3. [RStudio Documentation --- Install R](https://docs.rstudio.com/resources/install-r/){:target="_blank"} (accessed September 07, 2022).
 4. [RStudio Server for Ubuntu 22 (arm64)](https://dailies.rstudio.com/rstudio/elsbeth-geranium/server/jammy-arm64/){:target="_blank"} (accessed September 07, 2022). 
+5. Upgrading R from 4.1.2 to 4.2.1 under Ubuntu aarch64/arm64 22.04 LTS have unmet dependencies, ask Ubuntu Stack Exchange, 2022.  [https://askubuntu.com/questions/1428565](https://askubuntu.com/questions/1428565){:target="_blank"} (accessed September 07, 2022). 
