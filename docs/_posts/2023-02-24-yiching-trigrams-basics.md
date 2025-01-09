@@ -102,7 +102,7 @@ date:   2023-02-24 10:22:51 PM
 **错卦**是指两个卦中，阴爻和阳爻相反的两个卦。如：乾卦「<b><font size = "6">䷀</font></b>」和坤卦「<b><font size = "6">䷁</font></b>」。
 乾卦六爻皆阳，坤卦六爻皆阴。六十四卦**错卦表**如下：
 
-![yiching_01](https://bnz06pap002files.storage.live.com/y4m0fgxi_LlY3grIFpEQRP24W11PvPSgAR4NAZO8upj6YE-ZWuJ0eiFAzNtiZ8PKIZl5mHN2MMP8cYzTRNKTHJ1BKQ8AGgP7s5sZfD0ANpmxvhZXmbW10X3GotObGEwPLfJj-2D99KZ1BJw-4gnCBW_WTo5CDTV3N5zRQOh6H3axY8entBA6nknUA834sJwcyKJ?width=660&height=588&cropmode=none){: width="660" height="588"} 
+![yiching_01]({{ site.url }}{{ site.baseurl }}/assets/images/yiching/cuo_gua.jpg){: width="660" height="588"} 
 
 把一个卦颠倒过来看，则变成了另外一个卦，变出来的这个新卦叫**综卦**。六十四卦能够互为综卦的，只有二十八对。
 因为六十四卦中有八个卦，上下互为镜像，颠倒过来仍没变化，它们分别是：乾「<b><font size = "6">䷀</font></b>」、
@@ -117,8 +117,7 @@ date:   2023-02-24 10:22:51 PM
 综卦，表示自然界万物万事“此消彼长，彼消此长”，密不可分的关联性。
 剩下的56卦可以组成28对综卦，如下表：
 
-![yiching_02](https://bnz06pap002files.storage.live.com/y4mlhBNALFXE1HFJUmGXtc5O5jCKcTRhcQgUE5NmVDkCzib6cn26SV5q30is8HywwQSUPoe6rV7_E3TjvcRL-pUJAU6Ev5deeDK33ok7MRwTfXI0Zq-FmtVtKITDrhpkVZD0fmKvJhwF251zwfrwLF6MrZlQHHCBV0SVQ6KFZ8yXnW19tEmncckgF_Wt5dGcTsy?width=660&height=588&cropmode=none
-){: width="660" height="588"}
+![yiching_02]({{ site.url }}{{ site.baseurl }}/assets/images/yiching/zong_gua_fixed.png){: width="660" height="588"}
 
 卦当中一个爻变，阴爻变阳爻，阳爻变阴爻，形成的一个新的卦称作**变卦**。我们以乾卦「<b><font size = "6">䷀</font></b>」为例，
 当它每一个爻由阳变阴的时候，它马上就变成另外几个卦：
@@ -208,7 +207,7 @@ date:   2023-02-24 10:22:51 PM
 又相传，大禹时，洛阳境内洛河中浮出神龟，背驮“洛书”，献给大禹。大禹依此治水成功，遂划天下为九州。
 又依此定九章大法，治理社会，流传下来收入《尚书》中，名《洪范》。《易·系辞上》说：“河出图，洛出书，圣人则之”，就是指这两件事。
 
-![yiching_03a](https://bnz06pap002files.storage.live.com/y4mpV0N5YFlAbuMJyAmdSrW5utPXyewr2ufHAp3qTydOHmIM9NzJ_3VRspMis9OlWRJgfa2s7iLNuiiDMJ9vxVLCLNVoxABfjeKO2mSkGgHe8-PL8QL5veeFTK5DJ9Bvsqp4R--H28A0bxY-BTjaaAV26fCY-kHw8DtPcOsTVl013nQhPCgc9W8Vy5haJO4iRBY?width=669&height=335&cropmode=none){: width="669" height="335"}
+![yiching_03a]({{ site.url }}{{ site.baseurl }}/assets/images/yiching/hetu.jpg){: width="669" height="335"}
 
 **河图之象**用十个黑白圆点表示阴阳、五行、四象，其图为四方形。如下：
 + 北方：一个白点在内，六个黑点在外，表示玄武星象，五行为水。
@@ -221,7 +220,7 @@ date:   2023-02-24 10:22:51 PM
 其中四象，按古人座北朝南的方位为正位就是：前朱雀，后玄武，左青龙，右白虎。此乃风水象形之源也。
 
 **河图之数**如下：
-　　
+
 1. 天地之数：河图共有10个数，1、2、3、4、5、6、7、8、9、10。其中1、3、5、7、9为阳，2、4、6、8、10为阴。
 阳数相加为25，阴数相加得30，阴阳相加共为55数。所以古人说：“天地之数五十有五”，即天地之数为55，“以成变化而行鬼神也”。
 即万物之数皆由天地之数化生而已。
@@ -238,17 +237,17 @@ date:   2023-02-24 10:22:51 PM
 6. 六甲纳音之数：天地之数55加上五行之数5，合化为60甲子五行纳音之数。十天干之阴阳五行与万物相交，同气相求，
 同声相应各发出12种声音，无声无音不计，按河图北、东、南、西、中成象五位五行共60纳音。乃天地五行声音之数也。
 
-![yiching_03b](https://bnz06pap002files.storage.live.com/y4maGvwnWq3O_h9fX3HwqEzU9nY6QKAXH5lc2GGT9LwymYn3NFhEGLbLOtu4iq-EyJmy0T4GJuW7JNBE3civisFYRPM08PycILFynOkwtdxLjVv1Ro29UxxYV44pBfgdObYdKrl6CeHaT6RGpkjsm87Esb0BSLvdZrLIa5HYKpVSmDpu4VCRojzllwGax5YV48C?width=669&height=335&cropmode=none){: width="669" height="335"}
+![yiching_03b]({{ site.url }}{{ site.baseurl }}/assets/images/yiching/luoshu.jpg){: width="669" height="335"}
 
 **洛书之象**是将**河图**四方的两组阴数和阳数组成的五方图，旋转重叠而组成的，每方一个数纳地支十二气象，就是洛书之图了。
 只不过将火的2、7数与金的4、9数交换了位置，同时土五为中显用而寄八方，故为九星，土十则不显而藏于用。
 这样成：戴9履1，左3右7，4、2为肩，8、6为足，5居中央，九个数纵横交叉皆为十五数。 
 
-![yiching_03c](https://bnz06pap002files.storage.live.com/y4mx8UDzvC_RkerNvYM2FgEJ1nuUDqEYB4FoLz-aNLWTX3U09spG32dPmcPt8VT6Mi8_TtosD6vCQgLaXze9le5sDNyIU4KRExwohOiOPz9YOeuydUvQRydCEmOxKFgzd5ZAFPBMaxp_Kbfd8sNPgeQp-FPq27TlOPb_gH0P77f04gd5sEzvEimlY1h_Z5vcmn_?width=429&height=374&cropmode=none){: width="429" height="374"}
+![yiching_03c]({{ site.url }}{{ site.baseurl }}/assets/images/yiching/hetu_luoshu_b.png){: width="429" height="374"}
 
 #### 洛书与先天八卦方位
 
-![yiching_03d](https://bnz06pap002files.storage.live.com/y4mch-nT4coNDGDHHdDj1k81nckQ5Ok-Eh1FExHLeJhycwQX1n81oW_IR3Zh0brYQtOLoX-XBab7VTEz1nhda4U8teYmIIsRQZPtz1vsn7Ayp2XJK14uag61nJRa8I2U_TvXGco7wcuCQEBzWNVJiAiac8rImKpVmFqzPoTCTLy2zMi6QgLEKeRCpjJ3xPyXMQE?width=498&height=660&cropmode=none){: width="498" height="660"}
+![yiching_03d]({{ site.url }}{{ site.baseurl }}/assets/images/yiching/hexagram_fuxi.jpg){: width="498" height="660"}
 
 > “天地定位，山泽通气，雷风相薄，水火不相射，八卦相错，数往者顺，知来者逆，是故易逆数也。”
 
@@ -290,7 +289,7 @@ date:   2023-02-24 10:22:51 PM
 中国古代思想家把水、火、木、金、土视为构成大自然万物的五种基本元素，合称“五行”。五行之间存在着相生相克的规律。
 相生，含有互相滋生，促进助长的意思。相克，含有互相制约、克制和抑制的意思。
 
-![yiching_03e](https://bnz06pap002files.storage.live.com/y4mjIJxQTr_nD3BZUA7tzEAx0sF2PuxCwKXkbDTb_T1G80gMnyAxOn-n9VFSutnO0RZLMDP5ZBjg784wFN4ZNYJck8N0ashbZChdnnHATBnxHG52Pr9QpM0JrQcwTiTneQKvPtF0gls7vnrKSZrzGs8P1FqRZX0cnFn-RLhUUOKYNrOt4Aq1mv6BY5OMTa1rAAg?width=660&height=410&cropmode=none){: width="660" height="410"}
+![yiching_03e]({{ site.url }}{{ site.baseurl }}/assets/images/yiching/five_elements.jpg){: width="660" height="410"}
 
 五行相生：木生火，火生土，土生金，金生水，水生木。
 五行相克：木克土，土克水，水克火，火克金，金克木。
@@ -304,7 +303,7 @@ date:   2023-02-24 10:22:51 PM
 
 河图所显示的本来只是五行，因此八卦必须配合五行属性，才可以画成卦图，画出来的便是所谓后天卦序。
 
-![yiching_03f](https://bnz06pap002files.storage.live.com/y4m7RovJJj174gzr-_UdIDNnWT7uwUabAadxuioTPTVdeSdKTkngwW6q9f1v-hztaprBEviDjmJJFyn0tvszGUr3xGeXFSXsMxbimyrrE7kogPU94aE1jfQeMWxfva5nv8sTB--qACGR912NkPe9M8BFIS3d-xiVe9WOXbFhb8N8JpT_OdfWzO5mvNmsNcW-vGj?width=530&height=660&cropmode=none){: width="530" height="660"}
+![yiching_03f]({{ site.url }}{{ site.baseurl }}/assets/images/yiching/hexagram_wenwang.jpg){: width="530" height="660"}
 
 > 乾、兑金。坤、艮土。震、巽木。坎水。离火。
 
@@ -334,7 +333,7 @@ date:   2023-02-24 10:22:51 PM
 十二辟卦是取六十四卦中的十二个特殊卦形，配合一年十二月的月候，指示自然界万物“阴阳消息”的意义，故又名“**月卦**”、
 “**候卦**”、“**消息卦**”。
 
-![yiching_04](https://onedrive.live.com/embed?resid=E53D6D82FAE9F70E%21540&authkey=%21AFEqZ9fFZQXOhlU&width=660){: width="256" height="256"}
+![yiching_04]({{ site.url }}{{ site.baseurl }}/assets/images/yiching/pigua_12.jpg){: width="256" height="256"}
 
 在一个卦体中，凡阳爻去而阴爻来称为“**消**”；阴爻去而阳爻来称“**息**”。“**十二消息卦**”即被视为由“乾”、“坤”
 二卦各爻的“消”“息”变化而来的。“辟”是君主的意思，这里取其主宰之义。用十二个卦配十二个月，每一卦为一月之主，
@@ -359,7 +358,7 @@ date:   2023-02-24 10:22:51 PM
 以“子’代表北方，以“坤’代表正西南，此为**四正卦**；以“巽’代表正东南，以“乾’代表正西北，以“艮’代表正东北，
 此为**四隅卦**（四维卦）。因此四隅卦、八天干（除去戊、己）加上十二地支，共二十四数，就是指罗经上的二十四山，即二十四方位。
 
-![yiching_05](https://onedrive.live.com/embed?resid=E53D6D82FAE9F70E%21541&authkey=%21ALRnUGN7dcjt1QI&width=480&height=483){: width="256" height="256"}
+![yiching_05]({{ site.url }}{{ site.baseurl }}/assets/images/yiching/shan_24.jpg){: width="256" height="256"}
 
 为何只用四隅卦填二十四山内，而不用四正卦呢?原来四正卦的山位，已有子、午、卯、酉四字，故不能再将四正卦套入这四山之内。
 在风水学中，子、午、卯、酉也就代表了坎、离、震、兑四正卦和正北、正南、正东、正西四个方位。不影响八卦含义在其中的运用。
@@ -390,11 +389,11 @@ date:   2023-02-24 10:22:51 PM
 
 其一，朱震《汉上易传》载李溉作“卦气七十二候图”（来源存疑），以泰卦正（寅）月初九开始，东风解冻，立春：
 
-![yiching_06a](https://onedrive.live.com/embed?resid=E53D6D82FAE9F70E%21539&authkey=%21AHMH7EZrv8u9jDo&width=1024){: width="1024" height="1024"}
+![yiching_06a]({{ site.url }}{{ site.baseurl }}/assets/images/yiching/guaqi_72.jpg){: width="1024" height="1024"}
 
 其二，惠栋《易汉学》既录李氏图，又作“卦气六日七分图”为：
 
-![yiching_06b](https://onedrive.live.com/embed?resid=E53D6D82FAE9F70E%21542&authkey=%21ACPUc2r_S3jVeGg&width=800&height=787){: width="800" height="787"}
+![yiching_06b]({{ site.url }}{{ site.baseurl }}/assets/images/yiching/guaqi_60.jpg){: width="800" height="787"}
 
 惠氏此图，须与李氏图相参阅。内《坎》《离》、《震》、《兑》分居四正，所谓四卦主四时，爻主二十四气也；外六十卦分属十二月，
 所谓六十卦主六日七分，爻主三百六十五日四分日之一也。至于十二卦主十二辰，爻主七十二候，则详具上引李溉图。
@@ -405,7 +404,7 @@ date:   2023-02-24 10:22:51 PM
 
 #### 伏羲先天六十四卦方图
 
-![yiching_07](https://bnz06pap002files.storage.live.com/y4m6sa9emuxlABuVCCYVAFUS5xUQ1B3jHPukMGAmOvaorAE2Etk9qcxBclIQxrIOdKDGxVIHZH8BORH1np18g3QznctkohWaVFKlTBN8xb6_1WbLT1js28ag5J9G2b98mkh00IMw33FtCKLwia8WE8RQnmdqW8OvWF8gnO7SJwXOFr32Xpxx5N1atGgfcJfNMvn?width=1024&height=974&cropmode=none){: width="1024" height="974"}
+![yiching_07]({{ site.url }}{{ site.baseurl }}/assets/images/yiching/fuxi_bagua.png){: width="1024" height="974"}
 
 《宋元学案》称为“方图四分四层图”：把六十四卦圆图，依演化顺序分成八等分，由坤卦起依次排列，形成一个八乘八的方阵。
 表中括号内数字是周易后天六十四卦《易经》卦象序号， 符号下方的是伏羲先天六十四卦卦象演化序号。
@@ -589,7 +588,7 @@ $$r_2 = 40$$、$$r_2 = 36$$的概率也各为$$50\%$$。第三变的情况和第
 因为每一变都是独立事件，所以第二变中所有的三种情况：$$r_2 = \{32,36,40\}$$和第三变中所有的四种情况：
 $$r_3 = \{24,28,32,36\}$$的概率可以根据树状概率图推导出来。
 
-![yiching_08](https://onedrive.live.com/embed?resid=E53D6D82FAE9F70E%21251&authkey=%21AD_sBp_hiq-Xd9Q&width=626&height=513){: width="626" height="513"}
+![yiching_08]({{ site.url }}{{ site.baseurl }}/assets/images/yiching/yao_prob.jpg){: width="626" height="513"}
 
 从上图可以看出，就一个爻来说，其为“**六**”的概率为$$\frac{1}{16}(6.25\%)$$，“**七**”的概率为$$\frac{5}{16}(31.25\%)$$，
 “**八**”的概率为$$\frac{7}{16}(43.75\%)$$，“**九**”的概率为$$\frac{3}{16}(18.75\%)$$。静爻（**七**、**八**）的概率远大于变爻（**六**、**九**），
