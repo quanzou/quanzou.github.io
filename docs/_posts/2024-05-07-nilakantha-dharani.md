@@ -10,7 +10,7 @@ tags:
 date:   2024-05-07 09:30:24 PM
 ---
 
-![avalokitesvara]({{ site.url }}{{ site.baseurl }}/assets/images/avalokitesvara_250x363.png){: .align-left} The Nīlakaṇṭha Dhāraṇī, also known as the Mahākaruṇā(-citta) Dhāraṇī, 
+![avalokitesvara]({{ site.url }}{{ site.baseurl }}/assets/images/nilakantha-dharani/avalokitesvara_250x363.png){: .align-left} The Nīlakaṇṭha Dhāraṇī, also known as the Mahākaruṇā(-citta) Dhāraṇī, 
 Mahākaruṇika Dhāraṇī or Great Compassion Dhāraṇī/Mantra. 
 The vulgate version is one of the three basic sutras of the Zen school of 
 Buddhism in China, Korea and Japan. It is the shortest version and is the only 
@@ -22,12 +22,12 @@ intelligible. （left image: Thousand-armed Avalokiteśvara, Bujo-ji monastery
 （峰定寺）, Kyoto, Japan. Wood decorated with cut gold-leaf designs, 31.5 cm high, 
 Heian （平安） period, 12th century.)
 
-Lokesh Chandra (1988) reconstructed mantra from the vulgate versions extant: 
-Bh. Bhagavaddharma 伽梵達摩 (T1060)
-Am. Amoghavajra 不空金剛 (T1113B) and Amoghavajra (T1111)
-Ji. Jiun Sonja'text in Siddham 慈云尊者
-Ko. Korean Tripiṭaka text 
-A bilingual text from China (Tibten and Chinese). 
+Lokesh Chandra (1988, chap 5.) reconstructed mantra from the vulgate versions extant: 
++ Bh. Bhagavaddharma 伽梵達摩 (T1060)
++ Am. Amoghavajra 不空金剛 (T1113B) and Amoghavajra (T1111)
++ Ji. Jiun Sonja'text in Siddham 慈云尊者
++ Ko. Korean Tripiṭaka text 
++ A bilingual text from China (Tibten and Chinese). 
 
 Mantras in ancient times were generally transcribed for their sound rather 
 than translated for their meaning. Individual syllables or words often have 
@@ -46,82 +46,83 @@ and is for reference only.
 
 ### देवनागरी scripts
 
-1. नमो रत्नत्रयाय।   
-नम आर्यावलोकितेश्वराय बोधिसत्त्वाय महासत्त्वाय महाकारुणिकाय।  
-ॐ सर्वभयेषु त्राणकराय तस्य नमस्कृत्वा इमं आर्यावलोकितेश्वरस्तवनं नीलकण्ठनाम।
-2. हृदयंवर्तयिष्यमि सर्वार्थसाधनं शुभम् अजेयं।  
-सर्वभूतानां भवमार्गविशुद्धकम्। 
-3. तद्यथा।  
-ॐ अपलोक लोकातिक्रान्त एहि हरे महाबोधिसत्त्व सर्प सर्प।  
-स्मर स्मर मम हृदयम्।  
-कुरु कुरु कर्म।  
-धुरु धुरु विजयन्ते महाविजयन्ते।  
-धर धर धराणीराज।  
-चल-चल मम विमलमूऋत्ते रे।  
-एह्येहि कृष्णसर्पोपवीत।  
-विषविषं प्रणाशय।  
-हुलु हुलु मल्ल हुलु हुलु हरे।  
-सर सर सिरि सिरि सुरु सुरु।  
-बोधिय बोधिय बोधय बोधय मैत्रेयनीलकण्ठ।  
-दर्शनेन प्रह्लादयमनः स्वाहा।  
+1. [नमो रत्नत्रयाय](#line01)।  
+[नम आर्यावलोकितेश्वराय बोधिसत्त्वाय](#line02a) [महासत्त्वाय महाकारुणिकाय](#line02b)।  
+[ॐ सर्वभयेषु त्राणकराय](#line03a) [तस्य नमस्कृत्वा](#line03b) [इमं आर्यावलोकितेश्वरस्तवनं नीलकण्ठनाम](#line03c)।
+2. [हृदयंवर्तयिष्यमि](#line04a) [सर्वार्थसाधनं शुभम् अजेयं](#line04b)।  
+[सर्वभूतानां भवमार्गविशुद्धकम्](#line05)। 
+3. [तद्यथा](#line06)।  
+[ॐ अपलोक लोकातिक्रान्त](#line07a) [एहि हरे महाबोधिसत्त्व सर्प सर्प](#line07b)।  
+[स्मर स्मर मम हृदयम्](#line08)।  
+[कुरु कुरु कर्म](#line09)।  
+[धुरु धुरु विजयन्ते महाविजयन्ते](#line010)।  
+[धर धर धराणीराज](#line011)।  
+[चल-चल मम विमलमूऋत्ते रे](#line012)।  
+[एह्येहि कृष्णसर्पोपवीत](#line13)।  
+[विषविषं प्रणाशय](#line14)।  
+[हुलु हुलु मल्ल हुलु हुलु हरे](#line15)।  
+[सर सर सिरि सिरि सुरु सुरु](#line16)।  
+[बोधिय बोधिय बोधय बोधय मैत्रेयनीलकण्ठ](#line17)।  
+[दर्शनेन प्रह्लादयमनः स्वाहा](#line18)।  
 
-    सिद्धाय स्वाहा।  
-महासिद्धाय स्वाहा।  
-सिद्धयोगेश्वराय स्वाहा।  
-नीलकण्ठाय स्वाहा।  
-वराहमुखाय स्वाहा।  
-नरसिंहमुखाय स्वाहा।  
-पद्महस्ताय स्वाहा।  
-चक्रहस्तय स्वाह।  
-पद्महस्ताय स्वाहा$$\color{red}^\dag$$।  
-नीलकण्ठव्याघ्राय स्वाहा।  
-महाबलिशंकराय स्वाहा।
-4. नमो रत्नत्रयाय।  
-  नम आर्यावलोकितेश्वरय। 
+    [सिद्धाय स्वाहा](#line19)।  
+[महासिद्धाय स्वाहा](#line20)।  
+[सिद्धयोगेश्वराय स्वाहा](#line21)।  
+[नीलकण्ठाय स्वाहा](#line22)।  
+[वराहमुखाय स्वाहा](#line23)।  
+[नरसिंहमुखाय स्वाहा](#line24)।  
+[पद्महस्ताय स्वाहा](#line25)।  
+[चक्रहस्तय स्वाह](#line26)।  
+[पद्महस्ताय स्वाहा](#line27)$$\color{red}^\dag$$।  
+[नीलकण्ठव्याघ्राय स्वाहा](#line28)।  
+[महाबलिशंकराय स्वाहा](#line29)।
+4. [नमो रत्नत्रयाय](#line30)।  
+  [नम आर्यावलोकितेश्वरय](#line31)।
 
-$$\color{red}^\dag$$ शङ्खशब्दनिबोधनाय।  
-महालकुटधराय।  
-वामस्कन्धदिशस्थितकृष्णजिनाय।  
-व्याघ्रचर्मनिवसनाय। 
+$$\color{red}^\dag$$ [शङ्खशब्दनिबोधनाय](#line27a)।  
+[महालकुटधराय](#line27b)।  
+[वामस्कन्धदिशस्थितकृष्णजिनाय](#line27c)।  
+[व्याघ्रचर्मनिवसनाय](#line27d)। 
 
 ### IAST transliteration
 
-1. namo ratna-trayāya।  
-nama āryĀvalokiteśvarāya bodhisattvāya mahāsattvāya mahākāruṇikāya।  
-oṃ sarva-bhayeṣu trāṇa-karāya tasya namaskṛtvā imaṃ āryĀvalokiteśvara-stavanaṃ Nīlakaṇṭha-nāma।  
-2. hṛdayaṃ-vartayiṣyami sarv-ārtha-sādhanaṃ śubham ajeyaṃ।   
-sarva-bhūtānāṃ bhava-mārga-viśuddhakam। 
-3. TADYATHĀ।  
-Oṃ apaloka lokātikrānta ehi Hare mahābodhisattva sarpa-sarpa।  
-smara-smara mama hṛdayam।  
-kuru-kuru karma।  
-dhuru-dhuru vijayate mahāvijayate।  
-dhara-dhara dharaṇi-rāja।  
-cala-cala mama vimala-mūrtte re।  
-ehy-ehi kṛṣṇa-sarp-opavīta।  
-viṣa-viṣam praṇāśaya।  
-hulu-hulu Malla hulu-hulu Hare।  
-sara-sara siri-siri suru-suru bodhiya-bodhiya bodhaya-bodhaya maitriya Nilakaṇṭha।  
-darśanena prahlādaya manaḥ svāhā।
+1. [namo ratna-trayāya](#line01)।  
+[nama āryĀvalokiteśvarāya](#line02a) [bodhisattvāya mahāsattvāya mahākāruṇikāya](#line02b)।  
+[oṃ sarva-bhayeṣu trāṇa-karāya](#line03a) [tasya namaskṛtvā](#line03b) [imaṃ āryĀvalokiteśvara-stavanaṃ Nīlakaṇṭha-nāma](#line03c)।  
+2. [hṛdayaṃ-vartayiṣyami](#line04a) [sarv-ārtha-sādhanaṃ śubham ajeyaṃ](#line04b)।   
+[sarva-bhūtānāṃ bhava-mārga-viśuddhakam](#line05)। 
+3. [TADYATHĀ](#line06)।  
+[Oṃ apaloka lokātikrānta](#line07a) [ehi Hare mahābodhisattva sarpa-sarpa](#line07b)।  
+[smara-smara mama hṛdayam](#line08)।  
+[kuru-kuru karma](#line09)।  
+[dhuru-dhuru vijayate mahāvijayate](#line10)।  
+[dhara-dhara dharaṇi-rāja](#line11)।  
+[cala-cala mama vimala-mūrtte re](#line12)।  
+[ehy-ehi kṛṣṇa-sarp-opavīta](#line13)।  
+[viṣa-viṣam praṇāśaya](#line14)।  
+[hulu-hulu Malla hulu-hulu Hare](#line15)।  
+[sara-sara siri-siri suru-suru](#line16)|  
+[bodhiya-bodhiya bodhaya-bodhaya maitriya Nilakaṇṭha](#line17)।  
+[darśanena prahlādaya manaḥ svāhā](#line18)।
 
-	siddhāya svāhā।  
-mahāsiddhāya svāhā।  
-siddha-yogeśvaraya svāhā।  
-Nilakaṇṭhāya svāhā।  
-Varāha-mukhāya svāhā।  
-Narasiṃha-mukhāya svāhā।  
-padma-hastāya svāhā।  
-cakra-hastāya svāhā।  
-padma-hastāya svāhā$$\color{red} ^\dag$$।  
-Nilakaṇṭha-vyāghrāya svāhā।  
-Mahābali-Śaṃkarāya svāhā।
-4. namo ratna-trayāya।  
-nama āryĀvalokiteśvarāya svāhā।
+	[siddhāya svāhā](#line19)।  
+[mahāsiddhāya svāhā](#line20)।  
+[siddha-yogeśvaraya svāhā](#line21)।  
+[Nilakaṇṭhāya svāhā](#line22)।  
+[Varāha-mukhāya svāhā](#line23)।  
+[Narasiṃha-mukhāya svāhā](#line24)।  
+[padma-hastāya svāhā](#line25)।  
+[cakra-hastāya svāhā](#line26)।  
+[padma-hastāya svāhā](#line27)$$\color{red} ^\dag$$।  
+[Nilakaṇṭha-vyāghrāya svāhā](#line28)।  
+[Mahābali-Śaṃkarāya svāhā](#line29)।
+4. [namo ratna-trayāya](#line30)।  
+[nama āryĀvalokiteśvarāya svāhā](#line31)।
 
-$$\color{red} ^\dag$$ śaṅkha-śabda-nibodhanāya svāhā|  
-mahālakuṭa-dharāya svāhā।  
-vāma-skandha-deśa-sthita-kṛṣṇ-ājināya svāhā।  
-vyāghra-carma-nivasanāya svāhā।
+$$\color{red} ^\dag$$ [śaṅkha-śabda-nibodhanāya svāhā](#line27a)|  
+[mahālakuṭa-dharāya svāhā](#line27b)।  
+[vāma-skandha-deśa-sthita-kṛṣṇ-ājināya svāhā](#line27c)।  
+[vyāghra-carma-nivasanāya svāhā](#line27d)।
 
 ## Translation
 
@@ -155,15 +156,15 @@ To One adorned with the tiger skin hail.
 
 ### Chinese
 
-1. 皈依三宝。皈依神圣的观自在菩提萨埵，大有情，大悲心者。唵，于一切恐怖中施守护者，归依彼尊，此圣观自在赞叹青颈名。
-2. （我）将诵心（咒），能成就一切利益，净妙美好，无能胜，清净一切众生三有道。
+1. 皈依三宝。皈依神圣的观自在菩提萨埵，（皈依）大有情，（皈依）大悲心者。唵，（皈依）于一切恐怖中施予守护者，归依彼尊，（我将宣说）此名青颈的圣观自在赞颂。。
+2. （我）将诵持此心（咒），（此咒）能成就一切利益，净妙美好，无能胜，清净一切众生三有道。
 3. 其咒如下：唵，眷顾，超越世界者，来吧，诃利啊，伟大的菩提萨埵，降临，降临。忆念，忆念我的心（咒）。作，作业。
 坚守，坚守，胜利，伟大的胜利者。守护，守护，（观自在）守护主。动，动，我的无垢化身，哦。来吧，来吧，佩黑蛇圣线的主。
 以毒攻毒。呼卢，呼卢，摩罗啊。呼卢，呼卢，诃利啊。娑罗娑罗，悉唎悉唎，苏卢苏卢。觉悟，觉悟，令觉悟，令觉悟，慈悲的青颈者啊。
 显圣愉悦我心。
 
-	为成就者，娑婆訶。为大成就者，娑婆訶。为成就瑜伽主，娑婆訶。为青颈者，娑婆訶。为猪面者，娑婆訶。
-为狮子面者，娑婆訶。为手持莲华者，娑婆訶。为持轮宝者，娑婆訶。为手持莲华者$$\color{red} ^\dag$$，娑婆訶。
+	为成就者，娑婆訶。为大成就者，娑婆訶。为成就瑜伽主，娑婆訶。为青颈者，娑婆訶。为猪面尊者，娑婆訶。
+为人狮面尊者，娑婆訶。为手持莲华者，娑婆訶。为持轮宝者，娑婆訶。为手持莲华者$$\color{red} ^\dag$$，娑婆訶。
 为高贵青颈者，娑婆訶。为强大的赐福者，娑婆訶。
 4. 皈依三宝。皈依神圣的观自在，娑婆訶。
 
@@ -173,7 +174,7 @@ $$\color{red} ^\dag$$ 为法螺音觉者，娑婆訶。为持大金刚杵者，�
 ## Detailed Explanation
 
 | :-: | :-: | :-: |
-|<b><font size = "6">नमो रत्नत्रयाय</font></b>|namo ratna-trayāya|皈依三宝。|
+|<span id="line01"><b><font size = "6">नमो रत्नत्रयाय</font></b></span>|namo ratna-trayāya|皈依三宝。|
 
 **नमस्**, ind. a bow, salutation, obeisance, adoration; (this word is, by itself, 
 invariably used with dat. The word has the sense of a noun, but is treated as 
@@ -186,10 +187,10 @@ stone (the nine jewels are pearl, ruby, topaz, diamond, emerald, lapis lazuli
 (青金石), coral, sapphire, Gomeda (Hessonite Garnet 黑松石石榴石); hence ratna 
 is a name for the number 9). 
 
-**त्ररया**, mfn. Triple, threefold, consisting of 3, of 3 kinds, etc.; dat. case ending:  
+**त्ररया**, mfn. Triple, threefold, consisting of 3, of 3 kinds, etc.; dative case ending:  
 **त्ररया + आय = रत्नत्रयाय**. 
 
-|<b><font size = "6">नम आर्यावलोकितेश्वराय बोधिसत्त्वाय</font></b>|nama āryĀvalokiteśvarāya bodhisattvāya|皈依神圣的观自在菩提萨埵，|
+|<span id="line02a"><b><font size = "6">नम आर्यावलोकितेश्वराय बोधिसत्त्वाय</font></b></span>|nama āryĀvalokiteśvarāya bodhisattvāya|皈依神圣的观自在菩提萨埵，|
 
 **नमः** drops **ः** followed by vowels other than **अ**, by visarga sandhi II.3.
 
@@ -218,14 +219,14 @@ Buddhist or Jina).
 mind; spiritual essence, spirit, mind; vital breath, life, consciousness, 
 strength of character, strength, firmness, energy, resolution, courage, 
 self-command, good sense, wisdom, magnanimity; m. n. a living or sentient being, 
-creature, animal. **सत्त्व+ आय = सत्त्वाय** is the dat. case ending, to/for.
+creature, animal. **सत्त्व+ आय = सत्त्वाय** is the dative case ending, to/for.
 
-|<b><font size = "6">महासत्त्वाय महाकारुणिकाय</font></b>|mahāsattvāya mahākāruṇikāya|（皈依）大有情，（皈依）大悲心者。|
+|<span id="line02b"><b><font size = "6">महासत्त्वाय महाकारुणिकाय</font></b></span>|mahāsattvāya mahākāruṇikāya|（皈依）大有情，（皈依）大悲心者。|
 
 **कारुणिक**, mfn. (from **कारुण**,  mournful, miserable, lamenting) Compassionate, kind, 
-tender. Both **सत्त्व** and **कारुणिक** are in the form of the dat. case endings, to/for.
+tender. Both **सत्त्व** and **कारुणिक** are in the form of the dative case endings, to/for.
 
-|<b><font size = "6">ॐ सर्वभयेषु त्राणकराय</font></b>|oṃ sarva-bhayeṣu trāṇa-karāya|唵，（皈依）于一切恐怖中施守护者，|
+|<span id="line03a"><b><font size = "6">ॐ सर्वभयेषु त्राणकराय</font></b>|oṃ sarva-bhayeṣu trāṇa-karāya|唵，（皈依）于一切恐怖中施予守护者，|
 
 Bh., Am. *tana* instead of *trāṇa-karāya*. Ji. and Ko. have the correct reading. 
 Vajrabodhi (T 1061) has *sarva-bhayebhyo trāṇa-karāya*.
@@ -236,20 +237,22 @@ completely, in all parts, everywhere;
 
 **भय** n. fear, alarm dread apprehension; fear of (abl. gen. or comp.); sg. and 
 pl. terror, dismay, danger, peril, distress ; danger from (abl. or comp.). 
- **भय + एषु  = भयेषु** is the pl. loc. case ending, in/on/at. 
+**भय + एषु  = भयेषु** is the plural locative case ending, in/on/at. 
 
-**त्राण**, mf(trāṇa)n. protected;  n. protecting, preserving, protection, defence, 
+**त्राण**, mf(trāṇa)n. protected; n. protecting, preserving, protection, defence, 
 shelter, help (often ifc.); protection for the body, armour, helmet;
 
 **कर** , mf(ī, rarely ā)n. a doer, maker, causer, doing, making, causing, producing; 
-helping, promoting. **कर+ आय = कराय** is the dative case, to/for.
+helping, promoting. **कर + आय = कराय** is the dative case, to/for.
 
-|<b><font size = "6">तस्य नमस्कृत्वा</font></b>|tasya namaskṛtvā|归依彼尊，|
+|<span id="line03b"><b><font size = "6">तस्य नमस्कृत्वा</font></b></span>|tasya namaskṛtvā|归依彼尊，|
 
 Ko. *tasmai*.
 
-**तस्य**, 3rd person pronouns **तद्**, genitive (Possession, ‘s, s’, of) case. **तस्मै**, dative 
-case (to/for) in Korean version. 
+**तस्य**, 3rd person pronouns **तद्**, genitive (Possession, ‘s, s’, of) case. 
+**तस्मै**, dative case (to/for) in Korean version. 
+The genitive case "his", **तस्य**, functions as the dative case "to him" of the 
+direct recipient. 
 
 **कृ**, 5U. to hurt, injure, kill; 8U. to do, make, perform, accomplish, cause, 
 effect, prepare, undertake; to do anything for the advantage or injury of 
@@ -266,7 +269,7 @@ often with dat. e.g. rāmāya namaḥ, salutation or glory to Rāma, often ind.
 [AV. TS. &c.] or °mas-kṛtvā [MBh. BhP.]; námas-kṛta, worshipped, adored) RV. 
 &c. &c.; **नमःकृत्वा**, namaḥkṛtvā, in Korean version. 
 
-|<b><font size = "6">इमं आर्यावलोकितेश्वरस्तवनं नीलकण्ठनाम</font></b>|imaṃ-āryĀvalokiteśvara-stavanaṃ Nīlakaṇṭha-nāma|此圣观自在赞叹青颈名。|
+|<span id="line03c"><b><font size = "6">इमं आर्यावलोकितेश्वरस्तवनं नीलकण्ठनाम</font></b></span>|imaṃ-āryĀvalokiteśvara-stavanaṃ Nīlakaṇṭha-nāma|（我将宣说）此名青颈的圣观自在赞颂。|
 
 The Chinese character for *maṃ* is pronounced môung 蒙 (Couvreur 790c). *Imaṃ* 
 stands for Classical Sanskrit *idam*.
@@ -301,7 +304,7 @@ sacrificial fire is deposited; of a stalk &c.).
 
 **नाम**, ind. (acc. of nā́man) by name i.e. named, called.
 
-|<b><font size = "6"> हृदयंवर्तयिष्यमि</font></b>| hṛdayaṃ-vartayiṣyami|（我）将诵心（咒），|
+|<span id="line04a"><b><font size = "6"> हृदयंवर्तयिष्यमि</font></b></span>| hṛdayaṃ-vartayiṣyami|（我）将诵持此心（咒），|
 
 Am. (Siddham) *herima* = *hṛ[daya]ṃ*. Chin. *vartaṣāmi*, Siddham *vadhaṣami* = 
 *vartayiṣyāmi* 'I will tell'. Compare *vārtā* 'talk' (in Hindi).
@@ -331,7 +334,7 @@ subsist; To relate, describe; To perceive, comprehend; To study; To shine; **To 
 To shed (as tears). **वर्तयिष्यामि**, vartayiṣyāmi, is the first person singular future tense, 
 "I will speak".  
 
-|<b><font size = "6">सर्वार्थसाधनं शुभम् अजेयं</font></b>|sarv-ārtha-sādhanaṃ śubham ajeyaṃ|能成就一切利益，净妙美好，无能胜，|
+|<span id="line04b"><b><font size = "6">सर्वार्थसाधनं शुभम् अजेयं</font></b></span>|sarv-ārtha-sādhanaṃ śubham ajeyaṃ|（此咒）能成就一切利益，净妙美好，无能胜，|
 
 *T'eôu/du* represents *dha* of *sādhanaṃ*. Julien (1861:209) gives this character 
 for *da, da* besides *tu, du*, etc.
@@ -344,17 +347,21 @@ and Am. is not clear. Ji. and Ko. are clearly *śubhaṃ*.
 **साधन**, mf(ī or ā)n. leading straight to a goal, guiding well, furthering; effective, 
 efficient, productive of (comp.); procuring ; conjuring up (a spirit); denoting, 
 designating, expressive of (comp.); f. accomplishment, performance; **साधनं** is the 
-singular accusative case ending with a final nasal. 
+singular accusative case ending with a final nasal (by sandhi rule). 
 
 **शुभ**, mf(ā)n. splendid, bright, beautiful, handsome; pleasant, agreeable, suitable, 
 fit, capable, useful, good; auspicious, fortunate, prosperous; good (in moral sense), 
 righteous, virtuous, honest; pure; eminent, distinguished; learned; **शुभम्** is the 
-singular accusative case ending. 
+neuter, singular, accusative case ending that directly modifies the main noun 
+**हृदयम्** (hṛdayam) ("the heart-mantra") from the previous clause. 
 
-**अजय**, mfn. unconquered, unsurpassed, invincible; **अजेय**, mfn. invincible; **अजेयं** is the 
-singular accusative case ending with a final nasal. 
+This word should strictly be conjoined with the subsequent vowel according to 
+Sandhi rules; however, it has been kept separate here for introductory learning purposes.
 
-|<b><font size = "6">सर्वभूतानां भवमार्गविशुद्धकम्</font></b>|sarva-bhūtānāṃ bhava-mārga-viśuddhakam|清净一切众生三有道。|
+**अजय**, mfn. unconquered, unsurpassed, invincible; **अजेय**, mfn. invincible; **अजेयं** is 
+the neuter, singular, accusative case ending with a final nasal (by sandhi rule). 
+
+|<span id="line05"><b><font size = "6">सर्वभूतानां भवमार्गविशुद्धकम्</font></b></span>|sarva-bhūtānāṃ bhava-mārga-viśuddhakam|清净一切众生三有道（生死轮回之道）。|
 
 Bh. *sarva-satvānām*. Bh. *bhaga*, Am. *vaga*, Ji. *bhavamata*, Ko. *bhavamara*, 
 stand for *bhava-mārga*.
@@ -389,10 +396,14 @@ the wind and the stars);
 **विशुद्ध**, vi-śuddha, mfn. completely cleansed or purified (also in a ritual sense), 
 clean, clear, pure; 
 
-**कम्**, kam, ind. well (opposed to a-kam, “ill”); a particle placed after the word 
-to which it belongs with an affirmative sense, “yes,” “well”; 
+**विशुद्धकम्**, vi-śuddha-ka-m, is the accusative case ending of a compound word. 
+When the suffix -ka (क) is attached to an adjective or noun like viśuddha 
+(purified/pure), it can mean "making or causing" something (e.g., viśuddha = pure
+,viśuddha-ka = the thing that causes purity/the purifier). At the end of a sentence, 
+where Sandhi is inactive, the nasal -m (म्) is simply the standard neuter singular 
+accusative ending.
 
-|<b><font size = "6">तद्यथा</font></b>|tadyathā|其咒如下：|
+|<span id="line06"><b><font size = "6">तद्यथा</font></b></span>|tadyathā|其咒如下：|
 
 **यथा**, ind. in which manner or way, according as, as, like (followed by tathā, 
 yathā-tathā, “as surely as” - “so truly”); as, for instance, namely (also 
@@ -405,7 +416,7 @@ so let it be;”); yes, so be it, so it shall be; so also, in like manner;
 yathā tathā in whatever way, in any way, by all means; yathā yathā - tathā tathā 
 in whatever manner or degree-in that manner or degree the more-the more; 
 
-|<b><font size = "6">ॐ अपलोक लोकातिक्रान्त</font></b>|oṃ apaloka lokātikrānta|唵，眷顾，超越世界者，|
+|<span id="line07a"><b><font size = "6">ॐ अपलोक लोकातिक्रान्त</font></b></span>|oṃ apaloka lokātikrānta|唵，眷顾，超越世界者，|
 
 Bh. *avaloka e*, Am. *apaloka e* (a Central Asia form of Avalok[ita]), Ji. *avaloke 
 (=avaloka e)*, Ko. *āloke(=āloka e)*. The vocative particle *e* is common in Gītagovinda. 
@@ -427,11 +438,12 @@ invading, gone to or against ; overcome (as by astonishment); surpassed;
 
 **अतिक्रान्त**, mfn. having passed or transgressed; exceeded, surpassed, overcome.
 
-|<b><font size = "6">एहि हरे महाबोधिसत्त्व सर्प सर्प</font></b>|ehi hare mahābodhisattva sarpa-sarpa|来吧，诃利啊，伟大的菩提萨埵，降临，降临。|
+|<span id="line07b"><b><font size = "6">एहि हरे महाबोधिसत्त्व सर्प सर्प</font></b></span>|ehi hare mahābodhisattva sarpa-sarpa|来吧，诃利啊，伟大的菩提萨埵，降临，降临。|
 
 Ji. Ko. *hey ehi*. Ko. omits *sarpa-sarpa*. 
 
-**एहि**, (Impv.) come near!
+**इहि**, ihi, The raw command form (Imperative) to go. √इ (i). 
+**आ + इहि = एहि**, (2nd-Person Singular Impv.) come near! 
 
 **हरि, हर**, m. N. of Vāyu (god of the wind); N. of Indra; N. of Vishṇu-Kṛishṇa (in 
 this sense thought by some to be derived from √hṛ, “to take away or remove evil 
@@ -439,19 +451,19 @@ or sin”); N. of Brahmā, of Yama, of Śiva, of Śukra, of Su-parṇa, of a son
 of a Dānava (Asura), of a son of Parāvṛit; **हरे** is the old usage of vocative case ending. 
 It could be understood as the **internal potency/energy of mahābodhisattva**. 
 
-**सर्प**， sarpá, mf(ī)n. creeping, crawling, stealing along. The literal meaning 
-of sarpa-sarpa is ‘seep in, glide in'. It is the slow but steady, gentle yet 
-gradual pervasion of the human mind with the essence of Avalokitesvara. 
-The dhāraṇī can be transcreated and not translated.
+**सर्प**, sarpá, mf(ī)n. (√सृप्, sṛp), creeping, crawling, stealing along. 
+It appears in its bare form, entirely lacking any case suffixes. The literal 
+meaning of sarpa-sarpa is ‘seep in, glide in'. It is the slow but steady, gentle 
+yet gradual pervasion of the human mind with the essence of Avalokitesvara. 
+The dhāraṇī can be transcreated and not translated. 
 
-|<b><font size = "6">स्मर स्मर मम हृदयम्</font></b>|smara-smara mama hṛdayam|忆念，忆念我的心（咒）。|
+|<span id="line08"><b><font size = "6">स्मर स्मर मम हृदयम्</font></b></span>|smara-smara mama hṛdayam|忆念，忆念我的心（咒）。|
 
 Bh. *make-make*, Am. *mama*, Ji. *mahe-mahe*, Ko. omits it.
 
 **मम**, máma, gen. (‘s, s’, of) sg. of 1st pers. pron. "my". 
 
-
-|<b><font size = "6">कुरु कुरु कर्म</font></b>|kuru-kuru karma|作，作业。|
+|<span id="line09"><b><font size = "6">कुरु कुरु कर्म</font></b></span>|kuru-kuru karma|作，作业。|
 
 Bh. Am. *karmaṃ*, Ko. adds *sādhaya sādhaya* (to be completed or accomplished). 
 
@@ -459,22 +471,24 @@ Bh. Am. *karmaṃ*, Ko. adds *sādhaya sādhaya* (to be completed or accomplishe
 
 **कर्म**, **कर्मन्**, kárman, n.(√kṛ), act, action, performance, business;
 
-|<b><font size = "6">धुरु धुरु विजयन्ते महाविजयन्ते</font></b>|dhuru-dhuru vijayante mahāvijayante|坚守，坚守，胜利，伟大的胜利者。|
+|<span id="line10"><b><font size = "6">धुरु धुरु विजयन्ते महाविजयन्ते</font></b></span>|dhuru-dhuru vijayante mahāvijayante|坚守，坚守，胜利，伟大的胜利者。|
 
 Ji. Ko. *vijayante mahāvijayante (=vijayanta e mahāvijayanta e)*. Vijayanta is a
 name of Indra, but here it simply means "Oh Victorious One".
 
-**धृ**, 1P.Ā. to hold, bear (also bring forth), carry, maintain, preserve, keep, 
+**धृ**, (dhṛ) 1P.Ā. to hold, bear (also bring forth), carry, maintain, preserve, keep, 
 possess, have, use, employ, practise, undergo; 
 
 **धुरु**, used as an interjection or an expression conveying determination, 
-like "let it be done" or "let it happen." 
+like "let it be done" or "let it happen."  **धर** (dhara), the standard 
+2nd-person singular imperative conjugation of the root **√धृ** (dhṛ). Esoteric 
+shift of vowels to a deep "u" pitch. 
 
 **विजय**, vi-jayá, m. contest for victory, victory, conquest, triumph, superiority; 
 
 **विजयन्त**, vi-jayanta, m. “victorious,” N. of Indra. 
 
-|<b><font size = "6">धर धर धराणीराज</font></b>|dhara-dhara dharaṇī-rāja|守护，守护，（观自在）守护主。|
+|<span id="line11"><b><font size = "6">धर धर धराणीराज</font></b></span>|dhara-dhara dharaṇī-rāja|守护，守护，（观自在）守护主。|
 
 Bh. *dharanisvararāja*, Am. *dharaṇī-rāja* (*rāja* is transcribed in both places 
 in its Prakrit$$^*$$ form rāya). Ji. *dharaindreṇiśvaraya=dharaṇĪndreśvararāja*, 
@@ -492,12 +506,12 @@ Hari-hara, a veiled **allusion** to the origin of the Thousand-armed Āvalokite�
 
 **धर**, dhara, mf(ā)n. (√dhṛ) bearing, supporting; holding, bearing, carrying, wearing, 
 possessing, having, keeping (also in memory), sustaining, preserving, observing; 
-**धरणि**, dharaṇī，the earth. (compare to **धारणी**, dhāraṇī, a mystical verse or charm 
+**धरणि**, dharaṇī, the earth. (compare to **धारणी**, dhāraṇī, a mystical verse or charm 
 used as a kind of prayer to assuage pain)
 
 **राज**,  rāja, m. a king, sovereign, chief or best of its kind; 
 
-|<b><font size = "6">चल-चल मम विमलमूऋत्ते रे</font></b>|cala cala mama vimala-mūṛtte re|动，动，我的无垢化身，哦。|
+|<span id="line12"><b><font size = "6">चल-चल मम विमलमूऋत्ते रे</font></b></span>|cala cala mama vimala-mūṛtte re|动，动，我的无垢化身，哦。|
 
 Ji. *vimal-āmala-mūrtte re*, Ko. *vimal-āmala-mūrtte* (without *re*).
 
@@ -516,7 +530,7 @@ Also, as **मूर्त्ति**, mūrtti.  **मूर्त्ते**, m
 **रे**, re, ind. a vocative particle (generally used contemptuously or to express 
 disrespect; often doubled). 
 
-|<b><font size = "6">एह्येहि कृष्णसर्पोपवीत</font></b>|ehy-ehi kṛṣṇa-sarp-opavīta|来吧，来吧，佩黑蛇圣线的主。|
+|<span id="line13"><b><font size = "6">एह्येहि कृष्णसर्पोपवीत</font></b></span>|ehy-ehi kṛṣṇa-sarp-opavīta|来吧，来吧，佩黑蛇圣线的主。|
 
 Bh. Am. are corrupt beyond redemption. Ji and Ko replace it by *ehy-ehi lokeśvara*. 
 
@@ -531,7 +545,7 @@ thread (upavīta). The black serpent is an antidote to all poisons.
 **उपवीत**,  úpa-vīta, mfn. invested with the sacred thread (worn by the first three 
 classes over the left shoulder and under the right arm). 
 
-|<b><font size = "6">विषविषं प्रणाशय</font></b>|viṣa-viṣaṃ praṇāśaya|以毒攻毒。（毒毒使破坏。）|
+|<span id="line14"><b><font size = "6">विषविषं प्रणाशय</font></b></span>|viṣa-viṣaṃ praṇāśaya|以毒攻毒。请（令其）彻底毁灭。|
 
 Bh. Am. *praśaya*, wherein *ṇā* of *pra[ṇā]śaya* has been missed by oversight. 
 Ji. Ko. have a fuller reading *rāga-viṣaṃ vināśaya। dveṣa-viṣaṃ vināśaya। 
@@ -556,25 +570,58 @@ to substantive = forth, away cf. pra-vṛtti, pra-sthāna;
 nothing, be frustrated or unsuccessful; 
 
 **नाशयति**, Caus. (nāśáyati, epic also °te) to cause to be lost or disappear, drive 
-away, expel, remove, destroy, efface; 
+away, expel, remove, destroy, efface; It's 2nd-person singular imperative 
+(active voice/parasmaipada).
 
-|<b><font size = "6">हुलु हुलु मल्ल हुलु हुलु हरे</font></b>|hulu hulu Malla hulu hulu Hare|呼卢，呼卢，摩罗啊。呼卢，呼卢，诃利啊。|
+|<span id="line15"><b><font size = "6">हुलु हुलु मल्ल हुलु हुलु हरे</font></b></span>|hulu hulu Malla hulu hulu Hare|呼卢，呼卢，摩罗啊。呼卢，呼卢，诃利啊。|
 
 Am. *hulu Hare*, Ji. Ko. *hulu Hare padmanābha* (脐生莲花者). 
 
 **हुलु**, hulu, m. a ram (cf. huḍu). 
 
+In Tantric phonetics, this is an onomatopoetic, commanding seed-syllable that 
+mimics a rapid, pounding, or cascading force invoked to summon the Bodhisattva. 
+Carrying the dynamic meaning of 'Hurry! Hurry!', 'Charge forward!', 
+'Manifest instantly!', or 'Strike away!', it represents the unobstructed, fluid, 
+and rapid descent of Avalokiteśvara’s compassion into the practitioner's consciousness.
+
 **मल्ल**, malla, m. a wrestler or boxer by profession, an athlete, a very strong man; 
 (力士）
 
-|<b><font size = "6">सर सर सिरि सिरि सुरु सुरु</font></b>|sara-sara siri-siri suru-suru|娑罗娑罗，悉唎悉唎，苏卢苏卢。|
+|<span id="line16"><b><font size = "6">सर सर सिरि सिरि सुरु सुरु</font></b></span>|sara-sara siri-siri suru-suru|娑罗娑罗，悉唎悉唎，苏卢苏卢。|
 
 **सर**, sará, mf(ā)n. (fr. √sṛ) fluid, liquid VS. ; cathartic, purgative, laxative;
 going, moving;
 
+Tantric Context: Rooted in √sṛ (to flow, glide, run). It evokes the rapid 
+rushing of water or wind. It means "Flow! Flow!" or "Stream forth!" It commands 
+the cleansing nectar of great compassion to sweep across the universe.
+
 **सिरि**, śiri, m. a murderer, killer; a sword; an arrow; a locust.
 
-|<b><font size = "6">बोधिय बोधिय बोधय बोधय मैत्रेयनीलकण्ठ</font></b>|bodhiya-bodhiya bodhaya-bodhaya maitreya-Nīlakaṇṭha|觉悟，觉悟，令觉悟，令觉悟，慈悲的青颈者啊。|
+Tantric Context: This commands the fierce, slicing aspect of the mantra. 
+It means "Slice down! Sever!" It invokes the sword of transcendental wisdom to 
+cleanly slice through the thick vines of worldly attachments, delusions, 
+and negative habits.
+
+**सु**, sú 5., ind. good, excellent, right, virtuous, beautiful, easy, well, 
+rightly, much, greatly, very, any, easily, willingly, quickly (in older language 
+often with other particles; esp. with u, = “forthwith, immediately;” with mô i.e. 
+mā u, = “never, by no means”； 
+su 3., cl.5 P. Ā. to press out, extract (esp. the juice from the Soma plant for 
+libations) RV. AV. ŚBr. KātyŚr. Up. MBh.; to distil, prepare (wine, spirits &c.) 
+Sch. on Pāṇ. 2-2, 132: Pass. sūyáte: Caus. -sāvayati or -ṣāvayati. 
+
+**सुरु**, The phrase suru-suru is the vocalization of this extraction process 
+running at maximum velocity. It is a direct command to extrude, distil, and 
+cause the sacred juice to stream forth.
+
+Tantric Context: Onomatopoetic for the sound of drinking or showering. 
+It means "Pour down! Shower down!" It represents the gentle, soothing downpour 
+of Amrita (the deathless nectar) onto the scorched minds of sentient beings 
+once their obstacles have been sliced away.
+
+|<span id="line17"><b><font size = "6">बोधिय बोधिय बोधय बोधय मैत्रेयनीलकण्ठ</font></b></span>|bodhiya-bodhiya bodhaya-bodhaya maitreya-Nīlakaṇṭha|觉悟，觉悟，令觉悟，令觉悟，慈悲的青颈者啊。|
 
 Ko. *buddhya-buddhya bodhaya-bodhaya*. 
 
@@ -586,9 +633,9 @@ learn, understand, become or be aware of or acquainted with;
 imperative base. 
 
 **मैत्रेय**, maitreya, mfn. (fr. maitri) friendly, benevolent;  m. N. of a Bodhi-sattva 
-and future Buddha (the 5th of the present age); 
+and future Buddha (the 5th of the present age); The singular vocative case of maitrī. 
 
-|<b><font size = "6">दर्शनेन प्रह्लादयमनः स्वाहा</font></b>|darśanena prahlādaya manaḥ svāhā|显圣愉悦我心，娑婆訶。|
+|<span id="line18"><b><font size = "6">दर्शनेन प्रह्लादयमनः स्वाहा</font></b></span>|darśanena prahlādaya manaḥ svāhā|显圣愉悦我心，娑婆訶。|
 
 Ko. adds *kāmasya* before *darśanena*; (27) Bh. Am. Chin. *paya*, Siddham 
 *pasa = p[rahlada]ya*. 
@@ -610,11 +657,19 @@ desire, mood, temper, spirit ib.;  **मनः**,  manaḥ is the accusative for
 **स्वाहा**, sv-ā́hā, ind. (prob. fr. 5. su and √ah; cf. dur-āhā) hail! hail to! may a 
 blessing rest on! (with dat.; an exclamation used in making oblations to the gods; 
 with √kṛ [ind. p. -kā́ram, or -kṛtya] and acc. “to pronounce the exclamation 
-Svāhā over”) RV. &c. &c.;
+Svāhā over”) RV. &c. &c.; 
 
-|<b><font size = "6">सिद्धाय स्वाहा</font></b>|siddhāya svāhā|为成就者，娑婆訶。|
+**अह्**, √ah, 1., to say, speak RV. &c. ; (with lexicographers) to express, signify; 
+to call (by name, nāmnā) MBh. iii, 16065 ; to call, hold, consider, regard as RV. &c.; 
+to state or declare with reference to (acc.) BṛĀrUp. Śak. Megh. ; to acknowledge, 
+accept, state AitBr. Mn. &c. ; to adjudge anything (acc.) to any one (gen.), Mn. ix, 44. 
 
-**सिद्ध**，siddha, mfn. accomplished, fulfilled, effected, gained, acquired; one who 
+**सु + अह् = स्वाहा**, "An excellent utterance", "A perfect declaration" or 
+"May it be beautifully said/realized!"
+
+|<span id="line19"><b><font size = "6">सिद्धाय स्वाहा</font></b></span>|siddhāya svāhā|为成就者，娑婆訶。|
+
+**सिद्ध**, siddha, mfn. accomplished, fulfilled, effected, gained, acquired; one who 
 has attained his object, successful; one who has attained the highest object, 
 thoroughly skilled or versed in (dat. or comp.); perfected, become perfect, 
 beatified, endowed with supernatural faculties; sacred, holy, divine, illustrious; 
@@ -627,10 +682,10 @@ one who has acquired supernatural powers ib. ;
 
 siddhā, f. a Siddhā or semi-divine female R. (cf. comp.) ; N. of one of the Yoginīs (q.v.)； 
 
-**सिद्धाय**， siddhāya is the accusative case form.
+**सिद्धाय**, siddhāya is the accusative case form.
 
-|<b><font size = "6">महासिद्धाय स्वाहा</font></b>|mahāsiddhāya svāhā|为大成就者，娑婆訶。|
-|<b><font size = "6">सिद्धयोगेश्वराय स्वाहा</font></b>|siddha-yogeśvarāya svāhā|为成就瑜伽主，娑婆訶。|
+|<span id="line20"><b><font size = "6">महासिद्धाय स्वाहा</font></b></span>|mahāsiddhāya svāhā|为大成就者，娑婆訶。|
+|<span id="line21"><b><font size = "6">सिद्धयोगेश्वराय स्वाहा</font></b></span>|siddha-yogeśvarāya svāhā|为成就瑜伽主，娑婆訶。|
 
 **योग**, yóga, m. (√1. yuj; ifc. f(ā).) the act of yoking, joining, attaching, 
 harnessing, putting to (of horses); a yoke, team, vehicle, conveyance; 
@@ -642,8 +697,8 @@ a trick, stratagem, fraud, deceit Mn. Kathās. (cf. yoga-nanda) ;
 
 **योग + ईश्वर = योगेश्वर**, follows vowel sandhi *a + ī = e*. **सिद्धयोगेश्वराय** is the dative case. 
 
-|<b><font size = "6">नीलकण्ठाय स्वाहा</font></b>|Nīlakaṇṭhāya svāhā|为青颈者，娑婆訶。|
-|<b><font size = "6">वराहमुखाय स्वाहा</font></b>|Varāha-mukhāya svāhā|为猪面者，娑婆訶。|
+|<span id="line22"><b><font size = "6">नीलकण्ठाय स्वाहा</font></b></span>|Nīlakaṇṭhāya svāhā|为青颈者，娑婆訶。|
+|<span id="line23"><b><font size = "6">वराहमुखाय स्वाहा</font></b></span>|Varāha-mukhāya svāhā|为猪面尊者，娑婆訶。|
 
 Bh. Am. Chin. *maranara* is corrupted from *Varāha-mukhāya*. Ji. *maranaraa-mukha*, 
 Ko. *varāhamukha*. Ji. Ko. omit *svāhā*.
@@ -659,7 +714,7 @@ tip or point of anything; the edge (of an axe; the nipple (of a breast); the
 surface, upper side; the chief, principal, best; introduction, commencement, 
 beginning; source, cause, occasion of (gen. or comp.);
 
-|<b><font size = "6">नरसिंहमुखाय स्वाहा</font></b>|Narasiṃha-mukhāya svāha|为狮子面者，娑婆訶。|
+|<span id="line24"><b><font size = "6">नरसिंहमुखाय स्वाहा</font></b></span>|Narasiṃha-mukhāya svāha|为人狮面尊者，娑婆訶。|
 
 Chin. *sira* for *nara* is a corruption due to mis-hearing of the recitation 
 and/or misreading of a frayed manuscript. Ji. Ko. *siṃha-mukhāya*.
@@ -671,7 +726,7 @@ of *varāha-mukhāya svāhā। narasiṃha-mukhāya svāhā।*
 Ava-tāra (when he was half man half lion), Kāv. Pur. ; N. of the father of king 
 Bhairava, Cat. ;
 
-|<b><font size = "6">पद्महस्ताय स्वाहा</font></b>|padmahastāya svāhā|为手持莲华者，娑婆訶。|
+|<span id="line25"><b><font size = "6">पद्महस्ताय स्वाहा</font></b></span>|padma-hastāya svāhā|为手持莲华者，娑婆訶。|
 
 Bh. Am. have different transcriptions and the word is distorted in both of them.
 
@@ -688,7 +743,7 @@ haste-√kṛ [as a comp.], “to take by the hand, marry”);
 **पद्महस्त**, adj. holding a lotus; an epithet of Viṣṇu; a lotus like hand; Name of 
 the sun; Name of a Bodhisattva; **पद्महस्ताय**, padmahastāya, is the dative case. 
 
-|<b><font size = "6">चक्रहस्तय स्वाह</font></b>|cakra-hastāya svāhā|为持轮宝者，娑婆訶。|
+|<span id="line26"><b><font size = "6">चक्रहस्तय स्वाह</font></b></span>|cakra-hastāya svāhā|为持轮宝者，娑婆訶。|
 
 Ko. *cakrayuktāya*; Ji omits *svāhā*.
 
@@ -700,7 +755,8 @@ diagram; a cycle, cycle of years or of seasons; “a form of military array (in 
 circular flight (of a bird); a particular constellation in the form of a hexagon; 
 a circle or depression of the body;
 
-|<b><font size = "6">पद्महस्ताय स्वाहा</font></b>|padmahastāya svāhā|为手持莲华者，娑婆訶。|
+|<span id="line27"><b><font size = "6">पद्महस्ताय स्वाहा</font></b></span>|padma-hastāya svāhā|为手持莲华者，娑婆訶。|
+|<span id="line27a"><b><font size = "6">शङ्खशब्दनिबोधनाय स्वाहा</font></b></span>|śaṅkha-śabda-nibodhanāya svāhā|为法螺音觉者，娑婆訶。|
 
 Bh. Am. clearly read *padma-hástāya*, but Ji. Ko. *śaṅkha-śabda-nibodhanāya*. 
 
@@ -717,30 +773,26 @@ a word-termination, affix; a name, appellation, title;
 
 **निबोधन**, nibodhana, Understanding, learning; Acquainting, informing; 
 (synonyms): nibodha. **निबोधनाय**, nibodhanāya, a dative case. 
+**नि + बुध् = निबुध्**, ni-(completely, deeply, down into), √budh (to awaken/know). 
 
-**शङ्खशब्दनिबोधनाय**, śaṅkha-śabda-nibodhanāya，means "for the purpose of informing by 
-the sound of the conch". 为法螺音觉者。
+**शङ्खशब्दनिबोधनाय**, śaṅkha-śabda-nibodhanāya means "To the definitive awakening 
+caused by the sound of the conch". 为法螺音觉者。
 
-|<b><font size = "6">नीलकण्ठव्याघ्राय स्वाहा</font></b>|Nilakaṇṭha-vyāghraya svāhā|为高贵青颈者，娑婆訶。|
+|<span id="line27b"><b><font size = "6">महालकुटधराय स्वाहा</font></b></span>|mahālakuṭa-dharāya svāhā|为持大金刚杵者，娑婆訶。|
 
-The two *svāhā* are replaced in Ji. and Ko. by: *mahālakuṭa-dharāya svāhā। 
-vāma-skandha-deśa-sthita-kṛṣṇ-ājināya svāhā। vyāghra-carma-nivasanāya svāhā।*
+**लकुट**,lakuṭa, m. = laguḍa, a club ĀpŚr. Car.； 
 
-*vyāghra* refers to the prowess of *Nilakaṇṭha* as in the Sanskrit compound 
-*purușa-vyāghra*. It is confirmed by the following word *mahābali-Śaṅkarāya*, 
-where *mahābali* means "exceedingly strong, very powerful or mighty, very 
-efficacious" (MW).
-
-**व्याघ्र**, vyāghrá, m. a tiger; any pre-eminently strong or noble person, 
-“a tiger among men”; 
-
-**लकुट**，lakuṭa, m. = laguḍa, a club ĀpŚr. Car.； 
-
-**लगुड**，laguḍa, m. (cf. lakuṭa) a stick, staff, club MBh. Kāv. &c. ;
+**लगुड**, laguḍa, m. (cf. lakuṭa) a stick, staff, club MBh. Kāv. &c. ;
 
 **महालकुट**, Mahālakuṭa, n. of a nāga king; 
 
+Tantric Context: The sacred, heavy spiritual mace or diamond-reinforced staff 
+wielded by wrathful guardian deities (Vajrapālas) to forcefully crush stubborn 
+illusions and break up heavy karmic density.
+
 **महालकुटधराय**, mahālakuṭa-dharāya, means "to the bearer of the big staff", 为持大金刚杵者。
+
+|<span id="line27c"><b><font size = "6">वामस्कन्धदिशस्थितकृष्णजिनाय स्वाहा</font></b></span>|vāma-skandha-deśa-sthita-kṛṣṇ-ājināya svāhā|为左肩披黑色鹿皮者，娑婆訶。|
 
 **वाम**, vāmá 2., mf(ī́ or ā)n.lovely, dear, pleasant, agreeable, fair, beautiful, 
 splendid, noble; striving after, eager for, intent upon, fond of;
@@ -773,16 +825,48 @@ for a couch seat, covering &c.) ; the hairy skin of a tiger, &c. ;
 **वामस्कन्धदिशस्थितकृष्णजिनाय**, vāma-skandha-deśa-sthita-kṛṣṇ-ajināya, means "To the one 
 adorned with a black deer skin on the left shoulder." 为左肩披黑色鹿皮者。
 
-**चर्मन्**， cárman, n. hide, skin; bark ; parchment; a shield;
+Tantric Context: The antelope skin worn by Avalokiteśvara symbolizes a commitment t
+o unconditional gentleness, non-harming (Ahiṃsā), and aesthetic simplicity. 
+Additionally, it highlights the bodhisattva as an ultimate yogi, embodying ascetic 
+transcendence through detachment from worldly concerns to focus on liberating 
+suffering beings.
 
-**निवसन**， ni-vasana, n. putting on (a garment); cloth, garment; an under garment. 
+|<span id="line27d"><b><font size = "6">व्याघ्रचर्मनिवसनाय स्वाहा</font></b></span>|vyāghra-carma-nivasanāya svāhā|为穿虎皮者，娑婆訶。|
+
+**व्याघ्र**, vyāghrá, m. a tiger; any pre-eminently strong or noble person, 
+“a tiger among men”; 
+
+**चर्मन्**, cárman, n. hide, skin; bark ; parchment; a shield;
+
+**निवसन**, ni-vasana, n. putting on (a garment); cloth, garment; an under garment. 
+**नि + वस् = निवस्**, ni-(down, completely), √vas (to clothe, wear, or put on). 
+**निवसनाय**, ni-vasanāya, a dative case. 
 
 **व्याघ्रचर्मनिवसनाय**, vyāghra-carma-nivasanāya, means "for the one adorned with the tiger 
 skin", 为穿虎皮者。
 
-|<b><font size = "6">महाबलिशंकराय स्वाहा</font></b>|Mahābali-Śaṃkarāya svāhā|为强大的赐福者，娑婆訶。|
+Tantric Context: In ancient India, a tiger skin was the seat and clothing of 
+the most radical, powerful Maha-Yogis (again tracing back to the fierce aspects 
+of Lord Śiva). In Vajrayana iconography, the tiger represents Krodha (anger/wrath) 
+and fierce pride. By killing the tiger and wrapping its skin around his waist 
+as a skirt/garment (nivasana), the Bodhisattva visually demonstrates the absolute 
+subjugation and transmutation of anger into pure, protective awakened energy. 
+It signals that His compassion can weaponize the most terrifying forces of nature 
+to forcefully smash through your heavy karmic roadblocks.
 
-**बलि**， balí, m. tribute, offering, gift, oblation; tax, impost, royal revenue; 
+|<span id="line28"><b><font size = "6">नीलकण्ठव्याघ्राय स्वाहा</font></b></span>|Nilakaṇṭha-vyāghraya svāhā|为高贵青颈者，娑婆訶。|
+
+The two *svāhā* are replaced in Ji. and Ko. by: *mahālakuṭa-dharāya svāhā। 
+vāma-skandha-deśa-sthita-kṛṣṇ-ājināya svāhā। vyāghra-carma-nivasanāya svāhā।*
+
+*vyāghra* refers to the prowess of *Nilakaṇṭha* as in the Sanskrit compound 
+*purușa-vyāghra*. It is confirmed by the following word *mahābali-Śaṅkarāya*, 
+where *mahābali* means "exceedingly strong, very powerful or mighty, very 
+efficacious" (MW).
+
+|<span id="line29"><b><font size = "6">महाबलिशंकराय स्वाहा</font></b></span>|Mahābali-Śaṃkarāya svāhā|为强大的赐福者，娑婆訶。|
+
+**बलि**, balí, m. tribute, offering, gift, oblation; tax, impost, royal revenue; 
 any offering or propitiatory oblation; 
 
 **महाबलि**, mahā́-bali, m. N. of the giant Bali MW; Marathi: m. Great offering; adj. Very powerful.
@@ -805,9 +889,14 @@ knowledge primarily concerned with ritualistic elements in Buddhism. The teachin
 in this text originate from Mañjuśrī and were taught to and by Buddha 
 Śākyamuni in the presence of a large audience (including Śaṅkara). 
 
-|<b><font size = "6">नमो रत्नत्रयाय</font></b>|namo ratna-trayāya|皈依三宝。|
+Tantric Context: While Śaṅkara is most famously a primary name of Lord Śiva in 
+his benevolent, peaceful aspect, in this Tantric Buddhist context, it is fully 
+absorbed as a supreme title for Avalokiteśvara. It praises the Bodhisattva as 
+the ultimate master who pacifies all chaos and establishes absolute, serene 
+tranquility across the universe.
 
-|<b><font size = "6">नम आर्यावलोकितेश्वरय</font></b>|nama āryĀvalokiteśvarāya svāhā|皈依神圣的观自在，娑婆訶。|
+|<span id="line30"><b><font size = "6">नमो रत्नत्रयाय</font></b></span>|namo ratna-trayāya|皈依三宝。|
+|<span id="line31"><b><font size = "6">नम आर्यावलोकितेश्वरय</font></b></span>|nama āryĀvalokiteśvarāya svāhā|皈依神圣的观自在，娑婆訶。|
 
 Am. adds *bodhi*, perhaps an oversight; Bh. adds *oṃ siddhyantu mantra-padāni svāhā*, 
 Ji. adds *samāpta* （concluded）,
@@ -830,7 +919,7 @@ inflected word or the stem of a noun in the middle cases and before some Taddhit
 ## Reference
 
 + A Sanskrit-English Dictionary: Etymologically and philologically arranged with special reference to Cognate Indo-European Languages, 17th Reprint edition. Monier Williams. Delhi, Motilal Banarsidass Publishers (1899). [Cologne Digital Sanskrit Dictionaries](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php){: target="_blank"}; [Fanfoyan Dictionary](https://fdict.cn/){: target="_blank"}
-+ Wisdom Library - the greatest source of ancient and modern knowledge， [https://www.wisdomlib.org/](https://www.wisdomlib.org/){: target="_blank"}.
++ Wisdom Library - the greatest source of ancient and modern knowledge, [https://www.wisdomlib.org/](https://www.wisdomlib.org/){: target="_blank"}.
 + Nīlakaṇṭha Dhāraṇī, Wikipedia, The Free Encyclopedia, 2024.  [https://en.wikipedia.org/wiki/Nīlakaṇṭha_Dhāraṇī](https://en.wikipedia.org/wiki/Nīlakaṇṭha_Dhāraṇī){: target="_blank"}. Accessed 19 May 2024.
 + The Thousand-armed Avalokiteśvara. Lokesh Chandra. New Delhi, Abhinav Publications, Indira Gandhi National Centre for the Arts (1988). ISBN 81-7017-247-0. 
 + T1060：千手千眼觀世音菩薩廣大圓滿無礙大悲心陀羅尼經，T20：密教部類。伽梵達摩 Bhagavaddharma，唐（永徵顯慶中 A.D. 650-660）。 CBETA online. [https://cbetaonline.dila.edu.tw/en/T1060_001](https://cbetaonline.dila.edu.tw/en/T1060_001){: target="_blank"}. 
