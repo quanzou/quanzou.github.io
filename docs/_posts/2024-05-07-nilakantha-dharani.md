@@ -15,7 +15,7 @@ Mahākaruṇika Dhāraṇī or Great Compassion Dhāraṇī/Mantra.
 The vulgate version is one of the three basic sutras of the Zen school of 
 Buddhism in China, Korea and Japan. It is the shortest version and is the only 
 one recited in the monasteries of China, Japan and Korea. The words are divided 
-and numbered. The division of the words，consonants conjunction and vowels 
+and numbered. The division of the words, consonants conjunction and vowels 
 lengthening are not accurate. It was transcribed, in ancient times itself, 
 from a sloppy recitation or from a defective manuscript which was not properly 
 intelligible. （left image: Thousand-armed Avalokiteśvara, Bujo-ji monastery 
@@ -81,7 +81,7 @@ and is for reference only.
 
 $$\color{red}^\dag$$ [शङ्खशब्दनिबोधनाय](#line27a)।  
 [महालकुटधराय](#line27b)।  
-[वामस्कन्धदिशस्थितकृष्णजिनाय](#line27c)।  
+[वामस्कन्धदेशस्थितकृष्णजिनाय](#line27c)।  
 [व्याघ्रचर्मनिवसनाय](#line27d)। 
 
 ### IAST transliteration
@@ -176,16 +176,28 @@ $$\color{red} ^\dag$$ 为法螺音觉者，娑婆訶。为持大金刚杵者，�
 | :-: | :-: | :-: |
 |<span id="line01"><b><font size = "6">नमो रत्नत्रयाय</font></b></span>|namo ratna-trayāya|皈依三宝。|
 
-**नमस्**, ind. a bow, salutation, obeisance, adoration; (this word is, by itself, 
-invariably used with dat. The word has the sense of a noun, but is treated as 
-an indeclinable.) By consonant sandhi rule 2.5, **स्**  changes to **ः**, next, **अः**, 
+**नम्**, nam, cl. 1. P. A. to bend or bow (either trans. or oftener intr.), 
+to bow to, subject or submit one's self (with gen. dat. or acc.); (with hiruk) 
+to turn away, keep aside; to turn towards i.e. to aim at (gen.) with (instr.);
+to yield or give way, keep quiet or be silent; (in gram.) to change a dental 
+letter into a cerebral, Pass. namyate, to be bent or bowed; yield or submit to, 
+Caus. namayati, to cause to bow or sink, incline; (with cāpam) to bend a bow;
+to turn away or ward off; to aim at (gen.); (in gram.) to change a dental letter 
+into a cerebral, Desid. ninaṃsati, Intens. nannamīti; nannamyate, to bow or 
+submit one's self to (dat.);
+
+**नमस्**, namas n. bow, obeisance, reverential salutation, adoration (by gesture 
+or word; often with dat., e.g. rāmāya namaḥ, salutation or glory to Rāma, often ind;
+
+By consonant sandhi rule 2.5, **स्**  changes to **ः**, next, **अः**, 
 preceding soft consonant, becomes **ओ**, by visarga sandhi II.1 (semivowels are 
 soft consonants derived from vowels) . 
 
-**रत्न**,  n. a gift, present,goods, wealth,riches; a jewel, gem, treasure, precious
-stone (the nine jewels are pearl, ruby, topaz, diamond, emerald, lapis lazuli 
-(青金石), coral, sapphire, Gomeda (Hessonite Garnet 黑松石石榴石); hence ratna 
-is a name for the number 9). 
+**रत्न**, ratna n. (√1. rā) a gift, present, goods, wealth, riches; a jewel, gem, treasure, 
+precious stone (the nine j˚ are pearl, ruby, topaz, diamond, emerald, lapis lazuli, 
+coral, sapphire, Gomeda; hence ratna is a N. for the number 9; but accord. to some 14);
+anything valuable or best of its kind (e. g. putra-r˚, an excellent son);
+a magnet, loadstone; water. 
 
 **त्ररया**, mfn. Triple, threefold, consisting of 3, of 3 kinds, etc.; dative case ending:  
 **त्ररया + आय = रत्नत्रयाय**. 
@@ -199,11 +211,13 @@ one who is faithful to the religion of his country; name of the race which
 immigrated from Central Asia into Āryāvarta; a man highly esteemed, a respectable, 
 honourable man. 
 
-**अव**, ind. (the initial **अ** is sometimes dropped) (As a preposition) Away, off, 
-away from, down. 
+**अव**, ind. (as a prefix to verbs and verbal nouns expresses) off, away, down; 
+(exceptionally as a preposition with abl.) down from; 
 
-**लोक्**, 1Ā. to see, view, perceive; **लोकित**, mfn. seen, beheld, viewed (past 
-participle form of the root verb **लोक्**). 
+**लोक्**, lok (connected with √1. ruc) cl. 1. Ā., lokate, to see, behold, perceive, 
+Caus. or cl. 10. lokayati (aor. alulokat); to know, recognize; 
+
+**लोकित**, mfn. seen, beheld, viewed (past participle form of the root verb **लोक्**). 
 
 **ईश्वर**, mfn. able to do, capable of, liable, exposed to etc.; master, lord, prince, 
 king, mistress, queen etc.; God; the Supreme Being; the supreme soul (ātman);
@@ -251,23 +265,42 @@ Ko. *tasmai*.
 
 **तस्य**, 3rd person pronouns **तद्**, genitive (Possession, ‘s, s’, of) case. 
 **तस्मै**, dative case (to/for) in Korean version. 
-The genitive case "his", **तस्य**, functions as the dative case "to him" of the 
-direct recipient. 
+The genitive case "his", **तस्य**, functions as his homage, his bow or his salutation.
 
-**कृ**, 5U. to hurt, injure, kill; 8U. to do, make, perform, accomplish, cause, 
-effect, prepare, undertake; to do anything for the advantage or injury of 
-another (gen. or loc.); to execute, carry out (as an order or command); to 
-manufacture, prepare, work at, elaborate, build; to form or construct one thing 
-out of another (abl. or instr.); to employ, use, make use of (instr.); to 
-compose, describe; to accomplish any period, bring to completion, spend; to 
-place, put, lay, bring, lead, take hold of (acc. or loc. or instr.). ind. p. 
-**कृत्वा** (kṛtvā́) having done, the gerund form, i.e., noun derived from verb participle. 
+**कृ**, kṛ
++ cl. 8. (this is the usual formation in the Brāhmaṇas; Sūtras, and in classical Sanskṛt) P.Ā.
+to do, make, perform, accomplish, cause, effect, prepare, undertake;
+to do anything for the advantage or injury of another (gen. or loc.);
+to execute, carry out (as an order or command);
+to manufacture, prepare, work at, elaborate, build;
+to form or construct one thing out of another (abl. or instr.);
+to employ, use, make use of (instr.);
+to compose, describe;
+to cultivate;
+to accomplish any period, bring to completion, spend;
+to place, put, lay, bring, lead, take hold of; 
+to direct the thoughts, mind, &c. towards any object, turn the attention to, resolve upon, determine on;
+to think of (acc.);
+to make, render;
+to procure for another, bestow, grant (with gen. or loc.);
+Ā. to procure for one's self, appropriate, assume;
+to give aid, help any one to get anything (dat.);
+to make liable to (dat.);
+to injure, violate (e.g. kanyāṃ-√kṛ, to violate a maiden);
+to appoint, institute;
+to give an order, commission;
+to cause to get rid of, free from (abl. or -tas);
+to begin (e.g. cakre śobhayitum purīm, they began to adorn the city);
+to proceed, act, put in practice;
+to worship, sacrifice;
+to make a sound, utter, pronounce, pronounce any formula;
++ cl. 3. P. to make mention of, praise, speak highly of (gen.); 
++ cl. 5.9. P.Ā. kṛṇoti, ˚ṇute, ˚ṇāti, ˚ṇīte, to hurt, injure, kill;
++ **कृत्वा** (kṛtvā́) having done, the gerund form, i.e., noun derived from verb participle. 
 
-**नमस्**,  n. bow, obeisance, reverential salutation, adoration (by gesture or word; 
-often with dat. e.g. rāmāya namaḥ, salutation or glory to Rāma, often ind. 
-[g. svar-ādi]; namas-√kṛ, to utter a salutation, do homage; ind.p. °mas-kṛ́tya 
-[AV. TS. &c.] or °mas-kṛtvā [MBh. BhP.]; námas-kṛta, worshipped, adored) RV. 
-&c. &c.; **नमःकृत्वा**, namaḥkṛtvā, in Korean version. 
+**नमस्कृ**, namas-√kṛ, to utter a salutation, do homage; ind. p. ˚mas-kṛtya or 
+˚mas-kṛtvā; **नमस्कृत्वा**, namaskṛtvā, ind. having saluted reverentially. 
+It's the absolutive/gerund form(绝对式). **नमःकृत्वा**, namaḥkṛtvā, in Korean version.
 
 |<span id="line03c"><b><font size = "6">इमं आर्यावलोकितेश्वरस्तवनं नीलकण्ठनाम</font></b></span>|imaṃ-āryĀvalokiteśvara-stavanaṃ Nīlakaṇṭha-nāma|（我将宣说）此名青颈的圣观自在赞颂。|
 
@@ -289,8 +322,13 @@ kim, and a personal pronoun, partly to point out anything more distinctly and
 emphatically, partly pleonastically. **इमं** is the nasalized singular accusative 
 case, while it is not nasalized in the Korean version **इमम**. 
 
-**स्तु**, stu, 2P. 2Ā. (p. [mostly with pass. sense] stuvāná, stávāna or stavāná, 
-stávamāna), to praise, laud, eulogize, extol, celebrate in song or hymns ; 
+**स्तु**, stu, cl. 2. P. Ā. stauti or stavīti, stute or stuvīte, to praise, laud, 
+eulogize, extol, celebrate in song or hymns (in ritual, ‘to chant’, with loc. 
+of the text from which the Sāman comes), Pass. stūyate (aor. astāvi), to be praised 
+or celebrated; stūyamāna, mfn. being praised, Caus. stāvayati or stavayati 
+(aor. atuṣṭavat; ˚ṭuvat), to praise, celebrate; (stāvayate), to cause to praise 
+or celebrate, Desid. tuṣṭūṣati, ˚te (p.p. tuṣṭūṣita), to wish to celebrate, 
+Intens. toṣṭūyate, toṣṭoti.
 
 **स्तव**, stava, m. praise, eulogy, song of praise, hymn, panegyric. **स्तवन**, stavana, 
 n. praising, praise; pl. songs of praise. **स्तवनं**, stavanaṃ, is the singular 
@@ -309,7 +347,7 @@ sacrificial fire is deposited; of a stalk &c.).
 Am. (Siddham) *herima* = *hṛ[daya]ṃ*. Chin. *vartaṣāmi*, Siddham *vadhaṣami* = 
 *vartayiṣyāmi* 'I will tell'. Compare *vārtā* 'talk' (in Hindi).
 
-**हृदय**,  n. the heart (or region of the heart as the seat of feelings and sensations; 
+**हृदय**, n. the heart (or region of the heart as the seat of feelings and sensations; 
 hṛdaye-√kṛ, “to take to heart”), soul, mind (as the seat of mental operations; 
 capala-hṛdaya, “fickle-minded”); the heart or interior of the body; the heart 
 or centre or core or essence or best or dearest or most secret part of anything; 
@@ -383,9 +421,11 @@ the ghost of a deceased person, a demon, imp, goblin (also m.);
 **भव**, m. (√bhū) coming into existence, birth, production, origin; becoming, 
 turning into; being, state of being, existence, life; worldly existence, the 
 world; (with Buddhists) continuity of becoming (a link in the twelvefold chain 
-of causation) Dharmas.; well-being, prosperity, welfare, excellence; obtaining, 
-acquisition; a god, deity; Three existences includs: Desire Realm (欲界, Kāmadhātu), 
-Form Realm (色界, Rūpadhātu) and Formless Realm (无色界, Arūpadhātu).
+of causation); well-being, prosperity, welfare, excellence; obtaining, 
+acquisition; a god, deity; 
+
+Note: Three existences includs: Desire Realm (欲界, Kāmadhātu), Form Realm 
+(色界, Rūpadhātu) and Formless Realm (无色界, Arūpadhātu).
 
 **मार्ग**, mārga, m. seeking, search, tracing out, hunting; the track of a wild animal, 
 any track, road, path, way to (loc. or comp.) or through (comp.), course (also of 
@@ -393,22 +433,35 @@ the wind and the stars);
 
 **भवमार्ग**, bhava-mārga, can be elegantly translated into Chinese as “三有道”. 
 
+**शुध्**, śudh or śundh cl. 1. P. Ā. śundhati, ˚te, to purify (Ā. ‘one's self’, 
+become or be pure); cl. 4. P. Ā. śudhyati, to be cleared or cleansed or purified, 
+become pure (esp. in a ceremonial sense); to become clear or free from doubts; 
+to be cleared or excused from blame, to be excusable; to purify (esp. in a ceremonial 
+sense); to correct, improve; to remove (impurity or anything noxious);
+to clear off, pay (debts); to acquit, exculpate, justify; to put to test;
+to try, examine, Pañcat; to make clear, explain; to subtract. 
+
 **विशुद्ध**, vi-śuddha, mfn. completely cleansed or purified (also in a ritual sense), 
-clean, clear, pure; 
+clean, clear, pure; Prefix vi- (**वि**), adds an intensive meaning of completely, 
+thoroughly, or distinctly. **शुद्ध**, is the past passive participle of √śudh.
 
 **विशुद्धकम्**, vi-śuddha-ka-m, is the accusative case ending of a compound word. 
 When the suffix -ka (क) is attached to an adjective or noun like viśuddha 
 (purified/pure), it can mean "making or causing" something (e.g., viśuddha = pure
 ,viśuddha-ka = the thing that causes purity/the purifier). At the end of a sentence, 
-where Sandhi is inactive, the nasal -m (म्) is simply the standard neuter singular 
+where Sandhi is inactive, the nasal -m (**म्**) is simply the standard neuter singular 
 accusative ending.
 
 |<span id="line06"><b><font size = "6">तद्यथा</font></b></span>|tadyathā|其咒如下：|
+
+**तद्**, tad, m. he f. she n. it, that, this; **तत्**, tat, the neuter singular 
+nominative/accusative case form.
 
 **यथा**, ind. in which manner or way, according as, as, like (followed by tathā, 
 yathā-tathā, “as surely as” - “so truly”); as, for instance, namely (also 
 tad yathā, “as here follows”); as it is or was (elliptically); that, so that, 
 in order that; as, because, since (yathā-tathā, “as” - “therefore”); as if; 
+**तद्** + **यथा** = **तद्यथा**, it goes like this. 
 
 **तथा**, ind. in that manner, so, thus (the correlative standing in the preceding 
 or in the subsequent clause, e.g. yathā priyaṃ, tathâstu, “as is agreeable, 
@@ -421,17 +474,44 @@ in whatever manner or degree-in that manner or degree the more-the more;
 Bh. *avaloka e*, Am. *apaloka e* (a Central Asia form of Avalok[ita]), Ji. *avaloke 
 (=avaloka e)*, Ko. *āloke(=āloka e)*. The vocative particle *e* is common in Gītagovinda. 
 
-**आलोक**, āloka, m. looking, seeing, beholding; sight, aspect, vision; light, 
-lustre, splendour; glimmer; flattery, praise, complimentary language; 
+**अप**, apa ind. (as a prefix to nouns and verbs, expresses) away, off, back 
+(opposed to *upa, anu, sam, pra*); down (opposed to *ud*); When prefixed to nouns, 
+it may sometimes = the neg. particle *a*, e.g. *apa-bhī*, fearless; or may express 
+deterioration, inferiority; (As a separable particle or adverb in Ved., with abl.) 
+away from, on the outside of, without, with the exception of.
+
+**लोक**, loka, m. free or open space, room, place, scope, free motion; intermediate 
+space; a tract, region, district, country, province; 
+the wide space or world (either ‘the universe’ or ‘any division of it’, esp. 
+‘the sky or heaven’; **3** Lokas are commonly enumerated, viz. heaven, earth, 
+and the atmosphere or lower regions; sometimes only the first two; but a fuller 
+classification gives **7** worlds, viz. 
+  + Bhūr-l˚, the earth; 
+  + Bhuvar-l˚, the space between the earth and sun inhabited 
+  by Munis, Siddhas &c.; 
+  + Svarloka, Indra's heaven above the sun or between it and the polar star; 
+  + Maharloka, a region above the polar star and inhabited by Bhṛgu and other 
+  saints who survive the destruction of the **3** lower worlds; 
+  + Janarloka, inhabited by Brahmā's son Sanat-kumāra &c.; 
+  + Tapar-loka, inh˚ by deified Vairāgins; 
+  + Satya-loka or Brahma-l˚, abode of Brahmā, translation to which exempts from rebirth; 
+
+elsewhere these **7** worlds are described as earth, sky, heaven, middle region, 
+place of re-births, mansion of the blest, and abode of truth; sometimes **14** 
+worlds are mentioned, viz. the **7** above, and **7** lower regions called in 
+the order of their descent below the earth — A-tala, Vi-tala, Su-tala, Rasā-tala, 
+Talā-tala, Mahā-tala, and Pātāla;
 
 **अवलोक**, ava-loka, m. looking upon or at, viewing, look, glance. **अवलोके** is the 
 vocative case ending as in Gītagovinda. 
-
-**लोक**, loká, m. free or open space, room, place, scope, free motion; intermediate 
-space; a tract, region, district, country, province; the wide space or world;
  
-**अति**, áti, ind. As a prefix to verbs and their derivatives, expresses beyond, over, 
-and, if not standing by itself, leaves the accent on the verb or its derivative; 
+**अति**, ati, ind. As a prefix to verbs and their derivatives, expresses beyond, 
+over, and, if not standing by itself, leaves the accent on the verb or its derivative; 
+When prefixed to nouns, not derived from verbs, it expresses beyond, surpassing, as, 
+ati-kaśa, past the whip, ati-mānuṣa, superhuman; As a separable adverb or 
+preposition (with acc.), beyond (with gen.) over, at the top of; is often prefixed 
+to nouns and adjectives, and rarely to verbs, in the sense excessive, extraordinary, 
+intense; excessively, too; exceedingly, very; 
 
 **क्रान्त**, krāntá, mfn. gone, gone over or across ; spread, extended ; attacking, 
 invading, gone to or against ; overcome (as by astonishment); surpassed;
@@ -461,28 +541,72 @@ The dhāraṇī can be transcreated and not translated.
 
 Bh. *make-make*, Am. *mama*, Ji. *mahe-mahe*, Ko. omits it.
 
-**मम**, máma, gen. (‘s, s’, of) sg. of 1st pers. pron. "my". 
+**स्मृ**, smṛ cl. 1. P. smarati, to remember, recollect, bear in mind, call to mind, 
+think of, be mindful of (gen. or acc.; the action remembered is expressed by a p.p. 
+or an impf. with yad, ‘that’, or by a fut. without yad; the fut. may stand with yad, 
+if there are two actions; to remember or think of with sorrow or regret;
+to hand down memoriter, teach, declare; to recite, Pass. smaryate, to be remembered 
+or recorded or declared (as a law) or mentioned in the Smṛti (with na, ‘to be passed 
+over in silence’); to be declared or regarded as, pass for (nom. or loc.), 
+Caus. smārayati, to cause to remember or be mindful of or regret; to remind any 
+one of (two acc. or acc. and gen. or rarely gen. of person); Desid. susmūrṣate, 
+to wish to remember, Intens. sāsmaryate or sāsmarti;
+
+**स्मर**, smara mf(ā)n. remembering, recollecting; m. (ifc. f(ā). ) memory, 
+remembrance, recollection; m. loving recollection, love, (esp.) sexual love;
+Kāma-deva (god of love); an interpreter or explainer of the Veda (and ‘the god of love’); 
+the 7th astrol. mansion; 
+
+**मम**, máma, gen. (‘s, s’, of) sg. of 1st pers. pron. **मद्**/**अस्मद्**, my/our. 
 
 |<span id="line09"><b><font size = "6">कुरु कुरु कर्म</font></b></span>|kuru-kuru karma|作，作业。|
 
 Bh. Am. *karmaṃ*, Ko. adds *sādhaya sādhaya* (to be completed or accomplished). 
 
-**कुरु**,  the second person imperative conjugation of **कृ**: कुरु (kuru) - "Do". 
+**कुरु**, kuru, the second person imperative conjugation of **कृ**, do.
 
-**कर्म**, **कर्मन्**, kárman, n.(√kṛ), act, action, performance, business;
+**कर्मन्**, kárman, n. (√kṛ), act, action, performance, business; office, special duty, 
+occupation, obligation; any religious act or rite (as sacrifice, oblation &c., 
+esp. as originating in the hope of future recompense and as opposed to speculative 
+religion or knowledge of spirit); work, labour, activity (as opposed to rest, praśānti); 
+physicking, medical attendance; action consisting in motion (as the third among 
+the seven categories of the Nyāya (正理派) philosophy; of these motions there are five, 
+viz. ut-kṣepaṇa/Upward, ava-kṣepaṇa/Downward, ā-kuñcana/Bending, prasāraṇa/Extension, 
+and gamana/General locomotion); calculation; product, result, effect; organ of sense; 
+the object; former act as leading to inevitable results, fate (as the certain 
+consequence of acts in a previous life); the tenth lunar mansion; **कर्म**, 
+the singular accusative case. 
 
 |<span id="line10"><b><font size = "6">धुरु धुरु विजयन्ते महाविजयन्ते</font></b></span>|dhuru-dhuru vijayante mahāvijayante|坚守，坚守，胜利，伟大的胜利者。|
 
 Ji. Ko. *vijayante mahāvijayante (=vijayanta e mahāvijayanta e)*. Vijayanta is a
 name of Indra, but here it simply means "Oh Victorious One".
 
-**धृ**, (dhṛ) 1P.Ā. to hold, bear (also bring forth), carry, maintain, preserve, keep, 
-possess, have, use, employ, practise, undergo; 
+**धृ**, (dhṛ) cl. 1. P.Ā. dharati, ˚te, to hold, bear (also bring forth), carry, 
+maintain, preserve, keep, possess, have, use, employ, practise, undergo; 
+to preserve soul or body, continue living, survive; to hold back, keep down, stop, 
+restrain, suppress, resist; to place or fix in, bestow or confer on (loc.);
+to destine for (dat.; Ā. also to be destined for or belong to); to present to (gen.);
+to direct or turn (attention, mind, &c.) towards, fix or resolve upon (loc. or dat.);
+Ā. to be ready or prepared for; P. Ā. to owe anything (acc.) to (dat. or gen.);
+to prolong (in pronunciation); to quote, cite; 
 
 **धुरु**, used as an interjection or an expression conveying determination, 
 like "let it be done" or "let it happen."  **धर** (dhara), the standard 
-2nd-person singular imperative conjugation of the root **√धृ** (dhṛ). Esoteric 
-shift of vowels to a deep "u" pitch. 
+2nd-person singular imperative conjugation of the root **√धृ** (dhṛ). 
+
+Esoteric shift of vowels to a deep "u" pitch. (Meisezahl, R.O., 1962. *The 
+Amoghapāśahṛdaya-dhāraṇī: The Early Sanskrit Manuscript of the Reiunji*. 
+Monumenta Nipponica, 17(1/4), pp.265–328.)
+
+**जि**, ji cl. 1. P. (Atm. when preceded, by parā and vi) 
+to win or acquire (by conquest or in gambling), conquer (in battle), vanquish 
+(in a game or lawsuit), defeat, excel, surpass;
+to conquer (the passions), overcome or remove (any desire or difficulties or diseases);
+to expel from (abl.);
+to win anything (acc.) from (acc.), vanquish anyone (acc.) in a game (acc.);
+to be victorious, gain the upper hand;
+often pr. in the sense of an Impv. ‘long live!’ ‘glory to’; 
 
 **विजय**, vi-jayá, m. contest for victory, victory, conquest, triumph, superiority; 
 
@@ -566,12 +690,14 @@ with a verb, esp. with a verb of motion which is often to be supplied;
 sometimes repeated before the verb; rarely as a separate word); as a prefix 
 to substantive = forth, away cf. pra-vṛtti, pra-sthāna; 
 
-**नश्**, naś, 4P. to be lost, perish, disappear, be gone, run away; to come to 
-nothing, be frustrated or unsuccessful; 
+**नश्**, 
+1. naś or naṃś cl. 1. P. Ā. to reach, attain, meet with, find; 
+2. naś, cl. 4. P. to be lost, perish, disappear, be gone, run away; 
+to come to nothing, be frustrated or unsuccessful; 
 
 **नाशयति**, Caus. (nāśáyati, epic also °te) to cause to be lost or disappear, drive 
-away, expel, remove, destroy, efface; It's 2nd-person singular imperative 
-(active voice/parasmaipada).
+away, expel, remove, destroy, efface; **नाशय**, nāśaya is the 2nd-person singular 
+imperative (active voice/parasmaipada).
 
 |<span id="line15"><b><font size = "6">हुलु हुलु मल्ल हुलु हुलु हरे</font></b></span>|hulu hulu Malla hulu hulu Hare|呼卢，呼卢，摩罗啊。呼卢，呼卢，诃利啊。|
 
@@ -597,20 +723,60 @@ Tantric Context: Rooted in √sṛ (to flow, glide, run). It evokes the rapid
 rushing of water or wind. It means "Flow! Flow!" or "Stream forth!" It commands 
 the cleansing nectar of great compassion to sweep across the universe.
 
-**सिरि**, śiri, m. a murderer, killer; a sword; an arrow; a locust.
+**शिरि**, śiri, m. a murderer, killer; a sword; an arrow; a locust.
 
-Tantric Context: This commands the fierce, slicing aspect of the mantra. 
+**श्री**, śrī,
++ 1. (cf. √śrā) cl. 9. P. Ā. śrīṇati, śrīṇīte, to mix, mingle, cook;
+(= √1. śri), to burn, flame, diffuse light; 
++ 2. mfn. (ifc.) mixing, mingling, mixed with; f. mixing, cooking. 
++ 3. f. (prob. to be connected with √1. śri and also with √1. śrī in the 
+sense of ‘diffusing light or radiance’; nom. śrīs accord. to some also śrī) light, 
+lustre, radiance, splendour, glory, beauty, grace, loveliness; prosperity, 
+welfare, good fortune, success, auspiciousness, wealth, treasure, riches, 
+high rank, power, might, majesty, royal dignity; symbol or insignia of royalty; 
+N. of Lakṣmī (as goddess of prosperity or beauty and wife of Viṣṇu, produced at 
+the churning of the ocean, also as daughter of Bhṛgu and as mother of Darpa);
+N. of Sarasvatī (see -pañcamī); of a daughter of king Su-śarman; of various metres; 
+(the following only in L. ‘a lotus-flower; intellect, understanding; speech; 
+cloves; Pinus Longifolia; Aegle Marmelos; a kind of drug = vṛddhi; 
+N. of a Buddhist goddess and of the mother of the 17th Arhat’); 
+śrī m. N. of the fifth musical Rāga (see rāga); śrī mfn. diffusing light or 
+radiance, splendid, radiant, beautifying, adorning; 
+
+The word śrī is frequently used as an honorific prefix (= ‘sacred’, ‘holy’) 
+to the names of deities (e.g. Śrī-Durgā, Śrī-Rāma), and may be repeated two, 
+three, or even four times to express excessive veneration. (e.g. Śrī-śrī-Durgā &c.); 
+it is also used as a respectful title (like ‘Reverend’) to the names of eminent 
+persons as well as of celebrated works and sacred objects (e.g. Śrī-Jayadeva, 
+ŚrīBhāgavata), and is often placed at the beginning or back of letters, manuscripts,
+ important documents &c.; also before the words caraṇa and pāda ‘feet’, 
+ and even the end of personal names.
+
+Tantric Context: śiri-śiri commands the fierce, slicing aspect of the mantra. 
 It means "Slice down! Sever!" It invokes the sword of transcendental wisdom to 
 cleanly slice through the thick vines of worldly attachments, delusions, 
-and negative habits.
+and negative habits; śrī-śrī invokes and activates the Shaktī (divine, vibrant 
+energy) of the deity. The most coherent interpretation is probably radiance, 
+splendor, enlightened power, manifest! It summons the forces of spiritual and 
+material abundance, designed to instantly shatter the "darkness" of poverty, 
+disease, and spiritual ignorance surrounding the practitioner.
 
-**सु**, sú 5., ind. good, excellent, right, virtuous, beautiful, easy, well, 
-rightly, much, greatly, very, any, easily, willingly, quickly (in older language 
-often with other particles; esp. with u, = “forthwith, immediately;” with mô i.e. 
-mā u, = “never, by no means”； 
-su 3., cl.5 P. Ā. to press out, extract (esp. the juice from the Soma plant for 
-libations) RV. AV. ŚBr. KātyŚr. Up. MBh.; to distil, prepare (wine, spirits &c.) 
-Sch. on Pāṇ. 2-2, 132: Pass. sūyáte: Caus. -sāvayati or -ṣāvayati. 
+**सु**, su, 
+1. cl. 1. P. Ā. savati, ˚te, to go, move;
+2. (= √1. sū) cl. 1. 2. P. to urge, impel, incite;
+3. cl. 5. P. Ā. sunoti, sunute, to press out, extract (esp. the juice from the Soma plant for libations);
+to distil, prepare (wine, spirits &c.); 
+4. (= √2. sū), to beget, bring forth; 
+5. ind., good, excellent, right, virtuous, beautiful, easy, well, rightly, 
+much, greatly, very, any, easily, willingly, quickly (in older language often 
+with other particles; esp. with u, = ‘forthwith, immediately’; with mo i.e. 
+mā u, = ‘never, by no means’; su kam often emphatically with an Impv., e.g. 
+tiṣṭhā su kam maghavan mā parā gāḥ, ‘do tarry O Maghavan, go not past’; su 
+always qualifies the meaning of a verb and is never used independently at the 
+beginning of a verse; in later language it is rarely a separate word, but is 
+mostly prefixed to substantives, adjectives, adverbs and participles, exceptionally 
+also to an ind.p., e.g. su-baddhvā, ‘having well bound’; or even to a finite verb, 
+e.g. su-nirvavau).
 
 **सुरु**, The phrase suru-suru is the vocalization of this extraction process 
 running at maximum velocity. It is a direct command to extrude, distil, and 
@@ -657,12 +823,12 @@ desire, mood, temper, spirit ib.;  **मनः**,  manaḥ is the accusative for
 **स्वाहा**, sv-ā́hā, ind. (prob. fr. 5. su and √ah; cf. dur-āhā) hail! hail to! may a 
 blessing rest on! (with dat.; an exclamation used in making oblations to the gods; 
 with √kṛ [ind. p. -kā́ram, or -kṛtya] and acc. “to pronounce the exclamation 
-Svāhā over”) RV. &c. &c.; 
+Svāhā over”); 
 
-**अह्**, √ah, 1., to say, speak RV. &c. ; (with lexicographers) to express, signify; 
-to call (by name, nāmnā) MBh. iii, 16065 ; to call, hold, consider, regard as RV. &c.; 
-to state or declare with reference to (acc.) BṛĀrUp. Śak. Megh. ; to acknowledge, 
-accept, state AitBr. Mn. &c. ; to adjudge anything (acc.) to any one (gen.), Mn. ix, 44. 
+**अह्**, √ah, 1., to say, speak; (with lexicographers) to express, signify; 
+to call (by name, nāmnā); to call, hold, consider, regard as; to state or declare 
+with reference to (acc.); to acknowledge, accept, state; to adjudge anything 
+(acc.) to any one (gen.). 
 
 **सु + अह् = स्वाहा**, "An excellent utterance", "A perfect declaration" or 
 "May it be beautifully said/realized!"
@@ -680,7 +846,7 @@ any holy personage or great saint (esp. one who has attained to one of the
 states of beatitude cf. sālokya) MBh. Kāv. &c. ; any great adept in magic or 
 one who has acquired supernatural powers ib. ;
 
-siddhā, f. a Siddhā or semi-divine female R. (cf. comp.) ; N. of one of the Yoginīs (q.v.)； 
+siddhā, f. a Siddhā or semi-divine female R. (cf. comp.) ; N. of one of the Yoginīs (q.v.);
 
 **सिद्धाय**, siddhāya is the accusative case form.
 
@@ -689,11 +855,10 @@ siddhā, f. a Siddhā or semi-divine female R. (cf. comp.) ; N. of one of the Yo
 
 **योग**, yóga, m. (√1. yuj; ifc. f(ā).) the act of yoking, joining, attaching, 
 harnessing, putting to (of horses); a yoke, team, vehicle, conveyance; 
-employment, use, application, performance RV. &c. &c. ; equipping or arraying 
-(of an army) MBh. ; fixing (of an arrow on the bow-string) ib. ; putting on 
-(of armour) L. ; a remedy, cure Suśr. ; a means, expedient, device, way, manner, 
-method MBh. Kāv. &c. ; a supernatural means, charm, incantation, magical art ib. ; 
-a trick, stratagem, fraud, deceit Mn. Kathās. (cf. yoga-nanda) ; 
+employment, use, application, performance; equipping or arraying (of an army); 
+fixing (of an arrow on the bow-string); putting on (of armour) a remedy, cure; 
+a means, expedient, device, way, manner, method; a supernatural means, charm, 
+incantation, magical art; a trick, stratagem, fraud, deceit (cf. yoga-nanda); 
 
 **योग + ईश्वर = योगेश्वर**, follows vowel sandhi *a + ī = e*. **सिद्धयोगेश्वराय** is the dative case. 
 
@@ -722,9 +887,8 @@ and/or misreading of a frayed manuscript. Ji. Ko. *siṃha-mukhāya*.
 Ji. and Ko. have the compact reading *varāha-mukha-siṃha-mukhāya svāhā* instead 
 of *varāha-mukhāya svāhā। narasiṃha-mukhāya svāhā।*
 
-**नरसिंह**, nára-siṃha, m. “man-lion,” great warrior MBh. R. ; N. of Vishṇu in his 4th 
-Ava-tāra (when he was half man half lion), Kāv. Pur. ; N. of the father of king 
-Bhairava, Cat. ;
+**नरसिंह**, nára-siṃha, m. “man-lion,” great warrior; N. of Vishṇu in his 4th 
+Ava-tāra (when he was half man half lion); N. of the father of king;
 
 |<span id="line25"><b><font size = "6">पद्महस्ताय स्वाहा</font></b></span>|padma-hastāya svāhā|为手持莲华者，娑婆訶。|
 
@@ -747,13 +911,23 @@ the sun; Name of a Bodhisattva; **पद्महस्ताय**, padmahastāy
 
 Ko. *cakrayuktāya*; Ji omits *svāhā*.
 
-**चक्र**, cakrá, n. (fr. √car?; √1. kṛ Pāṇ.) the wheel (of a carriage, of the Sun's 
-chariot [RV.],of Time [i, 164, 2-48]; °kráṃ-√car, to drive in a carriage ŚBr. vi) 
-RV. &c. ; a potter's wheel; a discus or sharp circular missile weapon 
-(esp. that of Vishṇu); an oil-mill; an astronomical circle; a mystical circle or 
-diagram; a cycle, cycle of years or of seasons; “a form of military array (in a circle)”; 
+**चक्र**, cakra n. the wheel (of a carriage, of the Sun's chariot, of Time; ˚kraṃ-√car, 
+to drive in a carriage); a potter's wheel; a discus or sharp circular missile 
+weapon (esp. that of Viṣṇu); an oil-mill; a circle (kalāpa-, ‘the circle of a peacock's tail’); 
+an astronomical circle (e.g. rāśi-, the zodiac); a mystical circle or diagram; 
+a cycle, cycle of years or of seasons; ‘a form of military array (in a circle)’; 
 circular flight (of a bird); a particular constellation in the form of a hexagon; 
-a circle or depression of the body;
+
++ a circle or depression of the body; for mystical or chiromantic purposes; **6** 
+in number, one above the other, viz. 
+  + 1. mūlādhāra (**मूलाधार**), the parts about the pubis; 
+  + 2. svādhiṣṭhāna (**स्वाधिष्ठान**), the umbilical region; 
+  + 3. maṇi-pūra (**मणिपूर**), the pit of the stomach or epigastrium; 
+  + 4. anāhata (**अनाहत**), the root of the nose; 
+  + 5. viśuddha (**विशुद्ध**), the hollow between the frontal sinuses; 
+  + 6. ājñākhya (**आज्ञाख्य**), the fontanelle or union of the coronal and sagittal sutures;
+  
+  various faculties and divinities are supposed to be present in these hollows); 
 
 |<span id="line27"><b><font size = "6">पद्महस्ताय स्वाहा</font></b></span>|padma-hastāya svāhā|为手持莲华者，娑婆訶。|
 |<span id="line27a"><b><font size = "6">शङ्खशब्दनिबोधनाय स्वाहा</font></b></span>|śaṅkha-śabda-nibodhanāya svāhā|为法螺音觉者，娑婆訶。|
@@ -780,9 +954,9 @@ caused by the sound of the conch". 为法螺音觉者。
 
 |<span id="line27b"><b><font size = "6">महालकुटधराय स्वाहा</font></b></span>|mahālakuṭa-dharāya svāhā|为持大金刚杵者，娑婆訶。|
 
-**लकुट**,lakuṭa, m. = laguḍa, a club ĀpŚr. Car.； 
+**लकुट**,lakuṭa, m. = laguḍa, a club;
 
-**लगुड**, laguḍa, m. (cf. lakuṭa) a stick, staff, club MBh. Kāv. &c. ;
+**लगुड**, laguḍa, m. (cf. lakuṭa) a stick, staff, club;
 
 **महालकुट**, Mahālakuṭa, n. of a nāga king; 
 
@@ -792,13 +966,14 @@ illusions and break up heavy karmic density.
 
 **महालकुटधराय**, mahālakuṭa-dharāya, means "to the bearer of the big staff", 为持大金刚杵者。
 
-|<span id="line27c"><b><font size = "6">वामस्कन्धदिशस्थितकृष्णजिनाय स्वाहा</font></b></span>|vāma-skandha-deśa-sthita-kṛṣṇ-ājināya svāhā|为左肩披黑色鹿皮者，娑婆訶。|
+|<span id="line27c"><b><font size = "6">वामस्कन्धदेशस्थितकृष्णजिनाय स्वाहा</font></b></span>|vāma-skandha-deśa-sthita-kṛṣṇ-ājināya svāhā|为左肩披黑色鹿皮者，娑婆訶。|
 
-**वाम**, vāmá 2., mf(ī́ or ā)n.lovely, dear, pleasant, agreeable, fair, beautiful, 
+**वाम**, vā́ma 
++ 2., mf(ī́ or ā)n.lovely, dear, pleasant, agreeable, fair, beautiful, 
 splendid, noble; striving after, eager for, intent upon, fond of;
-vā́ma 3., mf(ā)n. left, not right, being or situated on the left side (the 
++ 3., mf(ā)n. left, not right, being or situated on the left side (the 
 quivering of the left eye or arm is supposed to be a good omen in women 
-and of the left arm a bad omen in men) ; reverse, adverse, contrary, opposite, 
+and of the left arm a bad omen in men); reverse, adverse, contrary, opposite, 
 unfavourable; crooked, oblique; refractory, coy (in love); acting in the opposite 
 way or differently ; hard, cruel; vile, wicked, base, low, bad;
 
@@ -814,6 +989,35 @@ country, kingdom; institute, ordinance;
 **स्कन्धदेश**, skandhá-deśa, m. the region of the shoulder; the stem of a tree; the 
 part about the shoulders or withers of an elephant (where the driver sits) MW.
 
+**स्था**, sthā 
++ 1. cl. 1. P. Ā. tiṣṭhati, ˚te, to stand, stand firmly, station one's self, s
+tand upon, get upon, take up a position on (with pādābhyām, ‘to stand on the feet’; 
+with jānubhyām, ‘to kneel’; with agre or agratas and gen., ‘to stand or present 
+one's self before’; with puras and with or without gen., ‘to stand up against an enemy &c.’);
+to stay, remain, continue in any condition or action (e.g. with kanyā, ‘to remain 
+a girl or unmarried’; with tūṣṇīm or with maunena instr. ‘to remain silent’; 
+with sukham, ‘to continue or feel well’);
+to remain occupied or engaged in, be intent upon, make a practice of, keep on, 
+persevere in any act (with loc.; e.g. with rājye, ‘to continue governing’; 
+with śāsane, ‘to practise obedience’; with bale, ‘to exercise power’; with sva-dharme, 
+‘to do one's duty’; with sva-karmaṇi, ‘to keep to one's own business’; with saṃśaye, 
+‘to persist in doubting’; also with ind.p., e.g. dharmam āśritya, ‘to practise virtue’);
+to continue to be or exist (as opp. to ‘perish’), endure, last;
+to be, exist, be present, be obtainable or at hand;
+to be with or at the disposal of, belong to (dat. gen., or loc.);
+(Ā. mc. also P.) to stand by, abide by, be near to, be on the side of, adhere or submit to, acquiesce in, serve, obey (loc. or dat.);
+to stand still, stay quiet, remain stationary, stop, halt, wait, tarry, linger, hesitate (see under sthitvā below);
+to behave or conduct one's self (with samam, ‘to behave equally towards any one’ loc.);
+to be directed to or fixed on (loc.);
+to be founded or rest or depend on, be contained in (loc.);
+to rely on, confide in (loc., e.g. mayi sthitvā, ‘confiding in me’);
+to stay at, resort to (acc.);
+to arise from (abl. or gen.);
+to desist or cease from (abl.);
+to remain unnoticed (as of no importance), be left alone (only Impv. and Pot.), Kāv.;
++ 2. sthā (or ṣṭhā), mfn. (nom. m. n. sthās) standing, stationary (often ifc. = 
+‘standing, being, existing in or on or among’, cf. agni-ṣṭhā, ṛta-sthā &c.);
+
 **स्थित**, sthitá, mfn. standing; standing firm; standing, staying, situated, resting 
 or abiding or remaining in; being or remaining or keeping in any state or 
 condition;
@@ -822,11 +1026,11 @@ condition;
 of an antelope, especially a black antelope (which serves the religious student 
 for a couch seat, covering &c.) ; the hairy skin of a tiger, &c. ;
 
-**वामस्कन्धदिशस्थितकृष्णजिनाय**, vāma-skandha-deśa-sthita-kṛṣṇ-ajināya, means "To the one 
+**वामस्कन्धदेशस्थितकृष्णजिनाय**, vāma-skandha-deśa-sthita-kṛṣṇ-ajināya, means "To the one 
 adorned with a black deer skin on the left shoulder." 为左肩披黑色鹿皮者。
 
-Tantric Context: The antelope skin worn by Avalokiteśvara symbolizes a commitment t
-o unconditional gentleness, non-harming (Ahiṃsā), and aesthetic simplicity. 
+Tantric Context: The antelope skin worn by Avalokiteśvara symbolizes a commitment 
+to unconditional gentleness, non-harming (Ahiṃsā), and aesthetic simplicity. 
 Additionally, it highlights the bodhisattva as an ultimate yogi, embodying ascetic 
 transcendence through detachment from worldly concerns to focus on liberating 
 suffering beings.
