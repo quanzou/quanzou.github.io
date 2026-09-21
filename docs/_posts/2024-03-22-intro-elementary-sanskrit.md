@@ -268,6 +268,9 @@ before a hard consonant. e.g.: **सुहृद् + सु = सुहृत�
 
 ## Nouns
 
+Sanskrit is a highly **inflected** language, because it relies heavily on both 
+**declension** of nouns and **conjugation** of verbs.  
+
 Nouns are divided into three categories: **Masculine**, **Feminine** and **Neuter**.
 Every noun has 8 cases, appearing in singular, dual and plural forms:
 1. nominative (Subject)
@@ -342,9 +345,10 @@ and (b) nouns expressing family relations: **पितृ**. There are slight di
 in the declension of these two types. All of feminine nouns ending in **ॠ** denote
 family relations, and their the declensions are close to that of masculine family
 relations. Agent nouns ending in **ॠ**  can also be neuter, sharing some
-declensions of masculine agent nouns in **ॠ**. (see der Stenzler, **75-76**).
+declensions of masculine agent nouns in **ॠ**. (see der Stenzler, **75-76**, 
+R. Antoine, **52, 53, 64, 65**).
 
-### Nouns ending in consonants
+### Nouns ending in consonants (one-stem)
 
 Nouns ending in consonants utilize the original source prototype endings, upon
 which all other noun classes are based. They also require the application of
@@ -384,7 +388,7 @@ begin with a vowel, the base is the same as the root **वाज्**।
 |to/for|<b><font size = "6">	वाजे	</font></b>|<b><font color='blue' size = "6">	वाग्भ्याम्	</font></b>|<b><font color='blue' size = "6">	वाग्भ्यः	</font></b>|
 |from|<b><font size = "6">	वाजः	</font></b>|<b><font color='blue' size = "6">	वाग्भ्याम्	</font></b>|<b><font color='blue' size = "6">	वाग्भ्यः	</font></b>|
 |of/’s/s’|<b><font size = "6">	वाजः	</font></b>|<b><font size = "6">	वाजोः	</font></b>|<b><font size = "6">	वाजाम्	</font></b>|
-|in/on/at|<b><font size = "6">	वाजि	</font></b>|<b><font size = "6">	वाजोः	</font></b>|<b><font color='red' size = "6">	वाक्षु	</font></b>su|
+|in/on/at|<b><font size = "6">	वाजि	</font></b>|<b><font size = "6">	वाजोः	</font></b>|<b><font color='red' size = "6">	वाक्षु	</font></b>|
 |Direct Address|<b><font size = "6">	वाक्	</font></b>|<b><font size = "6">	वाजौ	</font></b>|<b><font size = "6">	वाजः	</font></b>|
 
 More examples from consonant sandhi rule 2: (Only endings beginning with
@@ -402,6 +406,20 @@ the base is the same as the roots.)
 |<b>सुहृद्</b>|m. friend|<b>सुहृत्</b>|<b>सुहृद्भ्याम्</b>|<b>सुहृद्भिः</b>|<b>सुहृद्भ्यः</b>|<b>सुहृत्सु</b>|
 |<b>क्षुध्</b>|f. hunger|<b>क्षुत्</b>|<b>क्षुद्भ्याम्</b>|<b>क्षुद्भिः</b>|<b>क्षुद्भ्यः</b>|<b>क्षुत्सु</b>|
 |<b>ककुभ्</b>|f. direction|<b>ककुप्</b>|<b>ककुब्भ्याम्</b>|<b>ककुब्भिः</b>|<b>ककुब्भ्यः</b>|<b>ककुप्सु</b>|
+
+Neuter nouns diff only in 1st, 2nd and 8th cases (from Masculine and Feminine nouns ending in a consonant): 
+
+| :-: | :-: | :-: | :-: |
+|  |S|D|P|
+|1, 2, & 8 cases |<b><font size = "6">	–	</font></b>|<b><font size = "6">	ई	</font></b>ī|<b><font size = "6">	इ	</font></b>i|
+
+For example, **जगत्** (n. world) ending in a consonnant took a **strong form** in 
+the 1st, 2nd, and 8th cases plural, by nasalizing the the final vowel before 
+case-ending **इ**.
+
+| :-: | :-: | :-: | :-: |
+|**जगत्** (n. world) |S|D|P|
+|1, 2, & 8 cases |<b><font size = "6">	जगत्	</font></b>|<b><font size = "6">	जगती	</font></b>ī|<b><font size = "6">	जगन्ति	</font></b>i|
 
 #### Nouns endings in **र्**
 
@@ -450,7 +468,7 @@ becomes **ट् (मधुलिट्)**. In **उपानह्** (shoe), **
 
 #### Neuter Nouns endings in **अस्** **इस्** **उस्**
 
-The final vowels of **अ** **इ** and **उ** are both lengthened and nasalized (insert 
+The final vowels of **अ**, **इ** and **उ** are both lengthened and nasalized (insert 
 anusvāra between the vowels and **स्**) in plural of the 1st, 2nd and 8th cases. The 
 rest declensions are identical to general rules Masculine and Feminine nouns 
 ending in consonants. The neuter prototype endings are: 
@@ -506,6 +524,115 @@ For example, the 3rd, 4th and 5th case double are:
 |in/on/at|**मनसि**|**मनसोः**|**मनःसु**|**हविषि**|**हविषोः**|**हविःषु**|**आयुष**|**आयुषोः**|**आयुःषु**|
 |Direct Address|**मनः**|**मनसी**|**मनांसि**|**हविः**|**हविषी**|**हवींषि**|**आयुः**|**आयुषी**|**आयूंषि**|
 
+### Secondary Nouns ending in consonants (two-stem)
+
+The varieties of nouns (and adjectives) with two-stem are (R. Antoine, **79**): 
+
+1. suffix of **इन्**, **विन्** and **मिन्**.
+
+	|:---:|:---:|
+	|<b>ज्ञान</b> n. knowledge|<b>ज्ञानिन्</b> having knowledge, learned person|
+	|<b>योग</b> m. yoga|<b>योगिन्</b> a yogin, one who has or has achieved yoga|
+	|<b>अर्थ</b>	m. purpose|<b>अर्थिन्</b> having purpose|
+	|<b>बल</b> n. strength|<b>बलिन्</b> having strength, strong|
+	|<b>धन</b> n. wealth|<b>धनिन्</b> having wealth, wealthy (man)|
+	|<b>स्व</b> one's own|<b>स्वामिन्</b> having what is one's own, self mastery, a master|
+	|<b>माया</b> f. illusion|<b>मायाविन्</b> possessing illusion, a magician|
+	|<b>तेजस्</b> n. light|<b>तेजस्विन्</b> having light, lustrous|
+
+2. suffix of **मत्** (**मतुप्**) and **वत्** (**वतुप्**).
+
+	|:---:|:---:|
+    |<b>बल</b> n. strength|<b>बलवत्</b> having strength, strong|
+	|<b>धन</b> n. wealth|<b>धनवत्</b> having wealth, wealthy (man)|
+	|<b>ज्ञान</b> n. knowledge|<b>ज्ञानवत्</b>  having knowledge, learned (man)|
+	|<b>भग</b> m. fortune|<b>भगवत्</b> possessing majesty, holy, the Divine One (God)|
+	|<b>भू</b> (cl. 1. P.) to be, to exist|<b>भवत्$$^*$$</b> your being/honor|
+	|<b>श्री</b> f. splendor, prosperity|<b>श्रीमत्</b> having splendor, glorious, prosperous|
+	|<b>हनु</b> m. jaw|<b>हनुमत्</b> having a jaw, Hanumān the monkey|
+
+	$$^*$$**भवत्** is derived from the verbal root **भू** (cl. 1. P.) to be, to exist. 
+	The final root vowel undergoes guṇa substitution, changing **भू** to **भो**. 
+	Upon the addition of the present active participial suffix **अत्**, **भो** becomes 
+	**भव्** by vowel sandhi, producing **भव् + अत् = भवत्**.
+
+#### Masculine and Neuter Nouns endings in **इन्**
+
++ The **strong stem** (in <font color='black'>black</font>) ending in **इन्**, 
+occurs before all case-endings beginning with vowel. 
++ The **weak stem** (in <font color='gray'>gray</font>) ending in **इ**, occurs 
+before all case-endings beginning with consonant: **भ्याम्**, **भिः**, **भ्यः**, and **सु**.
++ In 1st singular masculine, the final **न्** is dropped and the preceding **इ्** is lengthened. 
++ In 1st, 2nd and 8th neuter plural, the preceding **इ्** is lengthened. 
+
+| :-: | :-: | :-: | :-: |
+| **Masc.** |S|D|P|
+|Subject|<b><font size = "6">	ई	</font></b>ī|<b><font size = "6">	इनौ	</font></b>inau|<b><font size = "6">	इनः	</font></b>inaḥ|
+|Direct Object|<b><font size = "6">	इनम्	</font></b>inam|<b><font size = "6">	इनौ	</font></b>inau|<b><font size = "6">	इनः	</font></b>inaḥ|
+|by/with|<b><font size = "6">	इना	</font></b>inā|<b><font color='gray' size = "6">	इभ्याम्	</font></b>ibhyām|<b><font color='gray' size = "6">	इभिः	</font></b>ibhiḥ|
+|to/for|<b><font size = "6">	इने	</font></b>ine|<b><font color='gray' size = "6">	इभ्याम्	</font></b>ibhyām|<b><font color='gray' size = "6">	इभ्यः	</font></b>ibhyaḥ|
+|from|<b><font size = "6">	इन	</font></b>inaḥ|<b><font color='gray' size = "6">	इभ्याम्	</font></b>ibhyām|<b><font color='gray' size = "6">	इभ्यः	</font></b>ibhyaḥ|
+|of/’s/s’|<b><font size = "6">	इनः	</font></b>inaḥ|<b><font size = "6">	इनोः	</font></b>inoḥ|<b><font size = "6">	इनाम्	</font></b>inām|
+|in/on/at|<b><font size = "6">	इनि	</font></b>ini|<b><font size = "6">	इनोः	</font></b>inoḥ|<b><font color='gray' size = "6">	इषु	</font></b>iṣu|
+|Direct Address|<b><font size = "6">	इन्	</font></b>in|<b><font size = "6">	इनौ	</font></b>inau|<b><font size = "6">	इनः	</font></b>inaḥ|
+
+Neuter nouns ending in **इन्** diff only in 1st, 2nd and 8th cases (from masculine nouns ending in **इन्**):
+
+| **Neut.** |S$$^*$$|D|P|
+|1, 2 & 8 cases |<b><font color='gray' size = "6">	इ	</font></b>i|<b><font color='gray' size = "6">	इनी	</font></b>inī|<b><font size = "6">	ईनि	</font></b>īni|
+
+$$^*$$ the final **न्** is dropped.
+
+E.g., adjectives **ज्ञानिन्** (mfn. knowledgable) ending in **इन्** may also be used to modify 
+neuter nouns. 
+
+| **Neut.** |S|D|P|
+|1, 2 & 8 cases |<b><font color='gray' size = "6">	ज्ञानि	</font></b>jñāni|<b><font color='gray' size = "6">	ज्ञानिनी	</font></b>jñāninī|<b><font size = "6">	ज्ञानीनि	</font></b>jñānīni|
+
+#### Masculine and Neuter Nouns endings in **मत्** (**मतुप्**) and **वत्** (**वतुप्**)
+
++ The **strong stem** (in <font color='black'>black</font>) ends in **अन्त्**.
++ The **weak stem** (in <font color='gray'>gray</font>) ends in **अत्**.
++ The 1st singular masculine lengthens the **अ** into **आ**.
++ The **strong stem** only exists in the 1st, 2nd and 8th neuter plural. 
+
+| :-: | :-: | :-: | :-: |
+| **Masc.** |S|D|P|
+|Subject|<b><font size = "6">	आन्	</font></b>ān|<b><font size = "6">	अन्तौ	</font></b>antau|<b><font size = "6">	अन्तः	</font></b>antaḥ|
+|Direct Object|<b><font size = "6">	अन्तम्	</font></b>antam|<b><font size = "6">	अन्तौ	</font></b>antau|<b><font color='gray' size = "6">	अतः	</font></b>ataḥ|
+|by/with|<b><font color='gray' size = "6">	अता	</font></b>atā|<b><font color='gray' size = "6">	अद्भ्याम्	</font></b>adbhyām|<b><font color='gray' size = "6">	अद्भिः	</font></b>adbhiḥ|
+|to/for|<b><font color='gray' size = "6">	अते	</font></b>ate|<b><font color='gray' size = "6">	अद्भ्याम्	</font></b>adbhyām|<b><font color='gray' size = "6">	अद्भ्यः	</font></b>adbhyaḥ|
+|from|<b><font color='gray' size = "6">	अतः	</font></b>ataḥ|<b><font color='gray' size = "6">	अद्भ्याम्	</font></b>adbhyām|<b><font color='gray' size = "6">	अद्भ्यः	</font></b>adbhyaḥ|
+|of/’s/s’|<b><font color='gray' size = "6">	अतः	</font></b>ataḥ|<b><font color='gray' size = "6">	अतोः	</font></b>atoḥ|<b><font color='gray' size = "6">	अताम्	</font></b>atām|
+|in/on/at|<b><font color='gray' size = "6">	अति	</font></b>ati|<b><font color='gray' size = "6">	अतोः	</font></b>atoḥ|<b><font color='gray' size = "6">	अत्सु	</font></b>atsu|
+|Direct Address|<b><font size = "6">	अन्	</font></b>an|<b><font size = "6">	अन्तौ	</font></b>antau|<b><font size = "6">	अन्तः	</font></b>antaḥ|
+
+Neuter nouns ending in **अत्** diff only in 1st, 2nd and 8th cases (from masculine nouns ending in **अत्**):
+
+| **Neut.** |S|D|P|
+|1, 2 & 8 cases |<b><font color='gray' size = "6">	अत्	</font></b>at|<b><font color='gray' size = "6">	अती	</font></b>atī|<b><font size = "6">	अन्ति	</font></b>anti|
+
+E.g., adjectives **श्रीमत्** (mfn. glorious) ending in **मत्** may also be used to modify 
+neuter nouns. 
+
+| **Neut.** |S|D|P|
+|1, 2 & 8 cases |<b><font color='gray' size = "6">	श्रीमत्	</font></b>śrīmat|<b><font color='gray' size = "6">	श्रीमती	</font></b>śrīmatī|<b><font size = "6">	श्रीमन्ति	</font></b>śrīmanti|
+
+#### Feminine Nouns endings in **इन्**, **मत्** and **वत्**
+
+Nouns and adjectives ending in consonants that have two stems form their 
+feminine forms as follows:
++ The ending of **वत्** and **मत्**, add **ई** to their **weak stem**: **वती** and **मती**. 
++ The ending of **इन्** add **ई** to the **strong stem**: **इनी**
+
+These feminine forms are then declined as feminine nouns ending in **ई**. 
+When used as adjectives, the feminine forms agree with and modify feminine nouns. 
+
+|:---:|:---:|
+|<b>योगिनी</b> f. a yoginī|<b>धनवती</b> f. wealthy (woman)|
+|<b>ज्ञानिनी</b> f. learned (woman)|<b>भगवती</b> f. holy, Goddess|
+|<b>भवती</b> f. your being - you grace|<b>श्रीमती</b> f. glorious, prosperous|
+
 ### Adjectives
 
 Adjectives may modify or describe Masculine, Feminine or Neuter nouns. They must
@@ -554,8 +681,9 @@ $$^*$$ exceptions: 11-**एका**, 82-**द्वि**, 83-**त्रि**, 1
 48-98 **अष्टा/अष्ट**. 
 
 $$^\dag$$ **एकोन** (ekona) means "one less"; **ऊन** (ūna) means "less" or "minus". 
-19. **एकोन-/ऊन-विंशति**, 29. **एकोन-/ऊन-त्रिंशत्**, 39. **एकोन-/ऊन-चत्वारिंशत्**, 49. **एकोन-/ऊन-पञ्चाशत्**, 59. **एकोन-/ऊन-षष्टि**, 
-69. **एकोन-/ऊन-सप्तति**, 79. **एकोनाशीति/ऊनाशीति**, 89. **एकोन-/ऊन-नवति**, 99. **एकोन-/ऊन-शतम्**. 
+
+19\. **एकोन-/ऊन-विंशति**, 29. **एकोन-/ऊन-त्रिंशत्**, 39. **एकोन-/ऊन-चत्वारिंशत्**, 49. **एकोन-/ऊन-पञ्चाशत्**, 59. **एकोन-/ऊन-षष्टि**, 
+69\. **एकोन-/ऊन-सप्तति**, 79. **एकोनाशीति/ऊनाशीति**, 89. **एकोन-/ऊन-नवति**, 99. **एकोन-/ऊन-शतम्**. 
 
 Numbers between 100~200, 200~300 etc. are expressed by **अधिक** (plus) added to the 
 number 1~99. 
@@ -691,17 +819,17 @@ mood and tense:
 + persons: thrid, second, first
 + voices$$^*$$: active, middle, passive
 + moods$$^\dag$$: indicative, optative/potential, imperative
-+ tenses$$^\ddagger$$: present, imperfect, perfect, aorist, periphrastic future, simple future, conditional.
++ tenses$$^\ddagger$$: present, past (imperfect/perfect/aorist), periphrastic future, simple future, conditional.
 
 $$^*$$ The active voice (**परस्मैपदी**, parasmaipadī) - actions done for the sake of another;
-the middle voice (**आत्मनेपदी**, ātmanepadī) - actions done for the sake of onself; The
-All verbs form the passive voice with middle voice's enddings.
+the middle voice (**आत्मनेपदी**, ātmanepadī) - actions done for the sake of onself; 
+All verbs form the passive voice taking ātmanepadī endings.
 
-$$^\dag$$ The optative mood indicates a wish or hope regarding a given action, it's closely
-related to the subjunctive mood. English has no morphological optative, but
-various constructions impute an optative meaning.
+$$^\dag$$ The optative mood (愿望式) indicates a wish or hope regarding a given action, 
+it's closely related to the subjunctive mood. English has no morphological optative, 
+but various constructions impute an optative meaning.
 
-$$^\ddagger$$ The aorist tense is a verb tense in classical Greek and other inflected languages.
+$$^\ddagger$$ The aorist tense (过去不定时) is a verb tense in classical Greek and other inflected languages.
 It indicates a past action without specifying whether the action was continuous or momentary;
 The imperfect tense is a verb tense used to describe ongoing or habitual actions in the past.
 
@@ -716,7 +844,7 @@ for 2nd, 3rd etc. house verbs by placing the letter **अ** and in some cases **
 4. If verbal **bases** of the 1st, 4th, 6th, & 10th house end in a consonant, then
 the beginning vowels **अ** or **आ** of the endings become the vowel of the final consonant.
 
-### First Conjugation
+### First Conjugation (Present/Past)
 
 The first family (gaṇa) of verbs is known as **भ्वादि** (**भू-आदि**) meaning "its first verb is **भू**".
 When a verb root (**धातु**) ends with vowel or has short vowel immediately before a
@@ -776,7 +904,7 @@ When the verb begins with a vowel, the augment **आ** forms *vṛddhi* with the
 initial vowel. **आ-इच्छत् = ऐच्छत्** (he desired); **आ-उज्झ = औज्झन्** (they abandoned); 
 **आ-ऋध् = आर्ध्यम्** (I proposed).
 
-### 4th, 6th and 10th Conjugation
+### 4th, 6th and 10th Conjugation (Present/Past)
 
 The 4th, 6th and 10th house verbs share the same present and past endings as the 
 1st house verbs, but form their bases differently: 
@@ -835,7 +963,7 @@ present/past(imperfect) conjugations between the Active and Passive voice.
 | :-: | :-: | :-: | :-: | :-: | :-: |:-: |
 |||Active (3rd S)|||Passive (3rd S)||
 |root|base|present tense Ā|past tense Ā|base|present tense|past tense|
-|**मुद्** (1Ā) enjoy|**मोद्**|**मोदते**|**अमोदत**|**मुद्य्**|**मोद्यते**|**अमोद्यत**|
+|**मुद्** (1Ā) enjoy|**मोद्**|**मोदते**|**अमोदत**|**मुद्य्**|**मुद्यते**|**अमुद्यत्**|
 |**युध्** (4Ā) fight|**युध्य्**|**युध्यते**|**अयुध्यत**|**युध्य्**|**युध्यते**|**अयुध्यत**|
 |**क्षिप्** (6Ā) throw|**क्षिप्**|**क्षिपते**|**अक्षिपत**|**क्षिप्य्**|**क्षिप्यते**|**अक्षिप्यत**|
 |**मृग्** (10Ā) seek|**मृगय्**|**मृगयते**|**अमृगयत**|**मृग्य्**|**मृग्यते**|**अमृग्यत**|
@@ -861,7 +989,7 @@ Vocabulary of Verbs root and their bases (active/passive):
 
 | :-: | :-: | :-: | :-: | :-: |
 ||1st|4th|6th|10th|
-|Parasmaipadī|**अर्च् (अर्च्/अर्च्य्)** worship|**दुह् (दुह्य्/दुह्य्)** bear malice|**कृत् (कृत्/कृत्य्)** cut||
+|Parasmaipadī|**अर्च् (अर्च्/अर्च्य्)** worship|**दुह् (दुह्य्/दुह्य्)** bear malice|**कृत् (कृत्/कृत्य्)** cut|**चुर् (चोरय्/चोर्य्)** steal|
 ||**चुम्ब् (चुम्ब्/चुम्ब्य्)** kiss|**शिलष् (शिलष्य्/शिलष्य्)** embrace|**सृज् (सृज्/सृज्य्)** create||
 ||**तप् (तप्/तप्य्)** heat||||
 ||**शुच् (शोच्/शुच्य्)** grieve for||||
@@ -877,7 +1005,563 @@ Vocabulary of Verbs root and their bases (active/passive):
 
 Most verbs of the 10th Gaṇa are Ubhayapaī. The 10th conjugation verbs keep their 
 base strengthening in Passive. For the irregular formation of the passive voice, 
-refer to No. 71 **Change of Voice** in R. Antoine, S.J. (1970). 
+refer to the (3) in the **Change of Voice** of R. Antoine, **71**. 
+
+### The Present Participle
+
+#### The Present Participle Active 
+
+A participle is a verbal adjective derived directly from a verb. A present participle 
+denotes an action that occurs at the same time as the action expressed by the main verb.
+
+The formation of present participles is determined by the two classifications 
+of verbs: Parasmaipadī and Ātmanepadī. In Parasmaipadī verbs of the 1st, 4th, 
+6th, and 10th classes, the present participle is formed by adding the suffix 
+**अत्** to the verbal base.
+
+| :-: | :-: | :-: | :-: | :-: |
+|Parasmaipadī|1st|4th|6th|10th|
+|Root|**बुध्**|**नृत्**|**विद्**|**चुर्**|
+|Base|**बोध**|**नृत्य**|**विन्द्**|**चोरय्**|
+|Present Active Participle Stem|**बोधत्** knowing|**नृत्यत्** dancing|**विन्दत्** finding|**चोरयत्** stealing|
+
+In the **masculine** and **neuter**, the present participle for Parasmaipadī is 
+declined like nouns and adjectives ending in **वत्** and **मत्**, with the 
+following modifications:
+
+1. the nom. sing. masc. does not lengthen the **अ**.
+2. the nom., accus. and vocative dual neuter take the **strong stem** in **अन्त्**, 
+**necessarily** in the 1st, 4th and 10th conjugations, and **optionally** in 
+the 6th conjugation.
+
+| :-: | :-: | :-: | :-: |
+| **Masc.** |S$$^*$$|D|P|
+|Subject|<b><font size = "6">	अन् 	</font></b>an|<b><font size = "6">	अन्तौ	</font></b>antau|<b><font size = "6">	अन्तः	</font></b>antaḥ|
+
+$$^*$$ does not lengthen the **अ**, and the final **न्** is dropped (because a word 
+can not end in a double consonant). 
+
+| **Neut.** |S|D|P|
+|1, 2 & 8 cases |<b><font color='gray' size = "6">	अत्	</font></b>at|<b><font size = "6">	अन्ती	</font></b>antī|<b><font size = "6">	अन्ति	</font></b>anti|
+
+The **feminine** present Parasmaipadī participle is formed by adding **ई** to the 
+**strong form** of the masculine participle. Therefore, instead of the masculine 
+ending **अत्**, the feminine participle takes the ending **अन्ती**. 
+Unlike the masculine stem **बोधत्**, the feminine stem has the form of **बोधन्ती**.
+These feminine participles are declined like feminine nouns ending in **ई**.
+
+To form the present participle active of Ātmanepadī verbs, add the suffix **अमान** 
+to the verbal base. The resulting participle is declined with the ending **अ** 
+in the masculine and neuter, and **आ** in the feminine.
+
+| :-: | :-: | :-: | :-: | :-: |
+|Ātmanepadī|1st|4th|6th|10th|
+|Root|**स्मि**|**श्लिष्**|**मृ**|**पूज्**|
+|Base|**स्मय्**|**श्लिष्य्**|**म्रिय्**|**पूजय्**|
+|Present Active Participle Stem|**स्मयमान** smiling|**श्लिष्यमान** embracing|**म्रियमाण**$$^*$$ dying|**पूज्यमान** worshipping|
+
+$$^*$$ The participle takes the form **म्रियमाण** instead of **म्रियमान** due to 
+a specific internal phonological rule in Sanskrit grammar called **णत्व विधान** 
+(Ṇatva Vidhāna). This rule dictates the mutation of the dental nasal **न** into 
+the retroflex nasal **ण**. In this case, the change is triggered by the 
+preceding retroflex consonant **र्** in the stem.
+
+#### The Present Participle Passive 
+
+The Present Participle Passive is formed by adding **अमान** to the passive base 
+of verbs of all 10 Houses. Note: The Passive base of both Parasmaipadī and 
+Ātmanepadī verbs is formedby adding **य्** to the verbal root of Gaṇas 1-9 
+and the (active) verbal base of the 10th Gaṇa (equivalent to dropping **अय्**, 
+then adding **य्**).
+
+| :-: | :-: | :-: | :-: | :-: |
+|Parasmaipadī|1st|4th|6th|10th|
+|Root|**पठ्**|**पुष्**|**प्रच्छ्**|**कथ्**|
+|Active Base|**पठ्**|**पुष्य्**|**पृच्छ्**|**कथय्**|
+|Passive Base|**पठ्य्**|**पुष्य्**|**पृच्छ्य्**|**कथ्य्**|
+|Present Passive Participle Stem|**पठ्यमान** being read|**पुष्यमाण** being nourished|**पृच्छ्यमान** being asked|**कथ्यमान** being told|
+
+| :-: | :-: | :-: | :-: | :-: |
+|Ātmanepadī|1st|4th|6th|10th|
+|Root|**भज्**|**युध्**||**मृग्**|
+|Active Base|**भज्**|**युध्य्**||**मृगय्**|
+|Passive Base|**भज्य्**|**युध्य्**||**मृग्य्**|
+|Present Passive Participle Stem|**भज्यमान** being worshiped|**युध्यमान** being fought||**मृग्यमाण** being sought|
+
+### The Past (perfect) Participle
+
+#### The Past (perfect) Participle Passive (**क्त**)
+
+1. The perfect participle passive (PPP) is formed by adding **त** to the verbal root. 
+(Note: by Pāṇini,500 B.C., the technical term for the PPP, is **क्त**, or **क्+त**. 
+The letter **क्** in grammatical formulae, indicates that the addition of the 
+suffix will not require guṇa of the final or short penultimate vowel of the root.)
+
+    | :-: | :-: | :-: | :-: | :-: | :-: |:-: | :-: | :-: | :-: |
+    |**जि**|**नी**|**हृ**|**स्मृ**|**मृ**|**क्षिप्**|**तप्**|**कृ**|**सू**|**धृ**|
+    |**जित**|**नीत**|**हृत**|**स्मृत**|**मृत**|**क्षिप्त**|**तप्त**|**कृत**|**सूत**|**धृत**|
+    |conquered|led|taken|remembered|dead|thrown|heated|done|brought forth|supported|
+
+2. Most roots, ending in a consonant, insert **इ** before adding **त**. (Note: 
+Roots which take this change are called by the grammatical name, **सेट्** (seṭ),  
+**सेट्** = **स** with + **इट्** the letter **इ**.
+
+	| :-: | :-: | :-: | :-: | :-: | :-: |:-: | :-: | :-: | :-: |
+	|**रक्ष्**|**लिख्**|**निन्द्**|**खाद्**|**रच्**|**कथ्**|**गण्**|**भाष्**|**चिन्त्**|**पत्**|
+	|**रक्षित**|**लिखित**|**निन्दित**|**खादित**|**रचित**|**कथित**|**गणित**|**भाषित**|**चिन्तित**|**पतित**|
+	|protected|written|blamed|eaten|arranged|told|counted|spoken|thought|fallen|
+	|**पठ्**|**पूज्**|**चुम्ब्**|**शिक्ष्**|||||||
+	|**पठित**|**पूजित**|**चुम्बित**|**शिक्षित**|||||||
+	|studied|worshipped|kissed|learned|||||||
+
+3. Some roots, ending in a consonant, do not insert **इ** before **त**, **अनिट्** (aniṭ)
+ = **अन्** not + **इट्** the letter **इ**.
+
+    Roots which take the addition of **त** directly after a final consonant, 
+	require rules of consonant Sandhi, the harmonizing of sounds.
+
+    + Aniṭ root with a final palatal
+
+        + a) Final **च्** of an aniṭ root changes to **क्** before **त**:  
+
+			| :-: | :-: | :-: | :-: |
+			|**मुच्**|**रिच्**|**सिच्**|**वच्**|
+			|**मुक्त**|**रिक्त**|**सिक्त**|**उक्त**|
+			|released|emptied|sprinkled|spoken|
+
+		+ b) Final **ज्** changes to **क्** before **त**:
+
+			| :-: | :-: | :-: |
+			|**त्यज्**|**भुज्**|**युज्**|
+			|**त्यक्त**|**भुक्त**|**युक्त**|
+			|abandoned|enjoyed|united|
+
+		+ c) Sometimes a final **ज्**/**च्छ्**(cch)/**श्** changes to cerebral **ष्** 
+		before **त**. **त** then changes to cerebral **ट**: 
+
+			| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+			|**सृज्**|**यज्**|**प्रच्छ्**|**दृश्**|**दिश्**|**विश्**|**नश्**|
+			|**सृष्ट**|**इष्ट**|**पृष्ट**|**दृष्ट**|**दिष्ट**|**विष्ट**|**नष्ट**|
+			|created|worshipped|asked|seen|shown|entered|lost, destroyed|
+
+    + Aniṭ root with a final cerebral **ष्**. The final **ष्** causes the suffix **त** to change to cerebral **ट**:
+
+		| :-: | :-: | :-: | :-: |
+		|**तुष्**|**पुष्**|**इष्**|**घुष्**|
+		|**तुष्ट**|**पुष्ट**|**इष्ट**|**घुष्ट**|
+		|contented|nourished|desired|proclaimed|
+
+	+ Aniṭ roots with a final Dental or Labial
+
+		+ a) A final **द्** requires a change in suffix, from **त** to **न**. The suffix **न** then causes **द्** to become **न्**:
+
+			| :-: | :-: | :-: | :-: |
+			|**तुद्**|**सद्**|**छिद्**|**भिद्**|
+			|**तुन्न**|**सन्न**|**छिन्न**|**भिन्न**|
+			|struck|seated|cut|separated|
+
+		+ b) A final **ध्/भ्** becomes **द्/ब्** before **त**, respectively. 
+		An aspirated consonant (**ध्/भ्**) cannot be the 1st member of a compound. 
+		The aspiration (breath) is thrown forward to the following letter **त**. 
+		Here **त** becomes aspirated **थ**. The final soft **द्/ब्** of the root 
+		causes the hard aspirate **थ** to become soft aspirate **ध्**:
+
+			| :-: | :-: | :-: | :-: | :-: | :-: |
+			|**बुध्**|**युध्**|**सिध्**|**व्यध्**|**लभ्**|**आरभ्**|
+			|**बुद्ध**|**युद्ध**|**सिद्ध**|**विद्ध**|**लब्ध**|**आरब्ध**|
+			|known|fought|accomplished|pervaded|gotten|begun|
+
+		+ c) A final dental or labial nasal i.e. **न्** or **म्** drops before **त**:
+
+			| :-: | :-: | :-: | :-: | :-: |
+			|**मन्**|**हन्**|**तन्**|**गम्**|**नम्**|
+			|**मत**|**हत**|**तत**|**गत**|**नत**|
+			|thought|killed|extended|gone|bowed|
+
+		+ d) In a final **अम्** of a 4th conjugation root, the **अ** lengthens 
+		as it does in the base of the 4th conjugation, and the final **म्** 
+		becomes dental **न्** before dental **त**:
+
+			| :-: | :-: | :-: | :-: | :-: |
+			|**क्षम्**|**शम्**|**श्रम्**|**क्रम्**|
+			|**क्षान्त**|**शान्त**|**श्रान्त**|**क्रान्त**|
+			|forgiven|become calm|tired|gone|
+
+	+ Aniṭ roots with a final guttural aspirate **ह्**
+
+		Similar to above, the final **ह्** (an aspirate) can not be the first 
+		member of a compound. The aspiration is thrown forward on the suffix **त**, 
+		making it aspirate **थ**. **ह्**, also a guttural soft letter, is 
+		replaced by the guttural soft letter **ग्**. The soft **ग्** then causes 
+		the following **थ** to become soft **ध्**. 
+
+		In some cases, The final guttural soft aspirate **ह्** and the dental 
+		hard **त** are resolved by merging into a cerebral soft aspirate **ढ**. 
+		In this case, a penultimate **उ** of the root lengthens. 
+
+		| :-: | :-: | :-: | :-: | :-: |
+		|**दह्**|**स्निह्**|**रुह्**|**मुह्**|**वह्**|
+		|**दग्ध**|**स्निग्ध**|**रूढ**|**मूढ / मुग्ध**|**ऊढ**|
+		|burnt|loved|grown|confused|carried|
+
+		Also note exceptions: **सह्** endure, **सोढ** endured; **नह्** tie, **नद्ध** tied. 
+
+4. Roots ending in long **ॠ**
+
+	In roots ending in long **ॠ**, **ॠ** becomes **ईर्** in the passive stem; 
+	after a labial consonant (e.g., **पॄ**), it becomes **ऊर्**. The passive suffix 
+	**त** is replaced by **न**, which then becomes cerebral **ण** owing to the 
+	influence of the preceding cerebral **र्**:
+
+	| :-: | :-: | :-: | :-: |
+	|**तॄ**|**जॄ**|**कॄ**|**पॄ**|
+	|**तीर्ण**|**जीर्ण**|**कीर्ण**|**पूर्ण**|
+	|crossed|worn|scattered|full|
+
+5. Roots ending in **आ**
+
+	+ Some roots form Past (perfect) Participle Passive regularly: 
+
+		| :-: | :-: | :-: | :-: |
+		|**पा**|**ज्ञा**|**वा**|**ध्यै**|
+		|**पात**|**ज्ञात**|**वात**|**ध्यात**|
+		|protected|known|blown|meditated|
+
+	+ Roots ending in आ (and roots in ऐ - treated as roots in आ) often form their PPP irregularly:
+
+		| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+		|**स्था**|**मा**|**धा**|**दा**|**पा**|**हा**|**गै**|
+		|**स्थित**|**मित**|**हित**|**दत्त**|**पीत**|**हीन**|**गीत**|
+		|remained|measured|placed|given|drunk|abandoned|sung|
+
+6. Irregular PPP Formations
+
+	| :-: | :-: | :-: |
+	|**पच्**|**जन्**|**शुष्**|
+	|**पक्व**|**जात**|**शुष्क**|
+	|cooked|born|dried|
+
+7. Some PPP formations which have become common nouns or adjectives
+
+	| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+	|**अद्**|**वृध्**|**बुध्**|**युध्**|**चित्**|**गै**|**विद्** (cl. 6)|**हस्**|
+	|**अन्नम्**|**वृद्ध**|**बुद्धः**|**युद्धम्**|**चित्तम्**|**गीता**|**वित्तम्**|**हसितम्**|
+	|food (eaten)|old (increased)|Buddha (awakened)|battle (fought)|perceptual field|song (sung)|wealth (acquired)|laughter|
+
+8. 10th conjugation roots keep the guṇa strengthening of their base, and add **त**. 
+
+	| :-: | :-: |
+	|**चुर्**|**तुल्**|
+	|**चोरित**|**तोलित**|
+	|stolen|weighed|
+
+The Past (perfect) Participle Passive is then declined like: 
+Masculine nouns in **अ**, Feminine nouns in **आ**, and Neuter nouns in **अ**, 
+when modifying Masculine, Feminine and Neuter nouns respectively.
+
+#### The Past (perfect) Participle Active (**क्तवतु**)
+
+The past (perfect) active participles are derived from the past passive participles, 
+by adding to them, the affix **वत्**. 
+
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+||conquer|study|speak|abandon|create|see|cut|know|get|cross|
+|root|**जि**|**पठ्**|**वच्**|**त्यज्**|**सृज्**|**दृश्**|**छिद्**|**बुध्**|**लभ्**|**तॄ**|
+|PPP|**जित**|**पठित**|**उक्त**|**त्यक्त**|**सृष्ट**|**दृष्ट**|**छिन्न**|**बुद्ध**|**लब्ध**|**तीर्ण**|
+|PPA|**जितवत्**|**पठितवत्**|**уक्तवत्**|**त्यक्तवत्**|**सृष्टवत्**|**दृष्टवत्**|**छिन्नवत्**|**बुद्धवत्**|**लब्धवत्**|**तीर्णवत्**|
+
+Past active Participles are declined exactly as Masculine and Neuter nouns/adjectives 
+ending in **वत्**. The Feminine Present Active Participle is formed by adding **ई** 
+to the masculine base, and is declined like feminine nouns ending in **ई**, e.g., 
+**नदी** or **देवी**. 
+
+### The Imperative Mood
+
+The Imperative mood (**लोट्**) is used:
+1. to express a command or an advice
+2. to express a wish or a prayer
+3. to express a possibility or doubt
+4. with the negative **मा** to express prohibition.
+
+The formation of the base follows the rule given for the present tense of the 
+first, fourth, sixth and tenth conjugations. 
+
+The identical Imperative mood and Past tense endings are highlighted 
+in <font color='green'>green</font>. The two forms are distinguished by the 
+augment **अ**, which is prefixed to the verbal base in the Past tense.
+
+| :-: | :-: | :-: | :-: |:-: | :-: | :-: |
+|| |Parasmaipadī| | |Ātmanepadī| |
+|**imperative**|S|D|P|S|D|P|
+|3rd person|<b><font size = "6">	अतु/अतात्	</font></b>atu/atāt|<b><font color='green' size = "6">	अताम्	</font></b>atām|<b><font size = "6">	अन्तु	</font></b>antu|<b><font size = "6">	अताम्	</font></b>atām|<b><font color='green' size = "6">	एताम्	</font></b>etām|<b><font size = "6">	अन्ताम्	</font></b>antām|
+|2nd person|<b><font size = "6">	अ/अतात्	</font></b>a/atāt|<b><font color='green' size = "6">	अतम्	</font></b>atam|<b><font color='green' size = "6">	अत	</font></b>ata|<b><font size = "6">	अस्व	</font></b>asva|<b><font color='green' size = "6">	एथाम्	</font></b>ethām|<b><font color='green' size = "6">	अध्वम्	</font></b>adhvam|
+|1st person|<b><font size = "6">	आनि	</font></b>āni|<b><font color='green' size = "6">	आव	</font></b>āva|<b><font color='green' size = "6">	आम	</font></b>āma|<b><font size = "6">	ऐ	</font></b>ai|<b><font size = "6">	आवहै	</font></b>āvahai|<b><font size = "6">	आमहै	</font></b>āmahai|
+
+Below are some imperative Conjugations for 1,4,6 and 10 houses of verbs: 
+
+| :-: | :-: | :-: | :-: | :-: |
+|Parasmaipadī|1st|4th|6th|10th|
+|Root|**भू**|**शम्**|**सृज्**|**कथ्**|
+|Base|**भो**|**शाम्य्**|**सृज्**|**कथय्**|
+|3rd S.|**भवतु/भवतात्**|**शाम्यतु/शाम्यतात्**|**सृजतु/सृजतात्**|**कथयतु/कथयतात्**|
+|must|be|be peaceful|create|tell|
+
+| :-: | :-: | :-: | :-: | :-: |
+|Ātmanepadī|1st|4th|6th|10th|
+|Root|**वृत्**|**युध्**|**मृ**|**मृग्**|
+|Base|**वर्त्**|**युध्य्**|**म्रिय्**|**मृगय्**|
+|3rd S.|**वर्तताम्**|**युध्यताम्**|**म्रियताम्**|**मृगयताम्**|
+|must|exist|fight|die|seek|
+
+### The Potential(Optative) Mood
+
+The Potential(Optative), interchangeably with the Imperative mood can be used to: 
+
+1. to express a wish or a request
+2. to express an advice
+3. to express possibility or doubt
+4. to express probability or near future
+5. in conditional clauses.
+
+The formation of the base follows the rules given for the present tense of the 
+1st, 4th, 6th and 10th conjugations. Since all the terminations of the Potential 
+begin with **ई**, the combination of the final **अ** of the base with that **ई** 
+will give **ए**:
+
+| :-: | :-: | :-: | :-: |:-: | :-: | :-: |
+|| |Parasmaipadī| | |Ātmanepadī| |
+|**potential** |S|D|P|S|D|P|
+|3rd person|<b><font size = "6">	एत्	</font></b>et|<b><font size = "6">	एताम्	</font></b>etām|<b><font color='red' size = "6">	एयुः	</font></b>eyuḥ|<b><font size = "6">	एत	</font></b>eta|<b><font color='red' size = "6">	एयाताम्	</font></b>eyātām|<b><font color='red' size = "6">	एरन्	</font></b>eran|
+
+|2nd person|<b><font size = "6">	एः	</font></b>eḥ|<b><font size = "6">	एतम्	</font></b>etam|<b><font size = "6">	एत	</font></b>eta|<b><font size = "6">	एथाः	</font></b>ethāḥ|<b><font color='red' size = "6">	एयाथाम्	</font></b>eyāthām|<b><font size = "6">	एध्वम्	</font></b>edhvam|
+
+|1st person|<b><font color='red' size = "6">	एयम्	</font></b>eyam|<b><font size = "6">	एव	</font></b>eva|<b><font size = "6">	एम	</font></b>ema|<b><font color='red' size = "6">	एय	</font></b>eya|<b><font size = "6">	एवहि	</font></b>evahi|<b><font size = "6">	एमहि	</font></b>emahi|
+
+Comparing the past-tense and optative endings shows that most forms are identical 
+except for the initial vowel. The only other differences are coloured in <font color='red'>red</font>.
+
+Below are some potential Conjugations for 1,4,6 and 10 houses of verbs: 
+
+| :-: | :-: | :-: | :-: | :-: |
+|Parasmaipadī|1st|4th|6th|10th|
+|Root|**भू**|**नृत्**|**दिश्**|**घुष्**|
+|Base|**भो**|**नृत्य्**|**दिश्**|**घोषय्**|
+|3rd S.|**भवेत्**|**नृत्येत्**|**दिशेत्**|**घोषयेत्**|
+|should|be|dance|show|proclaim|
+
+| :-: | :-: | :-: | :-: | :-: |
+|Ātmanepadī|1st|4th|6th|10th|
+|Root|**वृत्**|**युध्**|**मृ**|**पाल्**|
+|Base|**वर्त्**|**युध्य्**|**म्रिय्**|**पालय्**|
+|3rd S.|**वर्तेत**|**युध्येत**|**म्रियेत**|**पालयेत**|
+|should|exist|fight|die|protect|
+
+## Indeclinables (अव्यय)
+
+Indeclinables (**अव्यय**) are words that do not undergo inflection. Their form 
+remains unchanged in all cases, genders, and numbers. They are traditionally 
+classified into five types: 
+
+1. Verbal Prefixes (**उपसर्ग**): prefixes attached to verbs and verbal derivatives. 
+Ex. **प्रति** back  **प्रति गम्** go back, return. 
+2. Adverbs: **अत्र** here  **तत्र** there  **तदा** then  **इदानीम्** now
+3. Particles (**निपाताः**): words expressing emphasis, limitation, negation, 
+or discourse functions. Ex. **न** not **हि** indeed
+4. Conjunctions: Ex. **च** and  **किन्तु** but
+5. Interjections: Ex. **आ** (expressing wonder)  **हे** (calling attention)
+
+### Verbal Prefixes
+
+Prefix Prepositions (**उपसर्ग**), when placed before a verb (or their derivatives) 
+can be thought of as forces, which may completely change, or modify, or intensify, 
+or at times, have little effect on the original word. In other words, the 
+meaning of a prefixed root depends on how the force of an upasarga interacts 
+with the verb. The upasargas most commonly used in Sanskrit are:
+
+| Group | Prefix | Meaning | Example | Example Meaning |
+| :-: | :-: | :-: | :-: | :-: |
+| Good vs Bad | **सु** | su, good, well, excellent, easy | **सुगम** | easy to traverse |
+|  | **दुर् / दुस्** | dur/dus, bad, difficult, hard | **दुर्गम** | difficult to traverse |
+| Together vs Apart | **सम्** | sam, together, completely, thoroughly | **संगच्छते** | comes together |
+|  | **वि** | vi, apart, separate, distinct | **विभजति** | divides |
+| Near vs Away | **उप** | upa, near, towards, under | **उपविशति** | sits down, sits near |
+|  | **अप** | apa, away from, off | **अपगच्छति** | goes away |
+| Toward vs Away | **आ** | ā, towards, near, hither | **आगच्छति** | comes |
+|  | **परा** | parā, away, aside, back | **परागच्छति** | goes away |
+| Up vs Down | **उद्** | ud, up, upward, above | **उद्गच्छति** | rises up |
+|  | **नि** | ni, down, into, in | **निपतति** | falls down |
+|  | **अव** | ava, down, away, off | **अवगच्छति** | understands |
+| Away / Out | **निर् / निस्** | nir/nis, out of, away from, without | **निर्मल** | pure, free from impurity |
+| Follow vs Return | **अनु** | anu, after, along, following | **अनुसरति** | follows |
+|  | **प्रति** | prati, towards, back, against, in return | **प्रतिगच्छति** | goes back |
+| Toward / Approach | **अभि** | abhi, toward, against, upon | **अभिगच्छति** | approaches |
+|  | **अपि** | api, near, close to, covering | **अपिधान** | covering, lid |
+| Around | **परि** | pari, around, about, surrounding | **परिभ्रमति** | wanders around |
+| Forward → Beyond → Above | **प्र** | pra, forth, forward, onward | **प्रgच्छति** | goes forth |
+|  | **अति** | ati, beyond, over, excessive | **अतिक्रामति** | goes beyond |
+|  | **अधि** | adhi, over, above, upon | **अधितिष्ठति** | stands over, presides |
+
+When prefixed verbs are used in the past tense, they are placed before the 
+augment **अ**. **अ** continues to immediately precede the verbal base, e.g.,
+
+|:---:|:---:|
+|<b>सम् + अवदताम् = समवदताम्</b>|They both conversed.|
+|<b>नि + अपतन् = न्यपतन्</b>|They all fell down.|
+|<b>अनु + अभवम् = अन्वभवम्</b>|I followed after (experienced).|
+
+### Adverbs
+
+Adverbs describe *when*, *where* and *how* with regard to the action of the verb. 
+Adverbs are generally indeclinable, although they can be derived from a declined 
+form of the noun. For example the adverb **अत्र** here, appears only in the form given; 
+whereas the adverb **सुखेन** happily, or literally, with happiness, is the third 
+case singular of the noun **सुखम्** happiness.
+
+#### Adverbs derived from pronouns with suffix **त्र**/**दा**: 
+
+Common Adverbs describing Place and Time
+
+| Base Pronoun |  | +**त्र** (Place Adverb) |  | +**दा** (Time Adverb) |  |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| **तद्** | that | **तत्र** | there | **तदा** | then |
+| **इदम्** | this | **अत्र** | here | **इदानीम्**$$^*$$ | now |
+| **किम्** | what? | **कुत्र** | where? | **कदा** | when? |
+| **यद्** | which/who | **यत्र** | where | **यदा** | when |
+| **सर्व** | all | **सर्वत्र** | everywhere | **सर्वदा** | always |
+
+$$^*$$ **इदानीम्** is not formed by simply adding **-दा** to **इदम्**, but it functions as the corresponding time adverb meaning "now".
+
+The relative adverbs derived from **यद्** are almost always used along with the 
+demonstrative adverbs derived from **तद्**, e.g., 
+
+|:---:|:---:|
+|<b>यत्र धूमः, तत्र अग्निः।</b>|Where smoke is, there is fire.|
+|<b>यदा शान्तिः, तदा सुखम्।</b>|When there is peace, then there is happiness.| 
+
+#### Adverbs fromed by the indeclinable suffix **तः**
+
+The suffix **तः** added to the base pronoun elements or nouns, forms 
+an indeclinable form of the 5th ablative case, to indicate *from*, or *due to*.
+
+| Base Pronoun |  | +तः Form |  |
+| :-: | :-: | :-: | :-: |
+| **तद्** | that | **ततः** | from that, therefore |
+| **इदम्** | this | **अतः** | from this, therefore, on account of this |
+| **किम्** | what? | **कुतः** | from where?, whence? |
+| **यद्** | which | **यतः** | from which, since, because |
+| **सर्व** | all | **सर्वतः** | from all sides, all around |
+
+Similarly, the relative adverbs **यतः** are also paired with the demonstrative 
+adverbs **ततः**, e.g., 
+
+|:---:|:---:|
+|<b>यतः सत्यम् अस्ति, ततः विश्वासः अस्ति।</b>|Since there is truth, therefore there is trust.|
+
+Unlike -**त्र** and -**दा**, the suffix -**तः** can also be attached directly to nouns:
+
+|:---:|:---:|
+|<b>तत्त्वतः</b>|in reality, in principle, due to reality|
+|<b>धर्मतः</b>|according to dharma, from the standpoint of dharma|
+|<b>योगतः</b>|by yoga, from the standpoint of yoga|
+
+#### Other common adverbs (and particles and conjunctions)
+
+| Adverbs | | Particles | | Conjunctions | |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| **एवम्** | thus, so | **एव** | just, quite, only, alone; surely, really, truly, indeed | **तु** | but; moreover |
+| **इह** | here (in this world) | **अपि** | and, also, moreover; even | **किन्तु** | but; however |
+| **पुनः** | again | **इति** | in this manner; used as a quotation marker | **अथ** | then; next |
+| **पुनः पुनः** | again and again | **हि** | because; indeed; surely |
+| **भूयः** | again; further |
+| **जातु** | at all; ever; at any time |
+| **अथ** | now; then |
+
+Sanskrit indeclinables (**अव्यय**) do not always fit neatly into English 
+grammatical categories. Some words, such as **अथ** and **अपि**, may function 
+differently depending on context.
+
++ **अथ** may function both as an adverb ("now, then") and as a conjunction ("then, next"), depending on context.
++ **अपि** is traditionally classified as a particle, though it may sometimes have a conjunction-like meaning ("and, also").
++ **इति** is commonly called a quotative particle, marking direct speech or thought.
+
+### Indeclinable Past Participle (क्त्वा)
+
+The Indeclinable Past Participle (IPP), also called Gerund/Absolutive/Past Participle Active, 
+never declines. When two different actions are performed by the same agent, 
+the first of the two actions is expressed by the IPP. 
+
+1. Verbs not preceded by a preposition form their IPP by adding **त्वा** (**क्त्वा**) 
+to the root, in a way similar to that of the past (perfect) participle:
+
+	| Class | Formation | Root | PPP | IPP | |
+	| :-: | :-: | :-: | :-: | :-: | :-: |
+	|**सेट्** (seṭ)|+**इ**+**त/त्वा**| **रक्ष्** | **रक्षित** | **रक्षित्वा** | protect/protected/having protected |
+	| | | **भाष्** | **भाषित** | **भाषित्वा** | speak/spoken/having spoken |
+	| | | **लिख्** | **लिखित** | **लिखित्वा**$$^*$$ | write/written/having written |
+	|**अनिट्** (aniṭ)|+**त/त्वा**|**नी**|**नीत**|**नीत्वा**|lead/led/having led|
+	| | | **हृ** | **हृत** | **हृत्वा** | take/taken/having taken |
+	| | | **कृ** | **कृत** | **कृत्वा** | do/done/having done |
+	| | | **क्षिप्** | **क्षिप्त** | **क्षिप्त्वा** | throw/thrown/having thrown |
+	| | **च्** → **क्**| **मुच्** | **मुक्त** | **मुक्त्वा** | release/released/having released |
+	| | | **वच्** | **उक्त** | **उक्त्वा** | speak/spoken/having spoken |
+	| | **ज्** → **क्**| **त्यज्** | **त्यक्त** | **त्यक्त्वा** | abandon/abandoned/having abandoned |
+	| | **ज्** → **ष्**, **त्** → **ट्** | **सृज्** | **सृष्ट** | **सृष्ट्वा** | create/created/having created |
+	| | **च्छ्** → **ष्**, **त्** → **ट्** | **प्रच्छ्** | **पृष्ट** | **पृष्ट्वा** | ask/asked/having asked |
+	| | **श्** → **ष्**, **त्** → **ट्**  | **दृश्** | **दृष्ट** | **दृष्ट्वा** | see/seen/having seen |
+	| | **ष्**,**त्** → **ट्** | **पुष्** | **पुष्ट** | **पुष्ट्वा** | nourish/nourished/having nourished |
+    | | PPP: **द्** + **न** → **न्न**; IPP: **द्** + **त्वा** → **त्त्वा** | **छिद्** | **छिन्न** | **छित्त्वा** | cut/cut/having cut |
+	| | **ध्** → **द्**, **त्** → **ध्** | **बुध्** | **बुद्ध** | **बुद्ध्वा** | know/known/having known |
+	| | **भ्** → **ब्**, **त्** → **ध्** | **लभ्** | **लब्ध** | **लब्ध्वा** | get/gotten/having gotten |
+    | | **न्**/**म्** dropped | **मन्** | **मत** | **मत्वा** | think/thought/having thought |
+	| | | **गम्** | **गत** | **गत्वा** | go/gone/having gone |
+	| | **अ** → **आ**, **म्** → **न्** | **क्षम्**$$^\dag$$ | **क्षान्त** | **क्षान्त्वा** | forgive/forgiven/having forgiven |
+	| | | **क्रम्**$$^\dag$$ | **क्रान्त** | **क्रान्त्वा** | go, walk/gone/having gone |
+	| | **ह्** → **ग्**, **त्** → **ध्** | **दह्** | **दग्ध** | **दग्ध्वा** | burn/burnt/having burnt |
+	| | **ह्** + **त्** → **ढ्**, **उ** → **ऊ** | **मुह्** | **मूढ** | **मूढ्वा**$$^*$$ | be confused/confused/having been confused |
+	| | | **सह्** | **सोढ** | **सोढ्वा**$$^\dag$$ | endure/endured/having endured |
+	| | exception | **वह्** | **ऊढ** | **ऊढ्वा** | carry/carried/having carried |
+	|ending in **आ**(**ऐ**) |+**त/त्वा** | **ज्ञा** | **ज्ञात** | **ज्ञात्वा** | know/known/having known |
+	| | | **ध्यै** | **ध्यात** | **ध्यात्वा** | meditate/meditated/having meditated |
+	| | irregular| **स्था** | **स्थित** | **स्थित्वा** | remain/remained/having remained |
+	| | | **धा** | **हित** | **हित्वा** | place/placed/having placed |
+	|ending in **ॠ** |**ॠ** → **ईर्**; PPP: **त** → **न** → **ण** | **तॄ** | **तीर्ण** | **तीर्त्वा** | cross/crossed/having crossed |
+	| | (**प, ब, भ, म**)+**ॠ** → **ऊर्** | **पॄ** | **पूर्ण** | **पूर्त्वा** | fill/full/having filled |
+
+	| 10th class |PPP: root-based; IPP: keep **अयि** | **चुर्** | **चोरित** | **चोरयित्वा** | steal/stolen/having stolen |
+	| | | **तुल्** | **तोलित** | **तोलयित्वा** | weigh/weighed/having weighed |
+	| | | **रच्** | **रचित** | **रचयित्वा** | arrange/arranged/having arranged |
+	| | | **चिन्त्** | **चिन्तित** | **चिन्तित्वा** | think/thought/having thought |
+
+
+$$^*$$ The seṭ roots with penultimate **इ** or **उ** may optionally take guṇa: **लेखित्वा**, **मोहित्वा**.
+
+$$^\dag$$ Can be treated as the seṭ roots optinally: **क्षमित्वा**, **क्रमित्वा** **सहित्वा**. 
+
+2. verbs preceded by a preposition replace **त्वा** by **य** (**ल्यप्**):
+
+	+ verbs ending with consonants and long vowels simply add **य**
+
+		| Formation | Root | PPP | IPP | |
+		| :-: | :-: | :-: | :-: | :-: |
+		| consonant/long vowel+ **त/य** | **परिशिष्** | **परिशिष्ट** | **परिशिष्य** | leave remaining / left remaining / having left remaining |
+		| | **अनुभू** | **अनुभूत** | **अनुभूय** | experience / experienced / having experienced |
+		| | **आदा** | **आत्त** | **आदाय** | take / taken / having taken |
+
+	+ verbs ending in short vowels add **त्य** instead of **य**
+
+		| Formation | Root | PPP | IPP | |
+		| :-: | :-: | :-: | :-: | :-: |
+		| **i, u, ऋ, ऌ** + **त/त्य** | **विजि** | **विजित** | **विजित्य** | conquer / conquered / having conquered |
+		| | **प्रतिश्रि** | **प्रतिश्रित** | **प्रतिश्रित्य** | resort to/ resorted to / having resorted to |
+		| | **अनुकृ** | **अनुकृत** | **अनुकृत्य** | imitate / imitated / having imitated |
+
+	+ verbs ending in **न्** or **म्** and dropping their final nasal in the perfect passive participle have two forms :
+
+		| Formation | Root | PPP | IPP | |
+		| :-: | :-: | :-: | :-: | :-: |
+		| **न्/म्** dropped (PPP)/optional(IPP) + **य/त्य** | **आगम्** | **आगत** | **आगम्य** / **आगत्य** | come/arrived/having come |
+		| | **प्रणम्** | **प्रणत** | **प्रणम्य** / **प्रणत्य** | bow/bowed/having bowed |
+		| | **अनुमन्** | **अनुमत** | **अनुमन्य** / **अनुमत्य** | approve/approved/having approved |
 
 ## Reference:
 
